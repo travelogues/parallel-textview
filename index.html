@@ -13,21 +13,42 @@
         background-color:#ebebeb;
       }
 
-      #header {
+      #footer {
         position:absolute;
-        height:150px;
-        top:0;
+        height:50px;
+        bottom:0;
         width:100%;
-        background-color:#fff;
-        box-shadow:0px 0px 3px rgba(55, 55, 55, 0.15), 0px 0px 1px rgba(55, 55, 55, 0.1);
+        margin:0 auto;
+        z-index:1;
+      }
+
+      #footer .inner {
+        width:100%;
+        max-width:1200px;
+        margin:0 auto;
+        padding:15px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:15px;
+        font-weight:bold;
+        color:#fff;
+        box-sizing:border-box;
+        background-color:#5b5959;
+      }
+
+      #footer .inner button {
+        background:none;
+        outline:none;
+        text-decoration:underline;
+        color:#fff;
+        border:none;
+        font-weight:bold;
+        font-size:15px;
+        cursor:pointer;
       }
 
       #wrapper {
-        position:absolute;
-        top:150px;
-        bottom:0;
-        left:0;
-        right:0;
+        position:relative;
+        padding-bottom:50px;
         width:100%;
         max-width:1200px;
         margin:0 auto;
@@ -38,6 +59,7 @@
         box-shadow:0px 1px 3px rgba(55, 55, 55, 0.15), 0px 1px 1px rgba(55, 55, 55, 0.1);
         background-color:#fff;
         border-top:1px solid #ebebeb;
+        z-index:0;
       }
 
       #wrapper > div {
@@ -61,10 +83,12 @@
   </head>
 
   <body>
-    <div id="header">
-      <span id="num-aligned"></span> aligned passages
-      <button id="next-passage">Next</button>
-      <button id="prev-passage">Previous</button>
+    <div id="footer">
+      <div class="inner">
+        <span id="num-aligned"></span> aligned passages
+        <button id="next-passage">Next</button>
+        <button id="prev-passage">Previous</button>
+      </div>
     </div>
     <div id="wrapper">
       <div id="column-left" class="pre"></div>
@@ -72,11 +96,12 @@
     </div>
 
     <script>
-      var lastSelectedIndex = 0;
+      var selectedIndex = -1;
+      var numPassages = -1;
 
-      var onNext = function() {
-        var destLeft = document.querySelector('.r6o-annotation[data-id="left_' + lastSelectedIndex + '"]');
-        var destRight = document.querySelector('.r6o-annotation[data-id="right_' + lastSelectedIndex + '"]');
+      var scrollToSelectedIndex = function() {
+        var destLeft = document.querySelector('.r6o-annotation[data-id="left_' + selectedIndex + '"]');
+        var destRight = document.querySelector('.r6o-annotation[data-id="right_' + selectedIndex + '"]');
 
         destLeft.parentNode.parentNode.scrollTo({
           top: destLeft.offsetTop - 150,
@@ -87,11 +112,19 @@
           top: destRight.offsetTop - 150,
           behavior: 'smooth'
         });
-
-        lastSelectedIndex++;
       }
 
-      var scrollToPassages = function(idx, fromSide) {
+      var onNext = function() {
+        selectedIndex = Math.min(selectedIndex + 1, numPassages);
+        scrollToSelectedIndex();
+      }
+
+      var onPrev = function(){
+        selectedIndex = Math.max(0, selectedIndex - 1);
+        scrollToSelectedIndex();
+      }
+
+      var syncPassages = function(idx, fromSide) {
         var toSide = fromSide == 'left' ? 'right' : 'left';
         var destination = document.querySelector('.r6o-annotation[data-id="' + toSide + '_' + idx + '"]');
         
@@ -108,11 +141,12 @@
         r.on('selectAnnotation', function(a) {
           var side = a.id.split('_')[0];
           var idx = a.id.split('_')[1];
-          scrollToPassages(idx, side);
+          syncPassages(idx, side);
         });
 
         r.loadAnnotations('sample-data/' + filename)
          .then(function(annotations) {
+           numPassages = annotations.length;
            document.getElementById('num-aligned').textContent = annotations.length;
          });
       }
@@ -135,6 +169,7 @@
           });
 
         document.getElementById('next-passage').addEventListener('click', onNext);
+        document.getElementById('prev-passage').addEventListener('click', onPrev);
       }
     </script>
   </body>

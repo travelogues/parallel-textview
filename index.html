@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Travelogues | Parallel Text View</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="recogito.min.js"></script>
+    <style>
+      html, body {
+        padding:0;
+        margin:0;
+        height:100%;
+        background-color:#ebebeb;
+      }
+
+      #header {
+        position:absolute;
+        height:150px;
+        top:0;
+        width:100%;
+        background-color:#fff;
+        box-shadow:0px 0px 3px rgba(55, 55, 55, 0.15), 0px 0px 1px rgba(55, 55, 55, 0.1);
+      }
+
+      #wrapper {
+        position:absolute;
+        top:150px;
+        bottom:0;
+        left:0;
+        right:0;
+        width:100%;
+        max-width:1200px;
+        margin:0 auto;
+        height:100%;
+        box-sizing:border-box;
+        display:grid;
+        grid-template-columns: 50% 50%;
+        box-shadow:0px 1px 3px rgba(55, 55, 55, 0.15), 0px 1px 1px rgba(55, 55, 55, 0.1);
+        background-color:#fff;
+        border-top:1px solid #ebebeb;
+      }
+
+      #wrapper > div {
+        padding:20px;
+        box-sizing:border-box;
+        height:100%;
+        overflow-x:hidden;
+        overflow-y:scroll;
+      }
+
+      .pre {
+        line-height:170%;
+        white-space:pre-line;
+      }
+
+      #column-right .r6o-annotation {
+        background-color: rgba(255,0,0,0.2);
+        border-bottom: 2px solid red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="header">
+      <span id="num-aligned"></span> aligned passages
+      <button id="next-passage">Next</button>
+      <button id="prev-passage">Previous</button>
+    </div>
+    <div id="wrapper">
+      <div id="column-left" class="pre"></div>
+      <div id="column-right" class="pre"></div>
+    </div>
+
+    <script>
+      var lastSelectedIndex = 0;
+
+      var onNext = function() {
+        var destLeft = document.querySelector('.r6o-annotation[data-id="left_' + lastSelectedIndex + '"]');
+        var destRight = document.querySelector('.r6o-annotation[data-id="right_' + lastSelectedIndex + '"]');
+
+        destLeft.parentNode.parentNode.scrollTo({
+          top: destLeft.offsetTop - 150,
+          behavior: 'smooth'
+        });
+
+        destRight.parentNode.parentNode.scrollTo({
+          top: destRight.offsetTop - 150,
+          behavior: 'smooth'
+        });
+
+        lastSelectedIndex++;
+      }
+
+      var scrollToPassages = function(idx, fromSide) {
+        var toSide = fromSide == 'left' ? 'right' : 'left';
+        var destination = document.querySelector('.r6o-annotation[data-id="' + toSide + '_' + idx + '"]');
+        
+        var column = destination.parentNode.parentNode;
+        column.scrollTo({
+          top: destination.offsetTop,
+          behaviour: 'smooth'
+        });
+      }
+
+      var initRecogito = function(el, filename) {
+        var r = Recogito.init({ content: el, readOnly:true, mode: 'pre' });
+
+        r.on('selectAnnotation', function(a) {
+          var side = a.id.split('_')[0];
+          var idx = a.id.split('_')[1];
+          scrollToPassages(idx, side);
+        });
+
+        r.loadAnnotations('sample-data/' + filename)
+         .then(function(annotations) {
+           document.getElementById('num-aligned').textContent = annotations.length;
+         });
+      }
+
+      window.onload = function() {
+        fetch('sample-data/Z159574205_cleaned.txt')
+          .then(function(response) { return response.text(); })
+          .then(function(text) {
+            var colLeft = document.getElementById('column-left');
+            colLeft.textContent = text.trim();
+            initRecogito(colLeft, 'annotations.Z159574205.json');
+          });
+
+        fetch('sample-data/Z257381902_cleaned.txt')
+          .then(function(response) { return response.text(); })
+          .then(function(text) {
+            var colRight = document.getElementById('column-right');
+            colRight.textContent = text.trim();
+            initRecogito(colRight, 'annotations.Z257381902.json');
+          });
+
+        document.getElementById('next-passage').addEventListener('click', onNext);
+      }
+    </script>
+  </body>
+</html>

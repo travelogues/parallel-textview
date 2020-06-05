@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <title>Travelogues | Parallel Text View</title>
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="parse-passages.js"></script>
     <script type="text/javascript" src="recogito.min.js"></script>
     <style>
       html, body {
@@ -135,7 +136,7 @@
         });
       }
 
-      var initRecogito = function(el, filename) {
+      var initRecogito = function(el, annotations) {
         var r = Recogito.init({ content: el, readOnly:true, mode: 'pre' });
 
         r.on('selectAnnotation', function(a) {
@@ -144,29 +145,46 @@
           syncPassages(idx, side);
         });
 
-        r.loadAnnotations('sample-data/' + filename)
-         .then(function(annotations) {
-           numPassages = annotations.length;
-           document.getElementById('num-aligned').textContent = annotations.length;
-         });
+        r.setAnnotations(annotations);
+        
+        numPassages = annotations.length;
+        document.getElementById('num-aligned').textContent = annotations.length;
       }
 
       window.onload = function() {
-        fetch('sample-data/Z159574205_cleaned.txt')
-          .then(function(response) { return response.text(); })
-          .then(function(text) {
-            var colLeft = document.getElementById('column-left');
-            colLeft.textContent = text.trim();
-            initRecogito(colLeft, 'annotations.Z159574205.json');
-          });
 
-        fetch('sample-data/Z257381902_cleaned.txt')
-          .then(function(response) { return response.text(); })
-          .then(function(text) {
-            var colRight = document.getElementById('column-right');
-            colRight.textContent = text.trim();
-            initRecogito(colRight, 'annotations.Z257381902.json');
+        BARCODE_A = 'Z257381902'
+        BARCODE_B = 'Z159574205'; // TODO grab from URL hash
+
+        var fetchText = function(barcode) {
+          return fetch('texts/' + barcode + '.txt').then(function(response) {
+            return response.text();
           });
+        };
+
+        // Load both texts...
+        var fLoadTexts = Promise.all([
+          fetchText(BARCODE_A),
+          fetchText(BARCODE_B)
+        ]);
+
+        // ...then load alignment data and init RecogitoJS
+        fLoadTexts.then(function(texts) {
+
+          var colLeft = document.getElementById('column-left');
+          colLeft.textContent = texts[0].trim();
+
+          var colRight = document.getElementById('column-right');
+          colRight.textContent = texts[1].trim();
+
+          fetch('data/' + BARCODE_A + '_' + BARCODE_B + '.json')
+            .then(function(response) { return response.json(); })
+            .then(function(passages) {
+              var annotations = parseAlignedPassages(passages);
+              initRecogito(colLeft, annotations.left);
+              initRecogito(colRight, annotations.right);
+            });
+          });        
 
         document.getElementById('next-passage').addEventListener('click', onNext);
         document.getElementById('prev-passage').addEventListener('click', onPrev);

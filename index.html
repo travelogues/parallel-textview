@@ -153,8 +153,10 @@
 
       window.onload = function() {
 
-        BARCODE_A = 'Z257381902'
-        BARCODE_B = 'Z159574205'; // TODO grab from URL hash
+        var barcodes = window.location.hash.substr(1).split(',').filter(function(str) { return str; });
+
+        BARCODE_A = barcodes.length == 2 ? barcodes[0] : 'Z257381902';
+        BARCODE_B = barcodes.length == 2 ? barcodes[1] : 'Z159574205';
 
         var fetchText = function(barcode) {
           return fetch('texts/' + barcode + '.txt').then(function(response) {

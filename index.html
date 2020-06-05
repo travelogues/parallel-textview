@@ -127,6 +127,8 @@
 
       var syncPassages = function(idx, fromSide) {
         var toSide = fromSide == 'left' ? 'right' : 'left';
+        console.log('scrolling to', idx, 'from', fromSide);
+
         var destination = document.querySelector('.r6o-annotation[data-id="' + toSide + '_' + idx + '"]');
         
         var column = destination.parentNode.parentNode;

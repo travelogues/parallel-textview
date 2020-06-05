@@ -12,14 +12,17 @@ function parseAlignedPassages(passage_data) {
       "type": "Annotation",
       "body": [{
         "type": "TextualBody",
-        "value": passage['text']
+        "value": passage.text
       }],
       "target": {
-        "selector": {
+        "selector": [{
+          "type": "TextQuoteSelector",
+          "exact": passage.text
+        },{
           "type": "TextPositionSelector",
-          "start": passage['start'],
-          "end": passage['end']
-        }
+          "start": passage.start,
+          "end": passage.end
+        }]
       }
     }
   }

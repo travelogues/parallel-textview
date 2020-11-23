@@ -1,0 +1,38 @@
+[
+  {
+    "a": {
+      "start": 47492,
+      "end": 47647,
+      "text": "***\n- -\n*\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n}\n\n\nDes -\nHerr"
+    },
+    "b": {
+      "start": 6120,
+      "end": 6275,
+      "text": "r Band. A\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n}\nJa kinem Lan"
+    }
+  },
+  {
+    "a": {
+      "start": 47490,
+      "end": 47648,
+      "text": "*****\n- -\n*\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n}\n\n\nDes -\nHerrn"
+    },
+    "b": {
+      "start": 703808,
+      "end": 703966,
+      "text": "~\u2022\u2022\u2022\u2022\u2022\n\u00bb-\n\n\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n}\n--\n---- ----\n"
+    }
+  },
+  {
+    "a": {
+      "start": 1162423,
+      "end": 1162500,
+      "text": "-\n- -\n- - - - - -\n- -\n- OSTERREICHISCHE - -\n-\n- -\n- | NAToNALBIBLIoTHEK -\n> "
+    },
+    "b": {
+      "start": 704289,
+      "end": 704366,
+      "text": "/ -\n- - - - -\nV\n- -\n- | \u00d6sTERREICH SCHE\n- - -\n- - - NAT oN ALBIBLIOTHEK\n-\n-\n"
+    }
+  }
+]

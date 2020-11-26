@@ -1,0 +1,86 @@
+[
+  {
+    "a": {
+      "start": 88,
+      "end": 220,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 422149,
+      "end": 422281,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 742,
+      "end": 874,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 422149,
+      "end": 422281,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 264007,
+      "end": 264139,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 422149,
+      "end": 422281,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 264257,
+      "end": 264389,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 422149,
+      "end": 422281,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 346038,
+      "end": 346170,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 422149,
+      "end": 422281,
+      "text": "\n\n{\n \"status code\" : 404,\n \"message\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 221,
+      "end": 329,
+      "text": "\nM a g a z in\nmerkw\u00fcrdigen neuen\nReisebeschreibungen.\nAus fremden Sprachen \u00fcbersetzt\nund mit\nMit Kupfern un"
+    },
+    "b": {
+      "start": 620,
+      "end": 728,
+      "text": "- -\n\n\nMagazin\nmerkw\u00fcrdigen neuen\nReisebeschreibungen.\nAus fremden Sprachen \u00fcbersetzt\nund mit\nerl\u00e4uternden A"
+    }
+  },
+  {
+    "a": {
+      "start": 302,
+      "end": 411,
+      "text": "tzt\nund mit\nMit Kupfern und Landcharten.\nW i e n,\ngedruckt und verlegt bep F. A. Schr\u00e4mbl.\n7 9 2.\n20 3.755 \u2013"
+    },
+    "b": {
+      "start": 753,
+      "end": 862,
+      "text": "hnter Band.\nMit Kupfern und Landcharten.\nW i e n,\ngedruckt und verlegt bey F.A. Schr\u00e4mbl.\n1 7 9 2.\n22 2 EEE "
+    }
+  }
+]

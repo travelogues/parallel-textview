@@ -1,0 +1,38 @@
+[
+  {
+    "a": {
+      "start": 33278,
+      "end": 33354,
+      "text": "\nbetr\u00e4gt der Unter\u017fchied zwi\u017fchen dem h\u00f6ch\u017ften und niedrig-\n\u017ften Stande der"
+    },
+    "b": {
+      "start": 146044,
+      "end": 146120,
+      "text": " Wa\u017f\u017fer. Der Unter\u017fchied zwi\u017fchen dem h\u00f6ch\u017ften und nie-\ndrig\u017ften Wa\u017f\u017fer i\u017ft"
+    }
+  },
+  {
+    "a": {
+      "start": 110574,
+      "end": 110677,
+      "text": "essage\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 1122280,
+      "end": 1122383,
+      "text": "essage\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  },
+  {
+    "a": {
+      "start": 862094,
+      "end": 862197,
+      "text": "essage\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    },
+    "b": {
+      "start": 1122280,
+      "end": 1122383,
+      "text": "essage\" : \"The requested resource was not found. Either the id or the page on this id doesn't exist.\"\n"
+    }
+  }
+]

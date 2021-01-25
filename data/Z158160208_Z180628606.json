@@ -1,0 +1,38 @@
+[
+  {
+    "a": {
+      "start": 2,
+      "end": 94,
+      "text": "K. H OF B I B L | O TH E K\nOSTERR. NATIONALB | BLIOTHEK\n-\nr- - -\nr - - -\nL -\n- -\n- -\n- -\nr "
+    },
+    "b": {
+      "start": 19,
+      "end": 111,
+      "text": "D) F B | B L | (C) T H E K\nOSTERR. NATIONALB | BLIOTHEK\n\n\n\n\n- - - -\n- -\n- -\n- - - - - -\n- -"
+    }
+  },
+  {
+    "a": {
+      "start": 1345844,
+      "end": 1345917,
+      "text": ",\n-\n- -\n- -\n- -\n- - -\n\". - - - -\n- -\n- - -\nBedruckt zu Frankfurt am\nMayn"
+    },
+    "b": {
+      "start": 1309,
+      "end": 1382,
+      "text": " . . . .\" - - -\n- - .\n-- - - - - - - - -\nGedruckt zu Frankfurt am Main m"
+    }
+  },
+  {
+    "a": {
+      "start": 1031643,
+      "end": 1031716,
+      "text": "- - - - - - - -\n- - - - - - - - - - - - - -\nSedruckt in Franckfurt am\nJM"
+    },
+    "b": {
+      "start": 1308,
+      "end": 1381,
+      "text": ". . . . .\" - - -\n- - .\n-- - - - - - - - -\nGedruckt zu Frankfurt am Main "
+    }
+  }
+]

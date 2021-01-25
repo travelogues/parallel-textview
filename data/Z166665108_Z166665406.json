@@ -1,0 +1,26 @@
+[
+  {
+    "a": {
+      "start": 21,
+      "end": 109,
+      "text": " E XC (C) L | T\nK. K . H (D) F B | B | | (C) T H E K\nOSTERR. NATIONALB | BLIOTHEK\n(DS. "
+    },
+    "b": {
+      "start": 50,
+      "end": 138,
+      "text": "--\n0 ( ) (0 0 0\nK. K . H (O) F B | B L | O T H E K\nOSTERR. NATIONALB | BLIOTHEK\n-\n- - -"
+    }
+  },
+  {
+    "a": {
+      "start": 2000,
+      "end": 2080,
+      "text": "/\ndem Hochw\u00fcrdigen F\u00fcrsten ond Herren/\nHerren Hainrichen Bischoffen zu Aug\nspur"
+    },
+    "b": {
+      "start": 2975,
+      "end": 3055,
+      "text": "\n\nFHEIm Hochw\u00fcrdigen\nF\u00fcrsten ond Herrn/ Herrn Hainrich/Bir\nTschofen zu Augung'n"
+    }
+  }
+]

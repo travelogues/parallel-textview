@@ -1,0 +1,26 @@
+[
+  {
+    "a": {
+      "start": 50730,
+      "end": 50804,
+      "text": "| | | | |\nIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
+    },
+    "b": {
+      "start": 12111,
+      "end": 12185,
+      "text": "ETTTT-T\u00ba\u00ba\nIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIII\n\u2013\n-/\n\n\n\n\n-"
+    }
+  },
+  {
+    "a": {
+      "start": 50812,
+      "end": 50884,
+      "text": " HIllTill IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII\n- - - - - -"
+    },
+    "b": {
+      "start": 12112,
+      "end": 12184,
+      "text": "TTTT-T\u00ba\u00ba\nIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIII\n\u2013\n-/\n\n\n\n\n"
+    }
+  }
+]

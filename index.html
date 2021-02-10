@@ -86,9 +86,11 @@
   <body>
     <div id="footer">
       <div class="inner">
-        <span id="num-aligned"></span> aligned passages
+        <span class="num-aligned"></span> aligned passages
         <button id="next-passage">Next</button>
-        <span id="current-index">-</span>
+        <span id="current-index">
+          <input type="text" size="2"> / <span class="num-aligned">-</span>
+        </span>
         <button id="prev-passage">Previous</button>
       </div>
     </div>
@@ -115,7 +117,7 @@
           behavior: 'smooth'
         });
 
-        document.getElementById('current-index').innerHTML = (selectedIndex + 1) + '/' + numPassages;
+        document.querySelector('#current-index input').value = (selectedIndex + 1);
       }
 
       var onNext = function() {
@@ -126,6 +128,15 @@
       var onPrev = function(){
         selectedIndex = Math.max(0, selectedIndex - 1);
         scrollToSelectedIndex();
+      }
+
+      var onGoTo = function(str) {
+        var idx = parseInt(str);
+
+        if (!isNaN(idx)) {
+          selectedIndex = idx - 1;
+          scrollToSelectedIndex();
+        }
       }
 
       var syncPassages = function(idx, fromSide) {
@@ -153,7 +164,11 @@
         r.setAnnotations(annotations);
         
         numPassages = annotations.length;
-        document.getElementById('num-aligned').textContent = annotations.length;
+
+        for (let el of document.getElementsByClassName('num-aligned')) {
+          console.log(el);
+          el.textContent = annotations.length;
+        }
       }
 
       window.onload = function() {
@@ -195,6 +210,14 @@
 
         document.getElementById('next-passage').addEventListener('click', onNext);
         document.getElementById('prev-passage').addEventListener('click', onPrev);
+
+        var idxInput = document.querySelector('#current-index input');
+        
+        idxInput.addEventListener('keyup', function(event) {
+          if (event.key === 'Enter') {
+            onGoTo(idxInput.value);
+          }
+        });
       }
     </script>
   </body>

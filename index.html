@@ -88,6 +88,7 @@
       <div class="inner">
         <span id="num-aligned"></span> aligned passages
         <button id="next-passage">Next</button>
+        <span id="current-index">-</span>
         <button id="prev-passage">Previous</button>
       </div>
     </div>
@@ -113,6 +114,8 @@
           top: destRight.offsetTop - 150,
           behavior: 'smooth'
         });
+
+        document.getElementById('current-index').innerHTML = (selectedIndex + 1) + '/' + numPassages;
       }
 
       var onNext = function() {

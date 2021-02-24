@@ -1,103 +1,104 @@
-TS 555 PS
-3B
+- TS 555 PS
+-3%B
 
 
 DD5
-3
+3.
 555 5555
-DD 2DD
-Z DX5
-S 
+DD-"- 2D-D
+Z - DX5
+S : )
 D
-
-F SSF FDS SY
-Z
-SDSM NY X
+#
+F" SSF FDS SY
+Z%
+SDSM)), NY X
 DD YE
-FHDDP DI DD 
-KFHEOD DESYS SSD
-DNNENDET B
+FH)DDP DI # » DD )
+KFHEOD DESYS> SSD-
+DN-NENDET B-
 DYNA PRO
 SMFHN NY DSO
 FF
-SSXNB N
-FFF 
+SSXNB N-
+FFF - –
 
 
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
- 
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+- - - - -
 
 
 
 ITINE RARIVM
-Wegray K Maypot
-schafftgen ConstantinopelZden
-Trckischen Kayser Soleyman Anno rrr
-
- F
-P
+Wegrayß Kü. May.pot-
+schafft/gen Constantinopel/Züden
+Türckischen Kayser Soleyman Anno rrr.
+---
+- - F
+&P
 
 
 
 Vored
-Jewoloffenlich vor augenauch menig
-lich wifentwelcher maffen der grausam
-S wtrichvierbfeind des Christliche glau
-besimgar kurzfarvilmanig Christliche Knig
-reichland vleutmit erschrocklicher vierbrm
-licher Tyranneyvnderfeingewalt brachtvnnd
-noch fr vnd fr nach eroberung der ganzen Chai
-tenhaitvndfonderlich Teutscher nationtracht
-wie sich dz bey difen mecht verruckten fairenau
-eroberung der edlen InfelviStat Rhodisvmnd
-nachmaln Griechischen Weiffenburg vnd des gtz 
-en Wngerischenlandsauch Belegerung der Statt
-Wyennecht beschehenklrlich erscheinet Alsods
-folliche erschrockenliche des grymmen wterichs
-graufamkait ferner fr die augenzlegenvnntig
-gelacht werden mcht Die weilaer mermalen
-nach menschlicher bldigkaitauch etwanvilmer
-augtlicher verhencknus vndfraffbeschichtdz
-wir vnferfelbvnglck vnd gegenwertige gefarkt
-chaitwenigacht wndfolg tragen vnd des Gtz
-
-RF
- 
-r
- lichenzonsniteegewar werden dannfodiefraf
-wns vor der thrfteetdamit einyeglicher feinfel 
-bsgewarfeyauch der vnauspechenlichen tyran
-ney des Trckenfovilhher betrachtvndzher
-zengefat werdist die gegen wertigerwegraisin
-truckausgangenndarinnen dann wil nutzlicher
-fucknitvnbillich zwiffennBegriffenn werden
-welche ein yeglichen frumfienn Christenzherz
-lichen mitleidenvnd erbarmung der al ges
+Jewoloffenlich vor augen/auch menig
+lich wifent/welcher maffen der grausam
+Sº wütrich/vierbfeind des Christliche glau
+bes/imgar kurzéfarévilmanig Christliche Künig
+reich/land vñleut/mit erschrocklicher vierbärm
+licher Tyranney/vnderfeingewalt bracht/vnnd
+noch für vnd für nach eroberung der ganzen Chai
+tenhait/vndfonderlich Teutscher nationtracht/
+(wie sich dz bey difen mecht verruckten fairen/auß
+eroberung der edlen InfelviStat Rhodis/vmnd
+nachmaln: Griechischen Weiffenburg vnd des gätz –
+en Wngerischenlands/auch Belegerung der Statt
+Wyennecht beschehen/klärlich erscheinet) Alsods
+folliche erschrockenliche des grymmen wüterichs
+graufamkait ferner für die augenzülegen/vnnötig
+gelacht werden möcht. Die weilaßer mermalen
+nach menschlicher blödigkait/auch etwanvilmer
+außgötlicher verhencknus vndfraffbeschicht/dz
+wir vnferfelbvnglück vnd gegenwertige gefarkt-
+chait/wenigacht wndfolg tragen/ vnd des Götz
+(
+RF.
+- -
+r-
+- lichenzonsniteegewar werden dannfodiefraf
+wns vor der thürfteet/damit einyeglicher feinfel- ,
+bsgewarfey/auch der vnaußspechenlichen tyran
+ney des Türckenfovilhöher betracht/vndzüher
+zengefaßt werd/ist die gegen wertigerwegraisin
+truckausgangenn/darinnen dann wil nutzlicher
+fuck/nitvnbillich züwiffenn/Begriffenn werden/
+welche ein yeglichen frumfienn Christen/züherz
+lichen mitleiden/vnd erbarmung der al ges
 ang 4
 Q
 
 
-fangneneiner mitbrder des Chriftenlichen glatt
-Bensauchzfeinerfelswarnung raytzenvnnd
-bewegen sollenvnd wilmer zehaltung vitrst
-licher rettung des waren Christlichen glaubens
-befchirmung seiner weiber vnd kinderleibs vnnd
-leensehwndgtfatlich hilffzethonnachal
-lemfeinem vermgenwiderfllichs des Trcken
-erschrockenlich frnemennwillig begirig werde
-Deshalsen ein federleser dem allmechtigen barm
-herzigenewigengottmit aller demtigkaitfleif
-igkle bitdaservnsfrid vnd einigkait vndfey
-mesgtlichen wotsware rechte erkantmusverlei
-hefein gnadvnsfendedarmit wir mit einhellige
-gemit vnnd frnemendisenfeind Christenlichs
-ichen widerstand thon mgen 
-A 
-BBLioTHEGA PALAT
-Y NDOECNENSIE
+fangnen/einer mitbrüder des Chriftenlichen glatt
+Bens/auchzüfeinerfelßswarnung raytzen/vnnd
+bewegen sollen/vnd wilmer züßehaltung vitröst
+licher rettung des waren Christlichen glaubens/
+befchirmung seiner weiber vnd kinder/leibs vnnd
+leßens/eh/wndgüt/fatlich hilffzethon/nachal
+lemfeinem vermögen/widerföllichs des Türcken
+erschrockenlich fürnemenn/willig begirig werde.
+Deshalsen ein federleser dem allmechtigen, barm
+herzigen/ewigengott/mit aller demütigkaitfleif
+igkle bit/daservnsfrid vnd einigkait/ vndfey-
+mesgötlichen wots/ware rechte erkantmusverlei
+he/fein gnadvnsfende/darmit wir mit einhellige
+gemit vnnd fürnemen/disenfeind Christenlichs
+ichen widerstand thon mögen/ .
+A ü
+BBLioTHEGA PALAT,
+Y] NDOECNENSIE.
+-
 
 
 
@@ -106,223 +107,223 @@ Y NDOECNENSIE
 
 
 
-
-NFLichdem ich von d
-WIN FS Edlen gestrengenn Herzen Jose
-ANr phen vLambergz Schneeberg
-WINFRitter Vnd Her Niclaufen In
-ASENWrifchitz Hauptmanz Sant Veit
-am Pflaum vnd Gyntzauch Ritter vnd Erbkam
-merer in CrabatenKn MayzUngern vnnd
-BehemcRten vnd derzeyt frer Mayz dem
-Trckischen Keyfer Soleymandem rijgen By
-fantz oder Constantinopelals Oato angefandte
-vnd Botschaft Lateinischer Eulmrscher doch
-infrer Maydiensten meinen gndigengnstigen
-iettenden lieben Hertenmit fren gnadenzzie
-enzLeyach angenommen wordenndarumb
-ich mir nachdem die zeyt mit vmbsunft verlierenn
-follfr genommen alle vnd nchtlicheglt
-erbergwafferflsthl
- derlenderdardurch wir gezogenfampt den
-geschicklicheytengewonheyttenvnd gebreuchen
-derleutfo darinnen wonengar fleissig klichenvff
-wieichsgesehen zbescheien
+NFLichdem ich von dé
+WIN FS) Edlen gestrengenn Herzen Jose
+A-Nr." phen vöLambergzü Schneeberg
+WINFRitter. Vnd Her Niclaufen. In
+(ASENWrifchitz Hauptmanzü Sant Veit
+am Pflaum vnd Gyntz/auch Ritter vnd Erbkam
+merer in Crabaten/Kün. MayzüUngern vnnd
+BehemcRäten/ vnd derzeyt frer May.zü dem
+Türckischen Keyfer Soleyman/dem rijgen By-
+fantz oder Constantinopel/als Oato angefandte/
+vnd Botschaft Lateinischer Eulmärscher, doch
+infrer Maydiensten meinen gnädigengünstigen
+iettenden lieben Herten/mit fren gnadenzüzie
+en/züLeyßach angenommen wordenn/darumb
+ich mir (nachdem die zeyt mit vmbsunft verlierenn
+foll)für genommen alle '' vnd nächtlicheglät
+erberg/waffer/flüs/thäl
+' derlender/dardurch wir gezogen./fampt den
+geschicklicheyten/gewonheytten/vnd gebreuchen
+derleut/fo darinnen wonen/gar fleissig klichen/vff
+wieichsgesehen zübescheißen.
 Wiewolobgemeltbeyd Herrn von hochgemel
-ter Kn Mayac z Augspurg auf den zugabge
-fertigtvndgen Leybach ankommenyedoch habe
-fie einen aygenbottenz Wascha
-inn das Knigreich Boffenvmbkundtschaft an
-welche ende der Grenitzen sie sich verfgen sollten
-geschickt der dafi ongeurlich in Frijtagen wider
+ter Kün. May.ac. zü Augspurg auf den zugabge
+fertigt/vndgen Leybach ankommen/yedoch habe
+fie einen aygenbottenzü "# Wascha
+inn das Künigreich Boffen/vmbkundtschaft an
+welche ende der Grenitzen sie sich verfügen sollten,
+geschickt, der dafi ongeuärlich in Frijtagen wider
 geis
-ergegend vnd gelegen
+er/gegend vnd gelegen
 
 
 
-gen Layachmitgterabfertigung von dem Wa
-scha kommen 
-Darauffin far nach Chaifi Jefinvnfers Selig
-machers geburt M D rrxam Sontag rrrij
-Augustihat sich der Edel gestreng HerJoseph
- vonn Lambergzchneeberg Ritterzcampt sey
-nen hernach benantendienern vnd Hertennm
-lichenHerten Christoffen vonnPragHernennz
-WindhagStephan von SchomenitzLucas v
-ReyfachHansen WagenErharten von Mrm
-bergPaulsen von LippingenGeorgen Krabat
-Gregon Schlaetz von ZukhnitzVrban Treffer
-p5 SirkhnitzBlaf Schneebergerschmid vCo
-stelJacoben Neboiffen kochvnd LandstrostAn
-dreen MllnkopffBarbierervLaybachWylen
-Bublen von OBernburgk glcklichen w Laybach
-erhebtvndgen Sant MareinGroluppleBla
-tenweilberg Stetlenalda gefrstuckt Machmals
+gen Layßachmitgüterabfertigung von dem Wa
+scha kommen. - . "
+Darauffin far nach Chaifi Jefinvnfers Selig-
+machers geburt M. D. rrx.am Sontag rrrij.
+Augusti/hat sich der Edel gestreng Her/Joseph
+- vonn Lambergzüchneeberg Ritterzcampt sey
+nen hernach benantendienern vnd Herten/näm
+lichen/Herten Christoffen vonn/Prag/Hernennzü
+Windhag/Stephan von Schomenitz/Lucas vö
+Reyfach/Hansen Wagen/Erharten von Mürm-
+berg/Paulsen von Lippingen/Georgen Krabaté
+Gregon Schlaßetz von Zukhnitz/Vrban Treffer
+p5 Sirkhnitz/Blafö Schneebergerschmid vöCo
+stel/Jacoben Neboiffen kochvnd Landstrost/An
+dreen Müllnkopff/BarbierervöLaybach/Wylen
+Bublen von OBernburgk glücklichen wö Laybach
+erhebt/vndgen Sant Marein/Großlupple/Bla
+tenweilberg Stetlenalda gefrüstuckt. Machmals
 auf Sittich Clofergen Treffen honigfainindas
-Capitelzden Chorherznalldawbernachtblyben
-Am Montag den rrij Augusti von Newstatten
-vber das Grckvber Prucken auf Meicharfchlo
-darfr gerittennachmals gen Mettling Stttle
-kommenaldabliben 
-Am rxij Augustiz Mettling die
-ganzen tag beliben 
+Capitelzüden Chorherzn/alldawbernachtblyben
+Am Montag den rrij Augusti von Newstatten,
+vber das Gürckvber Prucken auf Meicharfchloß
+darfür geritten/nachmals gen Mettling Stättle
+kommen/aldabliben . . .
+Am '' rxij Augustizü Mettling die
+ganzen tag beliben. . -
 Am Montag den xxij August hat sich auch der
-Edelgestreng Herr Niclas JurischitzRiterErb
-kamererinnCrabatenvnndhauptmanz Sant
- A ij Veyt
+Edelgestreng Herr Niclas Jurischitz/Riter/Erb
+kamererinn-Crabaten/vnndhauptmanzü Sant
+- A ij Veyt
 
- Plawmvnd Gynssamptfeinen Herrn
-auch benantendienern vnd Herrnmemlich Andre
-en von BuchhaimHernzRabbs vGrunpach
-Casparn WaldernfainPflegerzGrobnick An
-deen SinzenpaunerBeaten von AndelawJa
-coen von GrunfainThoman Burckhaufer v5
-WienLaurenzen Werfhelle vonn Perchstetten
-auf dem NewfelHansen Steub von Augspurg
-Jrgen Petters vonn Sant Veyt auf Kernten
-Jrgen Bayrn von MldoffBrtolme Wertzko
-mitz KrasatenNiclaufen von Wyrzburgdesv3
-BuchhaimknechtSimon Bardschitz v Pacher
-des Schnitzenpaumersknechtvndfonderlich fr
-anderfoeyder Herrenmdienerfein Franciscen
-Karotz von ArmenalGabriel Hemsicke von Ru
-ges BeidLEfeltreybernLucaffen Menitzyetz v
- P obgemeltenn Caspern Walderstein
-dienervnd mit mir BenedictenCuripeschitz von
-Obernburgals Lateinischen dulmetschenglck
-lichen erheptvon Laybach gen Marein Grolup
-ple Lusche Machmals ver den Gurckbergzdem
-waffer Gurck kommenaldo auf zweyenngroffen
-lchern dies waffer entspringennthtdaeygen
-Seiffenberg schlo vnd marckt geritteallda vber
-macht beliben 
-Am Erichtag den irrij Augufivon Sefen
-bergk bey demwaffer Gurch bis inn die ainde
-daselbstvber das wafferauf die rechten handge
-schlagenalda ein kleinsschlo Roeckgesehenvfi
- 1
+-- '' Plawmvnd Gyns/samptfeinen Herrn
+auch benantendienern vnd Herrn/memlich Andre
+„en von Buchhaim/HernzüRabbs vñGrunpach
+Casparn Waldernfain/PflegerzüGrobnick. An
+deen Sinzenpauner/Beaten von Andelaw/Ja-
+coßen von Grunfain/Thoman Burckhaufer v5
+Wien/Laurenzen. Werfhelle vonn Perchstetten
+auf dem Newfel/Hansen Steub von Augspurg/
+Jörgen Petters vonn Sant Veyt auf Kernten/
+Jörgen Bayrn von Müldoff/Bärtolme Wertzko
+mitz Krasaten/Niclaufen von Wyrzburg/desv3
+Buchhaimknecht/Simon Bardäschitz vö Pacher
+des Schnitzenpaumersknecht/vndfonderlich für
+ander/foßeyder Herrenmdienerfein/ Franciscen
+Karotz von Armenal/Gabriel Hemsicke von Ru-
+ges BeidéLEfeltreybern/Lucaffen Meßnitz/yetz vö
+- P" obgemeltenn Caspern Walderstein
+diener/vnd mit mir Benedicten/Curipeschitz von
+Obernburg/als Lateinischen dulmetschen./glück
+lichen erhept/von Laybach gen Marein Großlup
+ple Lusche. Machmals vßer den Gurckbergzüdem
+waffer Gurck kommen/aldo auf zweyenngroffen
+löchern dies waffer entspringennthüt/daßeygen
+Seiffenberg schloß vnd marckt geritte/allda vber
+macht beliben. – – - -
+Am Erichtag den irrij. Augufi/von Seüfen-
+bergk bey demwaffer Gurch bis inn die ainöde/
+daselbstvber das waffer/auf die rechten handge
+schlagen/alda ein kleinsschloß Roßeckgesehen/vfi
+- - - - - - (1.
 
-an die Toplitz nachmalverdsgebrgien
- erren genmeiling Sttlealda
-10 
-Am Mitwochen den prij Augustianfant Bat
-tholmestag darumb das graff Hans Carbonitz 
-FEonbauwond Banin Dalmatien ond Croat
-enher Hans Katzianer hauptmin Crainauch
-andermervnndvilmer Crainerisch vnd Craba
-tischherrn vnd hauptleutzder Metling gewest
+an die Toplitz nachmalvßerdsgebürgien"
+-. erren genmeiling Stätle/alda
+(10), – -
+Am Mitwochen den prij Augustianfant Bat.
+tholmestag darumb das graff Hans Carbonitz -
+FüEonbauwond Banin Dalmatien ond Croat"
+en/her Hans Katzianer hauptmäin Crain/auch
+andermervnndvilmer Crainerisch vnd Craba-
+tischherrn vnd hauptleut/züder Metling gewest/
 vnd am heutigentag auch ein musterung der Huf
-fernbeschehen eind mein obberrte herzen auch
- fiv5M li 
-Am Pfinztag den rrvAugu iv5 Metling v
-ber die Culp geritten auf Rinigkschlokonien
-nachmain Mouligraduschlownd ver das was
-fer Dorawiderzdemwaffer Mersnitzadar
-ergefarendafel6ft beleben 
-In ogemeltem waffernerfinitzasovasttief
-ist allenthalbenfeindvilklainer schllinvnd Ca
-fielgenaurt vnd von holzwerckMemlichvon
-erfGlut da das waffer Mernitza entspringer
-SzuetzayJanaschitzDiakoniz hereditzTha
-raritzSteffkonizDespotonitzaldavnns ver
-frenlaffen
-Am Freitag den rrwitagAugustivonnter 
-nizaoder Despotonizerheistigen Bellay schlo
-gerittenalda auf die lincken handgeschlagen
-Zder MalfatsoamrxiO ctobnisimtaufent
-fnffhundertvndacht vnd sie
- L
+fernbeschehen eind mein obberürte herzen/ auch
+"'' '' fiv5M li - - - -
+Am Pfinztag den rrv-Augu iv5 Metling v.
+ber die Culp geritten auf Rißnigkschloßkonien
+nachmain Mouligraduschloß/wnd vßer das was
+fer Doßra/widerzüdemwaffer Mersnitza/dar.
+üßergefaren/dafel6ft beleben. . . . . .„
+In oßgemeltem waffernerfinitza/sovasttief
+ist allenthalbenfeindvilklainer schlößlinvnd Ca
+fielgenaurt/ vnd von holzwerck/Memlich/von
+erfGlut, da das waffer Mernitza entspringer/
+Szuetzay/Janaschitz/Diakoniz/ hereditz/Tha
+raritz/Steffkoniz/Despotonitz/aldavnns vßer
+fürenlaffen:
+Am Freitag den rrwitag-Augustivonnter -
+nizaoöder Despotonizerheistigen Bellay schloß
+geritten./alda auf die lincken handgeschlagen/
+Züder Malfat/soamrxi-O ctobnis/imtaufent
+fünffhundert/vndacht vnd sie:
+- - Lß
 
-marcktkonfienalda wir fnf Trckefnoch mech
-ehenden Trckenvnind Christen die schlachte
-fchehennMachmals vber etlich vber 
-waffer Coanazdem schlo Budatzkyvnda6er
-gen Klokoniza schlo alda die herrengar erberli
-chewongrafen Carlonitzempfangen worden wind
-da beliben 
-Am Samstag den irrwij Augustivon Kloko
-niz schlo den Perg abgezogen3einem fchlo O
-bercladusche nachmals vber das waffer Cladu
-fchewiderzdem schlo Midercladuscheviver
- Climavnd gen Nougrad schloallda
-Ell HL 
-Am Sontag den reviti August von Nougrad
-den Perg agezogennnachmals vber ein getyrg
-fr fchlo auf der linck
-enhandligenlaffen vndgen Cruppa schlownd
-ten von Camergrad vmbwns kommen vndauf
-vns gewartetgefunden die auch das nachtmal
-mit den herrengarfreuntlich geeffen 
+marcktkonfien/alda wir fünf Türcke/fönoch mech
+ehenden Türckenvnind Christen die schlachte,
+fchehenn/Machmals vber etlich '' vber '
+waffer Coana/züdem schloß Budatzky/vnda6er
+gen Klokoniza schloß /alda die herrengar erberli-
+chewongrafen Carlonitzempfangen worden, wind
+da beliben. - " -
+Am Samstag den irrwij. Augusti/von Kloko-
+niz schloß den Perg abgezogen/3äeinem fchloß O,
+bercladusche nachmals vber das waffer Cladu,
+fche/widerzúdem schloß Midercladusche/vivßer
+“ Clima/vnd gen Nougrad schloß/allda
+Ell (HL, - - - -
+„Am Sontag den reviti, August von Nougrad
+den Perg aßgezogenn/nachmals vber ein getöyrg
+für '' /fchloß auf der linck-
+enhandligenlaffen/ vndgen Cruppa schloßwnd
+ten von Camergrad vmb.wns kommen/ vndauf
+vns gewartet./gefunden, die auch das nachtmal
+mit den herrengarfreuntlich geeffen. ---
+
+#-
+Am Montag den irrix. Augusti/von Cruppave
+bereinenpergzüeinem öden kirchlen/auf der rech
+tenhandligend/darbey auch bey der Christen zei
+teneindorffgenant Göremippolle/das ist/Ober-
+feld/vndauff demgepyrg vastlang g:
+- (JU)
 
 
-Am Montag den irrix Augustivon Cruppave
-bereinenpergzeinem den kirchlenauf der rech
-tenhandligenddarbey auch bey der Christen zei
-teneindorffgenant Gremippolledas istOber
-feldvndauff demgepyrg vastlang g
- JU
 
+auf der linckenfiten ein altsgemeurgesehenn/fo
+einfchloßJapagenant/gewesen/ vnd installkom
+menzüdempach Japagenant/darüber geritten/
+alda in die 1. wollgerüste pferd vonn Camergrad/
+wol ein ganze teutschemeyl wegsentgegenkom-
+men/ vnd die hern schon empfangen/Memlich der
+Malkosthitz, der ein Subbascha in gemeltemsch-
+loß/vngefarlich vber cc.pferd ist/wödem man will
+in Crabatenvndbaffen/ von feinen redlichen tha-
+tenfingen thüt/den heranfein handgepotten/vnd
+mitynen gar freuntlich geredt. - -
+Als wir aber nahentzumschloß Camergradkör
+men/vndalswiresnu gesehen, hat man gegèvns
+gefähoffen/vnd einfaißt Türck Meruflagenant/
+gegenwnskomfien, die heran auch erbarlichempfan
+gen/vndwinsgefürtan vnfer machtläger/auch Bey
+dem nachtmal wir all/fampt den Türcken/derenn
+will mit vnns geeffen/gar frölich geweßt.
+- - -
 
-
-auf der linckenfiten ein altsgemeurgesehennfo
-einfchloJapagenantgewesen vnd installkom
-menzdempach Japagenantdarber geritten
-alda in die 1 wollgerste pferd vonn Camergrad
-wol ein ganze teutschemeyl wegsentgegenkom
-men vnd die hern schon empfangenMemlich der
-Malkosthitz der ein Subbascha in gemeltemsch
-lovngefarlich vber ccpferd istwdem man will
-in Crabatenvndbaffen von feinen redlichen tha
-tenfingen thtden heranfein handgepottenvnd
-mitynen gar freuntlich geredt 
-Als wir aber nahentzumschlo Camergradkr
-menvndalswiresnu gesehen hat man gegvns
-gefhoffenvnd einfait Trck Meruflagenant
-gegenwnskomfien die heran auch erbarlichempfan
-genvndwinsgefrtan vnfer machtlgerauch Bey
-dem nachtmal wir allfampt den Trckenderenn
-will mit vnns geeffengar frlich gewet
- 
-
-Z 
- Z 
- SA K S SEL 
-SA o D HW S E
-g WM SLN 4S SEEE EENT v
+Z [. - -
+- - Z- - -
+- - - - - SA K S SEL -
+SA o D § (HW =- S>====== - E
+g WM S-LN 4S SEEE== EE=-NT v.
 Ill
 T
 II
-
- 7T Y
- TT 
- 
-
-w
-
-
- 
- SES 
+--------
+- 7T -Y
++ TT =
+- ' | |
+(-
+w-
+---
+-
+- - - -
+- --- SES------- -
 LINTFSES SE
-B
-
-
-
-
- 
-
-
-
-
-
- r 
-LNA SSE 2
-
-Wo und 
-Typ2
-r T
-IP 
+B>---
+-
+-
+---
+-
+- -
+-
+-
+-
+-
+')
+- ------------------ r -
+LNA- - SSE---- (- 2
+'|
+Wo und -
+Typ-2-
+r- --- T
+IP- - -
 Willi AW
-S
+S§
+-
 
 
 
@@ -346,105 +347,104 @@ S
 
 
 
-
-An Eritag den xxx Augustiv Canergradfaff
-lang nach einer ene nachmals in ein
-zeinem waffergenant Miren ber ein Puckwi
-derzeinem andern waffer Szanitza genant auf
-ein kleine hchaldo zwey dene zerstrte Slffer
-Klanenatzvnd Lifouazvnndauf der linckenn
- enthalb des waffers Szanaist ein fathos
-er langerwind steiniger BergKlemenatz genant
-vnd vnder dem bergeinotgegenaufgang der f
-menfeind zweydeschlffergenant Szekollourvi
-Gurfeudabeyvil Martolofenvndfchaffhyrtt
-women Machmals nach dem gepyrg gezogenind 3
-thalzdwaffer Szanaalda BahadaSubbas
-fchzm Glutzfelb zehendt den Herrenn etwann
+An Eritag den xxx. Augustivò Canergradfaff
+lang nach einer ' eßne/ nachmals in ein
+züeinem waffer/genant Miren über ein Puckéwi
+derzüeinem andern waffer Szanitza genant auf
+ein kleine höch/aldo zwey ödene zerstörte Slöffer
+Klanenatzvnd Lifouaz/vnndauf der linckenn
+' enthalb des waffers Szana/ist ein fathos
+er langerwind steiniger Berg/Klemenatz genant/
+vnd vnder dem bergeinot/gegenaufgang der fö
+men/feind zweyödeschlöffergenant Szekollourvi
+Gurfeu/dabeyvil Martolofen/vndfchaffhyrtté
+women. Machmals nach dem gepyrg gezogenind 3
+thal/züdéwaffer Szana/alda Bahada/Subbas
+fchzüm Glutzfelb zehendt/ den Herrenn etwann
 auffeinhalsmeylwegs entgegenkommen sie gar
-fchon empfange vnd gegen Glutzfchlo ver eine
-perg geflirtdarnach inndasthal konfiennvber die
-Szama auf einem feldwns gelegert
+fchon empfange/ vnd gegen Glutzfchloß vßer eine
+perg geflirt/darnach inndasthal konfiennvber die
+Szama auf einem feldwns gelegert.
 
-r 
- N
+r -
+- N
 
 
- d 
+-/ d - -- -- - - -
 Am Mittichen in den rrr Augufifeinb wir den
 antzentag in dem mechtigenleger vnnd statt beli
-endann des Minrat Wainodaij taufenntpfe
-fr vns den ganzen tag hinau wider die Charit
-gezogen vngefrlich wmb zway nachmittag feind
+en/dann des Minrat Wainodaij taufenntpfe
+für vns den ganzen tag hinauß wider die Charité
+gezogen vngefärlich wmb zway nachmittag feind
 die Hernden Murat Vainoda auffeinhalb meil
-wegentgegengezogen der dann jnen auch entgege
-mit ijhundert vngefrlich wollgersten vndfh
+wegentgegengezogen, der dann jnen auch entgege
+mit ijhundert vngefärlich wollgerüsten vndfhö
 gebutztenpferden kommen die Herrngar schon vi
-eerlich empfangen die dann mit fme eingtte weil
-in der geheim geredtnachmalsyederinnfeinleger
-widergezogen 
-Ampfinztag den ersten Septembis ist Mus
-rat Wainoda in allerfrfr vns mit feinem famwfi
-heer gezogenMachmals wir vnserhebt vnd inn
- ein an der lincken handligent genant Szabl
-lacke fovokainerzeyt ihndielxxx heufergehebt
-aeryezfeind mit mer dann will oder wijda beliben
-Am Freytagdefiandern Settembris v Sza
-Blake Bey dem waffer Szana in aimenthal wnge
-frlich eingttemeylwegs gezogen kamen zein
-Berg Prifergenantaldo auch von zeitt ein schlos
-geweftPrister genantdafi wir die maur gar wol
-gesehen darunder auch das waffer Szana rindt
-vnd ein wenig ode zerstrten schloden wafpzig
-hat nachmals verdemberg gezogen in das thaik
-menauf die linckenhand geschlageninneindorff
-Goloschgenantaldo belien 
-Am fam6ftag dens Septembis vom G
- PHP
+eerlich empfangen, die dann mit fme eingütte weil
+in der geheim geredt/nachmalsyederinnfeinleger
+widergezogen, - - - - - - - -
+Ampfinztag den ersten Septembis istö Mus
+rat Wainoda in allerfrüfür vns mit feinem famwfi
+heer gezogen/Machmals wir vnserhebt/ vnd inn
+– ein an der lincken handligent genant Szabl
+lacke/ fovokainerzeyt ihndielxxx heufergehebt
+aßeryezfeind mit mer dann will oder wijda beliben
+Am Freytag/defiandern Settembris vö Sza-
+Blake Bey dem waffer Szana in aimenthal wnge-
+färlich eingüttemeylwegs gezogen, kamen züeiné
+Berg Prifergenant/aldo auch von zeitt ein schlos
+geweft/Prister genant/dafi wir die maur gar wol
+gesehen, darunder auch das waffer Szana rindt/
+vnd ein wenig oßde zerstörten schloß/den wafpzig
+hat nachmals vßerdemberg gezogen in das thaikö
+men/auf die linckenhand geschlagen/inneindorff
+Goloschgenant/aldo belißen. -
+Am fam6ftag denüs Septembis vom G“
+- - - PHP
 
-bereit hoheberg bissdes Ke
+bereit hoheberg bissüdes Ke
 darumbalso Gerant das vngef
 n
- puff kosten
- ngefrlich volrxiiijfa
-renfoder Trckisch Keyfer Boffenivberkommen
-hat ist erfampt feinem wolckzdemprunnenvfi
-mitweyter kommenAber feine wafhagen Glutz
-schlo mit hlzeskraft geschickt vnd den Knig so
-dz Bosnisch Knigreich gehaptderfich dafi auch
-imfchlo Glutz belegernlaffenvberwinden Glut
-vnd Camergrad eingenommennachmals innein
-doff Geronodaselbst belien
+' puff kosten
+- ngefärlich volrxiiijfa
+ren/foder Türckisch Keyfer Boffenivberkommen
+hat, ist erfampt feinem wolckzüdemprunnen/vfi
+mitweyter kommen/Aber feine wafhagen Glutz
+schloß mit hölzeskraft geschickt/ vnd den Künig so
+dz. Bosnisch Künigreich gehapt/derfich dafi auch
+imfchloß Glutz belegernlaffenvberwinden Glut
+vnd Camergrad eingenommen/nachmals innein
+doff Gerono/daselbst belißen.
 m Sontag den im Septembeis von Gerono
-nachdem phel abgezogebif znfchlo Szokoll
-das wir nennen mgen Falckensteynwelches an
-der lincken handgelegenvnndetwovfoder fiben
-rundthurzenindermaur hat auch von allendey
-ein tieffengroffenfelbgewachsen grabennNach
-mals zdemwaffer Pluia darber gerittenvnd
-aber v6ereinanderswaffetfogegenwns gerunn
+nachdem pühel abgezogebif zünfchloß Szokoll
+das wir nennen mügen Falckensteyn/welches an
+der lincken handgelegen/vnndetwovfoder fiben
+rundthurzen/indermaur hat auch von allendeyé
+ein tieffengroffenfelbgewachsen grabenn/Nach
+mals züdemwaffer Pluia darüber geritten/vnd
+aber v6ereinanderswaffet/fogegenwns gerunné
 wenig an die linckhand ineindorff am Berg Szo
-nion Ollahfigenantialdo belien
+nion Ollahfigenantialdo belißen.
 
 N
 F
 S N
-WINN L N
+\WINN L- N
 S
- Mil W F
+- Mil W F
 S
 ST
-SMISS S 
-SES 
- 
-S
-Am Montag des vSeptembrisvonn Vllahu
-ver einen vasthohenpergSzenim gezogenwiz
- sthalzeinem pechlein Janavnd
-aufeinphelineindorff Baindoldabeliben 
-richtag den vfSeptems isvon Babin
-dolpber einen hohenperg Szonim auch se
- PO
+S-MISS- S -
+SES -
+- ---
+=S-
+Am Montag des v.Septembris/vonn Vllahu
+vßer einen vasthohenpergSzenim gezogen/wiz
+' sthal/züeinem pechlein Jana/vnd
+aufeinpühelineindorff Baßindol/dabeliben. -
+richtag den vf/Septems is/von Babin»
+dolpber einen hohenperg Szonim auch se",
+- PO
 
 
 
@@ -470,958 +470,953 @@ dolpber einen hohenperg Szonim auch se
 
 
 
-vnind oben auffderhhe despergs va efin schne
-weitevndebne Machmals wider gar in ein tiefs
-ehalzdemwaffer Verbaffafogegen wns gerun
-mendarber geritten 
-Komen z zwaien den zerstrtenn fchlffern
-Noui OServnd Midernachmals widervberob
-gemelt waffervndwns auf dz recht ort oder hd 
-geschlagengen Puffen schlo vnd fetlinaldabei
-liben mit wochenpfinztagvndfreitag 
-Am Samstag den xtag Septembrisvon Puf
-fan widerver das waffer Versaffaauf die lyn
-cken handvber einen hohen vnd langen pergRa
-dafio genantin die fnfffund gezogenaldainn
-derh kleinsfchlle von wns auf
-der lynckenn handgenant Cafel darumbendie
-Trcken dies Castelgebawtdas sie die profandt
-vnd narung so auf Jatzefchlo dieweil die Chri
-ften das noch ingehabtzergangenen mit gewaltige
-nomen vnd verhindertWNachmals in dztal konfien
-alda zbaidenfeiten Goldwaschwerkhnachdem
-talwollang gerittenvbereinpach Lafchua gent
-vndgewendt auf die rechthandineindorffKh
-rudschirzaalda beleben 
-Andien abent haben auch die Trcken vonn
-fundannachvnsindexxarmeleutellend Chi
-fenkindlinkmlinvnddiernlinfofteamyetzi
-genzug vngefarlich vor vfoder wijtagenngefan
-genindaffelbigdoff Khruschitza gepachtvnnd
+vnind oben auffderhöhe despergs va efin schöne
+weitevndebne. Machmals wider gar in ein tiefs
+ehalzüdemwaffer Verbaffa/fogegen wns gerun
+men/darüber geritten. - - -
+Komen zü zwaien öden zerstörtenn fchlöffern/
+Noui OServnd Mider/nachmals widervberob.
+gemelt waffer/vndwns auf dz recht ort oder häd' -
+geschlagen/gen Puffen schloß vnd fetlin/aldabei
+liben mit wochen/pfinztag/vndfreitag. -
+Am Samstag den x.tag Septembris/von Puf
+fan widervßer das waffer Versaffa/auf die lyn-
+cken handvber einen hohen vnd langen perg/Ra
+dafio genant/in die fünfffund gezogen/aldainn
+derh '' kleinsfchlößle von wns auf
+der lynckenn hand/genant Cafel darumbendie
+Türcken dies Castelgebawt/das sie die profandt
+vnd narung so auf Jatzefchloß (dieweil die Chri
+ften das noch ingehabt)zergangenen mit gewaltige
+nomen vnd verhindert/WNachmals in dztal konfien
+alda zübaidenfeiten Goldwaschwerkh/nachdem
+talwollang geritten/vbereinpach Lafchua genät
+vndgewendt auf die rechthandineindorff/Kh
+rudschirza/alda beleben. " " -
+Andien abent haben auch die Türcken vonn
+fundannachvns/indexx.armeleut/ellend Chi
+fen/kindlin/kmäßlin/vnddiernlin/fofteamyetzi-
+genzug vngefarlich vor vfoder wij.tagenngefan
+gen/indaffelbigdoff Khruschitza gepacht/vnnd
 aber in der macht wovnns dem Wascha Aufreff
-weggen Verbohffen so sich an seinem gefallen
- Zge
+weggen Verbohffen, so sich an seinem# gefallen
+". . . >> - - Züge
 
-zgefhrt Ach Sellenden Babylonische gefengknis
-Am Sontag den rf Septembeisvon Khru
-fhitza etlich phelnachmals instalalda zbay
-den seiten aber will Goldwaschwerckvndvberey
-nenpachSchelesnitzazeinem faurenpunnen
-widervber ein waffer Lippenitzawndaufsfeld
+zügeführt. Ach Sellenden Babylonische gefengknis
+Am Sontag den rf. Septembeis/von Khru
+fähitza etlich pühel/nachmals instal/alda zübay
+den seiten aber will Goldwaschwerck/vndvberey
+nenpach/Schelesnitza/züeinem faurenpunnen/
+widervber ein waffer Lippenitza./wndaufsfeld/
 darnach auf die lincken handgewendt in ein doff
-Khakhonizaalda beliben
-Anmontag den rijtag Septembrisden ganzen
- 
-n Erichtag den rij Septems isvKakami
-za zeine doff Blachouafovor etliche faren fast
-ein groe gewesenaber fetz kaum in die x 0 5
-jrijheufer hatkommen zdemwaffer Waffiada
-rber gerittenalda Murat Weinada vngefarlich
-mit c rrr wol wfhn geputztenpferdenden her 
-ren entgegenkomfienfifchon wndeerlich empfan
-genvnd in ein klains drflim Khomalzagenantbe
-laitetaldawber macht beliben 
-Vngefarlichand halb fund haben sich die heran
-z de Vreffweg Waschaim knigreich Boffenfa
-mpt alldienern erhebtetlichdapffer Trckvot
-ynen gerittenwelcher in eine anderndorffzGla
-uogedinein wenig obvnfermdrflingerweftals
-wir aber nahentzdlgerdarinner gewontks
-menfeind die heran von den roffen abgestanden
-vnd durch zwolangezeit der Trckengang wel
-chein schnguldenfametenfeydefucken intum
-binen vndgulden farkhole geziert viaufgeputzt
-auff das allerdapfferftgeweft All
- 23
-
- 
+Khakhoniza/alda beliben.
+Anmontag den rijtag Septembris/den ganzen
+'' - - - -
+n Erichtag den rij Septems is/vöKakami
+za züeine doff Blachoua/fovor etliche faren fast
+ein große ' gewesen/aber fetz kaum in die x. 0 5
+jrijheufer hat/kommen züdemwaffer Waffia/da
+rüber geritten/alda Murat Weinada vngefarlich
+mit c. rrr. wol wñfhön geputztenpferden/den her -
+ren entgegenkomfien/fifchon wndeerlich empfan-
+gen/vnd in ein klains dörflim Khomalzagenant/be
+laitet/aldawber macht beliben. - -
+Vngefarlichand halb fund/ haben sich die heran
+zü de Vßreffweg Wascha/im künigreich Boffenfa
+mpt allédienern erhebt/etlichdapffer Türckévot
+ynen geritten/welcher in eine anderndorffzüGla-
+uogedin/ein wenig obvnfermdörflingerweft/als
+wir aber nahentzüdéläger/darinner gewontkös
+men/feind die heran von den roffen abgestanden/
+vnd durch zwolangezeit der Türckengang wel.
+chein schönégulden/fameten/feyde/fucken intum
+binen vndgulden farkhole geziert viaufgeputzt/
+auff das allerdapfferftgeweft. All
+- - - - 23
+---
+'- -
 
 Als aber die herundurch die erste zelgangen wi
-zdthooderhttenfo aufhnem grnlaub
-gemachtvndeinklainspchel darein verfangen
-gewethaben sich zwen des Wascha obrist Kr
-merlinggareerlichen von den heran mityren heup
-terngenagtgreiffendauffyraigne prust mit fla
-cherhanddergleichen sich die herrgegen fn genai
-getnachmals hinein vnd die httengangaldad
-Wascha der ein grofaiftmafi ist in seiner mag
-nificezgelesvauf der erde auf dem grawas
-C j gin sch
+züdéthooderhütten/fo außfhönem grünélaub
+gemacht/vndeinklainspächel darein verfangen
+geweßt/haben sich zwen des Wascha obrist Kär
+merling/gareerlichen von den heran mityren heup
+terngenagt./greiffendauffyraigne prust mit fla
+cherhand/dergleichen sich die herrégegen fn genai
+get/nachmals hinein vnd die hüttengangé/aldad
+Wascha (der ein großfaiftmafi ist) in seiner mag
+nificez/geles/vñauf der erde auf dem graßwas
+C j gin schö
 
 
-
-einfchner Tppichgeweit die Herren fin ganz
-genErfie schon vndeerlichen mit aller
-empfangenvndnder heyffen sitzenfie mit fme in
-die zwfund geredtvnd wider an die herbergge
-ZOgen 
-mmittichendenrj Setembeis von Koua 
-zaver das Verchboffen feldvnd durch die
-statt Verboffennachmals vbereinn hoch gepyrg
-wollanggezogenvnsgewendt vonn der 
-auf die recht hand in einthalinneindorff Mokro
-do selbst beliben 
-ent morgen wie wir zder tatverchsoffenein
-gezogenhat man gegenwnsanderlinckenfeytten
-etwan in die rv oder rwfkindlen kneblem winddier
-lein wie das wichbeyvnsgetrybendann nanfye
-heut am marckt mit alle verkaufen hat mgenes
-foll Gotterbarmen
-Vermerckteinkleyne beschreybung welchermas
-fen wir das Knigreich Boffenam durchziehwn
- 
-offen beschreybenfolfokan vnd mag ich solches
-Htthndarumb das ich das andertattoer Bof
-finnitgesehen habfon der MiderBoffenfofichan
-demwaffer Wuna anhebtvnndwerdtbizder
-statt Verboffendardurch wir heutgezogen wer
-mercken will 
+-
+einfchöner Töppichgeweit die Herren fin ganz
+gen/Erfie schon vndeerlichen mit aller
+empfangen/vndnder heyffen sitzen/fie mit fme in
+die zwüfund geredt/vnd wider an die herbergge
+ZOgen. - -
+Ämmittichendenrüj Setembeis von Koua- --
+zavßer das Verchboffen ' feld/vnd durch die
+statt Verboffen/nachmals vbereinn hoch gepyrg
+wollanggezogen/vnsgewendt vonn der '
+auf die recht hand in einthal/inneindorff Mokro
+do selbst beliben. - - -
+ent morgen wie wir züder tatverchsoffenein
+gezogen/hat man gegenwnsanderlinckenfeytten
+etwan in die rv oder rwfkindlen kneblem winddier-
+lein wie das wichbeyvnsgetryben./dann nanfye
+heut am marckt mit alle verkaufen hat mügen/es
+foll Gotterbarmen.
+Vermerckteinkleyne beschreybung, welchermas
+fen wir das Künigreich Boffen/am durchziehéwn
+''''''''' -
+offen beschreybenfol/fokan vnd mag ich solches
+Htthün/darumb das ich das andertattoßer Bof
+finnitgesehen hab/fon der Mider-Boffenfofichan
+demwaffer Wuna anhebt/vnndwerdtbißzüder
+statt Verboffen/dardurch wir heutgezogen, wer
+mercken will. - –
 Erstlich ist das land Miderboffenfastgepyrgig
-vnd hat allenthalsengroffewlder vndan wenig
-otenvoraus an den Grnitzen erbarvt au vfa
+vnd hat allenthalsengroffewälder vndan wenig
+oten/voraus an den Gränitzen erbarvt auß' vfa-
 chem
 Offligkeit
 
-chen das sie von Crasbattenvndandmotten oft
+chen, das sie von Crasbatten/vndandmotten oft
 Beraupt wifonderlich dieweil yezo noch indi Chi
-ften handenE ist haben sie das land Mi
-boffen nicht 
-Trck Meyza erobert haben sie ein groffen teil am
-Mider Boffenfolangd gelegen wider ber Bawt
-Itemwir haben in Berrtem Knigreich Bo
-fendreyerlay Nationes vnd glauensgefunden
-Die erstenfeind die altennBoffnerdie feindes
-Rmischen Chriftenlichen glaubenns die hat der
-Trckin eroberlig des Knigreichs Boffen in frei
-glauben angenomienvnd darin n Beleiben laffen
- Die andernfein Surffen dienennen sie Walas
-chenvnd wir nennen sie zygen oder Marcholofen 
+ften handenE" ist, haben sie das land Miö
+boffen nicht - -
+Türck Meyza erobert haben sie ein groffen teil am
+Mider Boffenfolangöd gelegen wider über Bawt.
+Itemwir haben in Berürtem Künigreich Boß
+fendreyerlay Nationes vnd glaußensgefunden.»
+Die erstenfeind die altenn-Boffner/die feindes
+Römischen Chriftenlichen glaubenns/ die hat der
+Türckin eroberlig des Künigreichs Boffen in frei
+glauben angenomien/vnd darin n Beleiben laffen.
+- Die andernfein Surffen dienennen sie Walas
+chen/vnd wir nennen sie zygen oder Marcholofen -
 die komfien von demot Schmedraw vnd Griechi
-fchweyffenburgvnd haben fant Pauls glaube die
-achten wir auch fr gtt Christen dann wirfynd
- kein wnderscheid von dem Rmischen glauben
-Die dritt Nationfeindie rechten Trcken die fel
-Senvndfonderlich so Kriegsleut vnndamptleut
-feind herschen mit groer Tyrraeyvbereid von
-genant Nation Christen vnd vnderthonyedoch
-fo hat sie der Trck bisherallein das sie das land
- frem glauben laffennon allein welche
-ich au fungheitoderau leichtfertigkeit in den
-glauben auch vergunt fre
-P irchenvndanderordnungzhalten 
-iefeind auch von frenerbawten grndt kein
+fchweyffenburg/vnd haben fant Pauls glaube die
+achten wir auch für gütt Christen, dann wirfynd
+- kein wnderscheid von dem Römischen glauben.
+Die dritt Nationfeindie rechten Türcken die fel
+Sen/vndfonderlich so Kriegsleut vnndamptleut
+feind herschen mit großer Tyrrañeyvberßeid von
+genant Nation Christen vnd vnderthoné/yedoch
+fo hat sie der Türck bisher/allein das sie das land
+#" frem glauben laffenn/on allein, welche
+ich auß' fungheit/oderauß leichtfertigkeit in den
+glauben ' auch vergunt fre
+P" irchen/vndanderordnungzühalten. -
+iefeind auch von frenerbawten gründté kein
 Kindert danklichen wegen guldin
 l DAS
- 
-tatlichbawendffenfeyt aber der 
- 
- 
- 
- 
+- -
+tatlichbawendöffen/feyt aber der .
+- -
+- - -
+- - –
+- - -
 
-das ist Asper von einemhaus zgeenn schuldig
-geWelt 
+das ist. Asper von einemhaus zügeßenn schuldig
+geWelt. -
 Aberyezin disem farfeyter nun Crabatten am
-maysten nun erobert hatvnd des Vngerlandsein
- sich gedachthat er angefangen 
-aydobgemelt fnddesthher zbeschweren weil
-mitnewenaufsatzungen wie hernachvolgtzbe
-lestigen 
-Erstlich fofachteranwie B ges auch in der Tr 
-ckey istau difemort 08 gegent das in jijoder v
-kneblin oder kindMansfaniensallwegen vbereit
-lich far einmal znemenaldoklaupter die schnste
-windgeschicklichsten heraualfodasye ein vatter
-vnd mttereins einigen kindsfoesfchn vnd fau
-BeritBeirauptwirtvndwo einer iiioder vkinz
-der hatfonithpfchvndgeschickt sein mgenfm
-beleien 
-Zm andern nimpter frlichen von allen perfo
-nen fung vndalteinen sondern zinsyerxx Oder rl
-Asper von einer person 
-Zmdritten vonn einem hauptvich etlichaper
-von yedemackergartenwien vom Tedarauf
-er traydtrichtdergleichenmvomyederthr ihn
-hauauch etlichAsperalso das sie nachmals fast
-hochvberschetzt werdendergleichenfolat fieder
-Trck kein Kirchen weytter Beffern noch barwen
-darmit vermeint er sie bald zfeinem glauen z
-Bingen 
-Darumb die obbemelten Christen beyder 
-
+maysten nun erobert hat/vnd des Vngerlandsein
+'' sich gedacht/hat er angefangen -
+aydobgemelt fänddesthöher zübeschweren, weil
+mitnewenaufsatzungen wie hernachvolgt/zübe
+lestigen. -
+Erstlich fofachteran/wie B ges auch in der Tür -
+ckey ist/auß difemort 08 gegent das in jijoder v.
+kneblin oder kind/Mansfaniensallwegen vbereit
+lich far einmal zünemen/aldoklaupter die schönste
+windgeschicklichsten herauß/alfodasye ein vatter
+vnd müttereins einigen kinds/foesfchön vnd fau
+Berit/Beirauptwirt/vndwo einer iii.oder v.kinz
+der hat/fonithüpfchvndgeschickt sein mügen/fm
+beleißen. - -
+Züm andern nimpter färlichen von allen perfo-
+nen fung vndalt/einen sondern zinsyerxx. Oder rl
+Asper von einer person, -
+Zümdritten vonn einem hauptvich etlichaper
+von yedemacker/garten/wien/ vom Teñdarauf
+er traydtricht/dergleichenm/vomyederthür ihn
+hauß/auch etlich-Asper/also das sie nachmals fast
+hochvberschetzt werden/dergleichenfolaßt fieder
+Türck kein Kirchen weytter Beffern noch barwen
+darmit vermeint er sie bald züfeinem glaußen zü
+Bingen. . . . . . . - - - - - - - - -
+Darumb die obbemelten Christen beyder #
+(§
 i
 
 ieley
-chtlich von dannen an Chriftenliche rterz 
-gen das ist bey demzuermttenfoofft wir ans
-selben beyderfnd womung komfiennnwiewoldie
-mit vns hoch beschwert gewetdann fievns nicht
-allein freheuferraumenfonder auch alle notturft
-aus der Trcken gewaltigenngetrangdarmitfie
-fafvelzfridenvndiftz 
-offt von wnfer mit allein die altenfonnder auch die
- 
-abenmffen darumb sie offenlich nichts vomvns
-memen haben drfenallein was wirfnen haym
-lich haben bezaltnoch demnach haben sie sich mitt
-heimlichengeber den sehen laffen das sie lieberbey
-vnsdann dort weren 
+chtlich von dannen an Chriftenliche örterz ' - -
+gen, das ist bey demzüuermütten/foofft wir ans
+selben beyderfänd womung komfienn/nwiewoldie
+mit vns hoch beschwert geweßt/dann fievns nicht
+allein freheuferraumen/fonder auch alle notturft
+aus der Türcken gewaltigenngetrang/darmitfie
+fafvßelzüfriden/vndiftzü ''
+offt von wnfer mit allein die alten/fonnder auch die
+ä -
+abenmüffen darumb sie offenlich nichts vomvns
+memen haben dürfen/allein was wirfnen haym-
+lich haben bezalt/noch demnach haben sie sich mitt
+heimlichengeber den sehen laffen, das sie lieberbey
+vns/dann dort weren. ,
 Ach wie offt haben wir sie vovnsfehen steenn
-mit zamengeschlonenhemdenfeuffzent gen him
-f ehen vnd haen mitvmsnitred drf
-et 
-Wo aber frainien in geheim zred mitvmswo
-denhaben gesagtAch wie mit grofferbegyrde
-haben wir auffeuchvnfer mit Christen vnd
-erledigung gewartwir wollten auch gern auf ein
-werbetrblicherdtrich von disem Tyrannen zie
-hemyetzt ist aber vnfertroft audann wirfhenn
-das freuch auch dem Trckischen Keyser ergeben
-mffetpfifrziehentfridzfchen Welchs wirfn
-mit befferm hofflichfgvfizimlich trost mit
- gr0en
+mit zamengeschloßnenhemdenfeuffzent gen him
+f ehen/ vnd haßen mitvmsnitredé dürf
+et. . . - - - -
+Wo aber frainien in geheim züred mitvmswo
+den/haben # gesagt/Ach wie mit grofferbegyrde
+haben wir auffeuchvnfer mit Christen "# vnd
+erledigung gewart/wir wollten auch gern auf ein
+werbetrüblicherdtrich von disem Tyrannen zie-
+hem/yetzt ist aber vnfertroft auß/dann wirfhenn,
+das freuch auch dem Türckischen Keyser ergeben
+müffet/pfifrziehentfridzüfüchen. Welchs wirfné
+mit befferm hofflichëfügvfizimlich trost #mit
+– - gr0ßen
 
-groffen mitleiden verantwort 
- s Wolt Gott das alle dieodengewalt des Tr
-damlich findfeynoch dennochtm
-cken mit zherzenfaffengesehen hettenon allen
-zweifelfieweren mit den leutendie wir fr die re
-chten Christen achtendie auch in vnaussprechlich
-er schwerer notivfilherte danginde Chriftenlich
-glauben befendig Belibenmitlaidig gewet
+groffen mitleiden verantwort. - -
+' s Wolt Gott das alle die,/odengewalt des Tür
+damlich findfey/noch dennochtm
+cken mit züherzenfaffen/gesehen hetten/on allen
+zweifelfieweren mit den leuten/die wir für die re-
+chten Christen achten/die auch in vnaussprechlich
+er schwerer notivfilherte dang/inde Chriftenliché
+glauben befendig Beliben/mitlaidig geweßt.
 Die vorgenanten Christen bekefien auch dasyh
-enen das herau raisen wider die 
- ffen diefoge
-fhickt darzfendau gedrang mit den Thrcken
-wider die Christen ziehenDochforwllen wildes
-felben raubs mit tailhaftig werden Vndfagendz
+enen das herauß raisen wider die ''
+- ffen die/foge-
+fähickt darzüfend/auß gedrang mit den Thürcken
+wider die Christen ziehen/Dochforwöllen wildes
+felben raubs mit tailhaftig werden. Vndfagendz
 derselben wenige wider die Christen zieheney
-mes rechten tods sterben 
-VOilfind auch derdie auliederlicher vrfachvff
-au poshaitwie Beyvns auch vilbfer leutsend
-geren widvnsraisenvnd garand Trcken glau
-ben fallen vnnd kommenforwllen wir euch auch
-helfen vertreiben
-Xborgenelte Christenbeyderfndfynd dem
-Trckvatgleich beklaidton allein das die Chris
-ftenyhrehaartragen vnd die Trckenkolberger
-fchornfenddarbeyerkent man sie voneinander
-Ampfinstag den evSeptembrisvon Mokro
-auf eine hohen wifeinigen perggenant Medens
-gkhvnderhhe fast lang geritvauf der lyn
-cken hand die hhe des pergs gelaffennachmals
+mes rechten tods sterben. - - - - -
+VOilfind auch der/die außliederlicher vrfach/vff
+auß poshait/wie Beyvns auch vilböfer leutsend/
+geren widvnsraisen/vnd garand Türcken glau
+ben fallen vnnd kommen/forwöllen wir euch auch
+helfen vertreiben.
+Xborgenelte Christenbeyderfänd/fynd dem
+Türckévatgleich beklaidt/on allein das die Chris
+ftenyhrehaartragen/ vnd die Türckenkolberger
+fchornfend/darbeyerkent man sie voneinander,
+Ampfinstag den ev.Septembris/von Mokro
+auf eine hohen wifeinigen perg/genant Medens
+gkh/vnöderhöhe fast lang geritévñauf der lyn-
+cken hand die höhe des pergs gelaffen/nachmals
 vns aber von der straffen auf Siedencken hannd
+--
 
-
-gewendt ineindorff Grachonizadabeliben
- Amfreitag den xvfSeptembrisvon Gracho
-mitza nach dem perg Medenigk wollanggezogen
-Bis wir kommen findzetlichen groffen stayngres
-bernAachmals gen Czelempafarod Bogatza
-in ein Trckischsttlindaselbst beliben 
-Item auffdenphel darfr wir heut gezogen
-findvaftgroffe finfealfo das Inntalz
-leinwirfonder die Tircken wunder darabgeno
-menwie das fnffgroeftainfovierecket geha
-wenauf difen pithel gebracht findaldaligen her
- von Radafelgenantder ein First
-deffel6enlandts gewesen das ist oberBoffenge
-westlambt feinem weibeinem finneinem brder
- sch ff
- Auf dem groffengrabstein ist ein geschrift in
-Surffscherspachvndbchstaben gehawendie
-fehernach bemelte mainung
-Jch Herzog Paulouiz vRadafelgenantein
-hervnd Frst dies landslighie indifengrab Be
-graenden der Trckisch Kaiser weder mit not
-noch gaenauchfreit vndherten zwangvonn
-feinem landfein lebenlangnie zwingen odderbe
-dringen mochtenoch will weniger von glaubenn
-zfallen ich gedachteGot hat mir auch wider den
-Trcken namigenfig geben
-Das ich fm infreitalweg Bin 
-fagich gottlobvidckvlaf noch in Christlichem
+gewendt ineindorff Grachoniza/dabeliben
+- Amfreitag den xvf.Septembris/von Gracho
+mitza nach dem perg Medenigk wollanggezogen/
+Bis wir kommen findzüetlichen groffen stayngres.
+bern/Aachmals gen Czelempafar/od Bogatza/
+in ein Türckischstätlin/daselbst beliben. - -
+Item auffdenpühel darfür wir heut gezogen/
+findvaftgroffe '' finfe/alfo das Inntalz
+leinwir/fonder die Tircken wunder darabgeno
+men/wie das fünffgroßeftain/fovierecket geha-
+wen/auf difen pithel gebracht find/aldaligen her
+#'' von Radafelgenant/der ein First
+deffel6enlandts gewesen, das ist oberBoffenge
+west/lambt feinem weib/einem finn/einem brüder
+'' "ä sch ff
+- Auf dem groffengrabstein ist ein geschrift in
+Surffscherspach/vndbüchstaben gehawen/die
+fehernach bemelte mainung.
+Jch Herzog Paulouiz vöRadafelgenant/ein
+hervnd Fürst dies lands/lighie indifengrab Be
+graßen/den der Türckisch Kaiser weder mit not
+noch gaßen/auchfreit vndherten zwang/vonn
+feinem landfein lebenlang/nie zwingen odderbe
+dringen mochte/noch will weniger von glaubenn
+züfallen, ich gedachte/Got hat mir auch wider den
+Türcken namigenfig geben.
+Das ich fm infreitalweg Bin '
+fagich gottlobvidäck/vñlaf noch in Christlichem
 glauben meinland
 FD Jtem
+-
+/
 
-
-
-
-Item bey dem Serierten groffenngraban vn
-derenortsteet eingrastain eines anderen forms
-doch mit gro darinnligt gemeltsherzogen trew
-erdienereiner der ein terwrer Ritter gewetvon
-welchsritterlichen thatendie Boner vnd Craz
-bater noch will lieder fingen vnd ist ein crelitz dar
-aufgehawennauch ein schrifft inn Surffischer
-sprach vnd pchstaben die mainung in sich halten 
-Herzog Paulouitz mein herden ich liebetinn
-meinem leben 
+\
+Item bey dem Serierten groffenngrab/an vn
+derenort/steet eingraßstain eines anderen forms/
+doch mit groß darinnligt gemeltsherzogen trew
+erdiener/einer der ein terwrer Ritter geweßt/von
+welchsritterlichen thaten/die Boßner vnd Craz
+bater noch will lieder fingen/ vnd ist ein crelitz dar,
+aufgehawenn/auch ein schrifft inn. Surffischer
+sprach vnd püchstaben, die mainung in sich halten -
+Herzog Paulouitz mein her/den ich liebetinn
+meinem leben. - - - -
 Mit trewenn diensten wartet ich deines kopffs
-gareen 
-Jetz leg ich mich todter zden fiffenn deindar
+gareßen. - .
+Jetz leg ich mich todter züden fiffenn dein/dar-
 mitwil ich in der erde auch deintrewerdiener fein
-Des bist du hochbermbterritterlicher Frst
-wolwerd 
+Des bist du hochberümbter/ritterlicher Fürst
+wolwerd, -
 Danndein schwert hat von Christenliches glau
-bens wegen manchen Trcken verfert 
-Am Sambistag den rwij Septembeisvon Ras
-gatitza oder Czelempafarvber einen vaft hohen
-vnd langen fainigen perggenant SemetzNach
-mals in zwayfafttieffe tlerzdemwaffer Tre
-nadarber gefaren vnd gleich von fundaminey
-ner schnen genau rten Khouaffaria Belibenauf
-ferhalb des Marcktswelcher Wischegradgenant
-wirtDann o des marcktsein hochsfchloauff
-einer stainsandigenantVischegrad
+bens wegen manchen Türcken verfert. -
+Am Sambistag den rwij. Septembeis/von Ras
+gatitza oder Czelempafar/vber einen vaft hohen
+vnd langen fainigen perg/genant Semetz/Nach
+mals in zwayfafttieffe täler/züdemwaffer Tre-
+na/darüber gefaren/ vnd gleich von fundaminey
+ner schönen genau rten Khouaffaria Beliben/auf
+ferhalb des Marckts/welcher Wischegradgenant
+wirt/Dann oß des marcktsein hochsfchloß/auff
+einer stainsandigenantVischegrad.
 
-
-
+-
+-
 III
 in
+---
+-
+#
 
 
 
 
 
 
-
-
-
-Am Sontag den rwij Septembrisvon Vische
+Am Sontag den rwij. Septembris/von Vische
 grad nach einem thal gegen einen wafer Rifona
-genanntzeinem Clsterlinallda acht Surfffch
-Mnchfein vns entgegenkomfienainer in feinen
-priesterlichen Ornatgangen den Herzen vnd vns
-F schon vndeerlich empfangenn auch Gott den
-Allmechtigen wunbgttenwegwind glcklicherwy
-derkunft gebettennachmals zeinem fchlo Doz
-brumfd auf der linckenfeytten an einer faymwd
-ligtvnd gezogen wber einen hohenperg kommen
-insthalzeinem waffer Vbeuarzsomit vnsgert
-nendarber gerittenvnd auf der rechten Inhand
-ein altemaurin der Hhegesehensoeyder Chai
-fenzeyttenneinfchnsfchlo genannt Pribonge
-westvnd kommen innein mrcktlinauch Pribon
-genantalda beliben 
-Itemeinwolgro waffer genant Lunfo gegen 
-vns von Macedoniagerunnenvnd Obeuarz das
-wafferrinnenzsamen vnder oberirtem zerstrt
-temfchlowndflieffen in die Orna
-Am Montag den rix Septems ist von Pri5
-fr ein kleins Clsterleindarinn auch Christenn
-Surffisch Mnchwomen vnn der einem berg wol
-lang gerittengenant Wanfagora das ist Toplis 
+genanntzüeinem Clösterlin/allda acht Surfffch
+Münchfein vns entgegenkomfien/ainer in feinen
+priesterlichen Ornatgangen, den Herzen vnd vns
+F" schon vndeerlich empfangenn/ auch Gott den
+Allmechtigen wunbgüttenwegwind glücklicherwy-
+derkunft gebetten/nachmals züeinem fchloß. Doz.
+brum/fd auf der linckenfeytten an einer faymwäd
+ligt/vnd gezogen wber einen hohenperg/ kommen
+insthalzüeinem waffer Vbeuarz/somit vnsgerät
+nen/darüber geritten/vnd auf der rechten Inhand
+ein altemaurin der Höhe/gesehen/soßeyder Chai
+fenzeyttenneinfchönsfchloß" genannt Pribon/ge
+west/vnd kommen innein märcktlin/auch Pribon
+genant/alda beliben. –
+Itemeinwolgroß waffer genant Lun/fo gegen -
+vns von Macedoniagerunnen/vnd Obeuarz das
+wafferrinnenzüsamen vnder oßberirtem zerstört
+temfchloß/wndflieffen in die Oröna.
+Am Montag den rix. Septems ist von Priß5
+für ein kleins Clösterlein/darinn auch Christenn
+Surffisch Münchwomen vnn der einem berg wol
+lang geritten/genant Wanfagora, das ist Toplis -
 zerperg allfo genanndt das vnnder yetzgemel
-tenn Clsterlein einnwarms waffer entspringt
-alda sich die Trcken fast der fra rauberbefolgen
-also das sie heut auf dem dorfbeyrlmannenmzt
-Glaytsleuten mitgenomien kommen in ein d 
+tenn Clösterlein einnwarms waffer entspringt,
+alda sich die Türcken fast der fraß rauberbefolgen
+also das sie heut auf dem dorfbeyrl.mannenmzüt
+Glaytsleuten mitgenomien kommen in ein d - -
 
-lin Crotonosovo kurzer zeyt in die herr heufer 
-gehabtaber yetzt kaumvovf heuer hat Nach
-mals aber vber ein fast Kame
-natz genant in ein mrcktlin Schkender Paschina
-alda Beliben 
- Am Erichtag den xxSeptembis von Schken
+lin Crotono/sovo kurzer zeyt in die herr, heufer -
+gehabt/aber yetzt kaumv.oövf, heuer hat/ Nach
+mals aber vber ein fast ä Kame
+natz genant in ein märcktlin Schkender Paschina
+alda Beliben. - - -
+- Am Erichtag den xx.Septembis von Schken
 der Paschina den pergabgezogeninn dasthal wids
-aufeinfchne hhewollang geritten kunien z
-demwaffer Vbeyazdarber vnd auf ein hochs
-gepyrg kommenAldagegen dem meerRagusKo
-mania ConstantinopelSchmedrau ovnd vnder
-fichauff Boffenindielmeylweytt gesehen innein
-doff kommen Jatronichalda belien
-Am Mittichen den rxfSeptembis von Jafro
-mich an einem perg in ein tiefsthalderperg gent
-Erefabey einem waffer mit namen Lutzka gezog
-konfien geWouipafatdzift Newmarcktaldablib
-Am Pfinztag den irrij Septembisfeind wird
-gantzentag in der stattzNouipafarbeliben
- Am Freyttag den xxuf Septembis von Mouis
-pafar ver einen fast hohenperg Ragefmo genant
+aufeinfchöne höhe/wollang geritten kunien zü
+demwaffer Vbeyaz/darüber vnd auf ein hochs
+gepyrg kommen/Aldagegen dem meer-Ragus-Ko
+mania Constantinopel/Schmedrau ovnd vnder
+fichauff Boffenindiel.meylweytt gesehen innein.
+doff kommen Jatronich/alda belißen.
+Am Mittichen den rxfSeptembis von Jafro-
+mich an einem perg in ein tiefsthalderperg genät
+Erefabey einem waffer mit namen Lutzka gezogé
+konfien ge-Wouipafat/dzift Newmarckt/aldablibé
+Am Pfinztag den irrij Septembisfeind wirdé
+gantzentag in der stattzüNouipafarbeliben.
+- Am Freyttag den xxuf Septembis von Mouis
+pafar vßer einen fast hohenperg Ragefmo genant
 gezogen in das thal kommen aldo mit goldwascha
-werck vnd filbererztMachmals zeinfast gro
-fen vnd schnen zerstrten Closter auf der lincken
-handligendoder Trckisch Keyser von einer klei
-nenzeyt vmbdas das die gefangen Christensof
+werck vnd filbererzt/Machmals züeinéfast groß
+fen vnd schönen zerstörten Closter auf der lincken
+handligend/oder Türckisch: Keyser von einer klei
+nenzeyt (vmbdas das die gefangen Christen/sof
 widerledig worden in das Closterkonfien ihr auf
-enthaltung gehestvnd darigewetfeinzerst
-renlaffendardurch wir gerittenvfi das gar wol
+enthaltung gehest/vnd dariñgewetfein)zerstö
+renlaffen/dardurch wir geritten/vfi das gar wol
 D ij Befehen
 
-besehennNachnalszeinem schlo Suetzay das
-dlfturmfreyligt kommenvndvber ein waferge 
-tant Zbarin einen marckt Metronitza Beliben 
-Itendiezweyfchlffer nemlich das erft Jeletz
-fo wir heut auf der Alm Ragefmoals wir vonn 
-Mouipafargeritten auf der rechten handauffey 
+besehenn/Nachnalszüeinem schloß Suetzay das
+dälfturmfreyligt kommen/vndvber ein waferge |
+tant Zbarin einen marckt Metronitza Beliben. .
+Itendiezweyfchlöffer/ nemlich das erft Jeletz,
+fo wir heut auf der Alm Ragefmo/als wir vonn |
+Mouipafargeritten auf der rechten handauffey |
 nenfaffeynigenperg etwa meinmeylwegs vonn
-wns gesehen vndaer Suezayfo an dem waffer 
-Z8ar auch auf einem feynigenpergdarund wir
-gleich heut gerittenvnd auf der lincken handlaf
-fenligenfeind der Grenitzenfchlffer gewesen da
-rinnmanfichzderzeytfo Boffen noch in d Chris
-fenheit gewestvon den Trcken redlich dapffer
-vnd fafgewertaberyeziftes auf
+wns gesehen vndaßer Suezay/fo an dem waffer -
+Z8ar auch auf einem feynigenperg/darund wir
+gleich heut geritten/vnd auf der lincken handlaf
+fenligen/feind der Grenitzenfchlöffer gewesen, da
+rinnmanfichzüderzeytfo Boffen noch in d Chris
+fenheit gewest/von den Türcken redlich dapffer.
+vnd fafgewert/aberyeziftes auf.
+-
 
-
- 
-g 
-
-
- N
- 
- 
- 
- 
-I 4 
+- - - – -
+g - - - -
+-
+-
+- - N
+- -
+- - - - - -
+- - - - - - -
+- - "
+I 4 -
 WM
-S 
- 
+S - -
+- /
 
 
 
 
 
-Hienohabichzumtailsescheiben welchermas
-engelegenhaitdeslands Midersoffenvnnd der
-leut fodariwonengestalt ist der halben gebrt
-sich von Obersoffen das sich vngefarlich von der
-Statt Verboffennanhetvnnd bis auf das hein
-tiglgergenant Schuetza oder Metronizaen
-det auch einanzeigenzethonwie hernachvolget
+„Hienohabichzumtailsescheiben, welchermas
+engelegenhaitdeslands Midersoffen/vnnd der
+leut fodariñwonen/gestalt ist der halben gebürt.
+sich von Obersoffen, das sich vngefarlich von der
+Statt Verboffennanheßt/vnnd bis auf das hein
+tigläger/genant Schuetza oder Metroniza/en
+det, auch einanzeigenzethon/wie hernachvolget.
 Erstlichsoft Osersoffennitsorauch pyrgig
-als Widerboffenfonnder mit langenn hohen Aln
-au bloffenpergen wmbgebennwenig nerwervel
-deronallain was bey der Stat wndveld Ober
-BoffenistDienwoier des landsfeind von zwai
-ennationendas feind Trcken vnd Surfendas
-uon wo gemeltiftdie habenyrepriester wndkirch 
-en nach Christenlicher ordngAuch die drey Cl
-ferdauomich fetzinn tglicher Beschreibung mel
-dung gethon hat ein Griechischer Kaisergenant
-Kaifer gestiftdochfeind die maifenn
-Trckenfokriegsleut feindvnd die vom Trcki
-fchenin Kaiser diennfgelt habenndasfie Tym
-marnenneninn Berirtemlandvnd nemlich von
-Pruffaz biinn die StatVerboffen da der V
-treffweg Wascha oder hauptmanim Knigreich
-Boffen sein wonunng hatauffyhrenhfengesef
-jenndie herschen vber die Surffen mit groer
-Tyranneywie vor gemelt ist 
+als Widerboffen/fonnder mit langenn hohen Aln
+auß bloffenpergen wmbgebenn/wenig nerwervel-
+der/onallain was bey der Stat wndveld Ober-
+Boffenist/Dienwoier des landsfeind von zwai
+ennationen/das feind Türcken vnd Surfen/das
+uon wo gemeltift/die habenyrepriester wndkirch -
+en nach Christenlicher ordnüg/Auch die drey Clö-
+fer/dauomich fetzinn täglicher Beschreibung mel,
+dung gethon hat ein Griechischer Kaiser/genant
+Kaifer '' gestift/dochfeind die maifenn
+Türcken/fokriegsleut feind/vnd die vom Türcki
+fchenin Kaiser diennfgelt habenn/dasfie Tym
+marnennen/inn Berirtemland/vnd nemlich von
+Pruffaz bißinn die StatVerboffen, da der Vß-
+treffweg Wascha oder hauptman/im Künigreich
+Boffen sein wonunng hat/auffyhrenhöfengesef-
+jenn/die herschen vber die Surffen mit großer
+Tyranney/wie vor gemelt ist. - -
 
-Das Knigreich Boffen ist nach der gelegen
-heit der gre nicht wollbesetztdes hab ich dreier 
- Jay vfacherfragt 
- strbtes an der Pestilenz nur vil
-fat 
-t Zum andern das die SurfenZitzenvfi Mar
-tholfenvon wegen der fchatzung der zyn vnd Be
-schwerung der Herrschaft vaft wegflyehen
- mayist das der Trckischkey
-ferdas fung vnd dz geschickt volckwie obberhrt
-ist auf dem land nimptdann alle seine Janitzar
-vnd befendienst vnd Amptleutauch Hauptleut
- die Boffnersein auch bey dem Trcken fr dz
-effrnfiefgetrewest wolck beschyendiesy auch
-fr die rechten Trcken lieenvfiberimentraw
-emynen auch will mehr dann den rechten Trcken
-Sie fein auch warlich andergeschicklichaitv
-schnefterpersonweytvnderschidlich vnder den
-Trckenzerkennen dafi fievilschner geschmuck
-ter sein als die Trcken 
-Dasland hat an vilorten GoldWaschwerck
-vnnd Silbererzt Es ist augennscheynlichdas
-Woffen Seyzeiten der Christen ein waffhn wol
-erpawtland ist gewesen auch an viloten Weyn
-wachsyetz hat es allein vm 6Wichgrad vnd Mo
-uipafatweynwachsdoch magesanbaydenfey
-ten gegen dem Mvnnd der andern gegend der
-Sawallda eingroffeweytte des an ist 
+Das Künigreich Boffen ist. nach der gelegen
+heit der größe nicht wollbesetzt/des hab ich dreier -
+- Jay vfacherfragt. - - - - - - - -
+- '' stürbtes an der Pestilenz nur vil
+fat - – . .
+t Zum andern, das die Surfen/Zitzenvfi Mar
+tholfen/von wegen der fchatzung der zynß vnd Be
+schwerung der Herrschaft vaft wegflyehen.
+– '' mayist das der Türckischkey-
+fer/das fung vnd dz geschickt volck/wie obberührt
+ist auf dem land nimpt/dann alle seine Janitzaré
+vnd befendienst vnd Amptleut/auch Hauptleut
+' die Boffner/sein auch bey dem Türcken für dz
+effrünfiefgetrewest wolck beschyen/diesy auch
+für die rechten Türcken ließen/vfiberimen/traw
+emynen auch will mehr dann den rechten Türcken.
+Sie fein auch warlich andergeschicklichaitvñ
+schönefterperson/weytvnderschidlich vnder den
+Türckenzüerkennen dafi fievilschöner geschmuck
+ter sein als die Türcken. - -
+Dasland hat an vilorten Gold/Waschwerck
+vnnd Silbererzt/ Es ist augennscheynlich/das
+Woffen Seyzeiten der Christen ein waffhön wol
+erpawtland ist gewesen, auch an viloten Weyn
+wachs/yetz hat es allein vm 6Wichgrad vnd Mo-
+uipafatweynwachs/doch magesanbaydenfey-
+ten gegen dem Mövnnd der andern gegend der
+Sawallda eingroffeweytte des an. ist/ '
 
- 
-
-hin wir nicht komendaserpawtfeydann Beyder
-straffen ist es am veltenerpawtWfach das fin
-die Trcken am hyn vnd wider rayfen alles meine
-was sie habenvnd gar nichts darfr geben Auch
-den Biffenden sie in ihren melern tragenzuckenn
-vndreyffens ihnen auf den melernwie die zuck
-endenreyffenden WlffHundwinnd Lewenn
-Darumb die armenleuthehennvnndvelder
+- -
+-
+hin wir nicht komendaserpawtfey/dann Beyder
+straffen ist es am vßeltenerpawt/Wfach das finé
+die Türcken am hyn vnd wider rayfen alles meine
+was sie haben/vnd gar nichts darfür geben. Auch
+den Biffenden sie in ihren meülern tragen/zuckenn
+vndreyffens ihnen auf den meülern/wie die zuck
+enden/reyffenden Wölff/Hundwinnd Lewenn/
+Darumb die armenleuthehüßennvnndvelder
 allein fm gepyrgwnind auf den Alpen haben wnnd
-Paz Wen 
-Itemimgantzenknigreich Boffen mfyeder
-manzkrieg gerffein Memlich ein jeder achtze
-hen oder zweifroamparchatvfibald man fm
-auffpeitmerbey verlierung feinslebenshab
-vndgtsziehen Welliche aber dienstleut feynpfi
-mpter dienstgelt oder Tymmar vom Keifer hat
-Benvndvngehorsam erscheinen oder mit dem we
-nigiftenvngehorfamfeinOfie gleich vfach an
-zaigenfonympt fme der Keiferfeinamptdienst
-gelt oder Tymmardas feinetlich Drfferfofme
-vndergeben feinvndgitsdemnechstenderges
-hofamerichinen istoder der mit einer gtet hatt
-befhyen ist
- Jetz will der Trckischkeyfer das die fomp
-terdienstgelt oder TyniarinnBoffen gehabt inn
-Hungern ziehen vnd dafelbst Tynfiariannemen
-oder wellicheda Bleyben wllendasfyzyn oder
-Tribut wie anderpauren geben dafi erwil Bos 
+Paz Wen. -
+Itemimgantzenkünigreich Boffen, müfyeder.
+manzükrieg gerüffein Memlich ein jeder achtze
+hen oder zweifroßamparchat/vfibald man fm
+auffpeit/müßerbey verlierung feinslebens/hab
+vndgütsziehen. Welliche aber dienstleut feyn/pfi
+ämpter, dienstgelt oder Tymmar vom Keifer hat
+Ben/vndvngehorsam erscheinen oder mit dem we
+nigiftenvngehorfamfein/Oßfie gleich vfach an
+zaigen/fonympt fme der Keiferfeinampt/dienst
+gelt oder Tymmar/das feinetlich Dörffer/fofme
+vndergeben fein/vndgißtsdemnechsten/derges
+hofamerichinen ist./oder der mit einer gütet hatt
+befhyen ist.
+- Jetz will der Türckischkeyfer/ das die foämp
+terdienstgelt oder Tyniarinn-Boffen gehabt inn
+Hungern ziehen/ vnd dafelbst Tynfiariannemen/
+oder wellicheda Bleyben wöllen/dasfyzynß oder
+Tribut wie anderpauren geben dafi erwil Bos -
 fen
 
-
-fenfeyter Hungern vnd Crabaten vermaintz
-haben nur fr Grenitzen haltendarum6 ziehenn
-diedienstleut foTyniar vnndmpter habenyetz
-Fan hoffzum Keifer daffelsigez wider trey
-21 
-Wir haenzoer Boffen vilkirch Surffisch
-priester auch Clster darinn Surffchwfi Griech
-ich mnichcretzanden grebernvnn dann der
- Chriftenlichezaichenn gefundendabeyzuern
-tenwie sie wns auch warhaftigamtzagendasfy
-sich vnd ihre Knig vnd Hertenvorzeytten von
-des Chriftenlichen glawbens wegenmit treffen
-lichen schlachtender malstatwir etlich gesehen tritt
-terlich gewerdtvnd dass der Trck anders mit
-erobern mgendafidasersybeyhem glawben
-hatlaffen mffen 
-Essein auch noch vilgegentindemland dem W
-die Trckenfelbsdenrngebenn dass byffher 
-mit kainem gewalt erobertallain das sie sichfo
- beyfhiemglawenlafmit diennfparkaiter
-ge 14
+-
+fenfeyter Hungern vnd Crabaten vermaintzü
+haben nur für Grenitzen halten./darum6 ziehenn
+diedienstleut foTyniar vnndämpter haben/yetz
+Fan hoffzum Keifer daffelsigezü wider trey
+(21. - - -,
+Wir haßenzüoßer Boffen vilkirché Surffisch
+priester auch Clöster darinn Surffchwfi Griech
+ich münich/creütz/anden grebern/vnn dann der
+- Chriftenlichezaichenn gefunden/dabeyzüuernü-
+ten/wie sie wns auch warhaftigamtzagen/dasfy
+sich vnd ihre Künig vnd Herten/vorzeytten von
+des Chriftenlichen glawbens wegen/mit treffen
+lichen schlachten/der malstatwir etlich gesehen tritt
+terlich gewerdt/vnd dass der Türck anders mit
+erobern mügen/dafidasersybeyhem glawben
+hatlaffen müffen. -
+Essein auch noch vilgegentindemland, dem W
+die Türckenfelbsdenrüngebenn, dass byffher -
+mit kainem gewalt erobert/allain das sie sich/fo
+- 'beyfhiemglawßenlaf/mit diennfparkaiter
+ge (14.
 Ach Got der armen ellenden Babylonischenge
-fencknusvewigerdienstparkaitGor der barm
-herzig wlle sie mit feinen gnaden bald erledigen
-vnn der wellichen auch die Trcken nicht wonen
-da sie besorgen sich vonen dann sie der wilheim
-Itcherschlagen s
- LE j Die
+fencknusvñewigerdienstparkait/Gor der barm
+herzig wölle sie mit feinen gnaden bald erledigen/
+vnn der wellichen auch die Türcken nicht, wonen/
+daß sie besorgen sich vonen, dann sie der wilheim
+Itcherschlagen. - s
+. . LE j Die
 
-Dieselben Surffendie wirfnn Chriftenlicht
-wesengefunden haben wnsvillieberzaigtvndfo
-etwan ein alterkommen der hat zden jungenn
-gefagtfchetalfofeinbeyvnfer Vterzeyten auch
- indiemlandgewest
-Ach Gott wir haben allweggehofftihr wurd
-wnswidder erledigenyetz verziecht ihr euch dem
-Trckischen keyferzergebenWir sehen das der
-Trckisch keifer ein her aller weltwill werden n
-Noch bitten wir euch Beyefendig in Chriftenlis
-chem glaubenthtwie wirthondie in allernot
-befendig sein fm glaubenWir haben vilbefern
-trost dann sie sich versehengeben 
-Ach nun mies Goterparmenndas vints den
-gezwangtengenttenverlaffenarmen Christen
-fn winnern glauben trsten sollenwolt Got das
-frefym fn das Rmischreichdas doch ein haupt
-aller Christenfeinfoerscholletfohet sie doch des
-meniger dereingter Christ sein wilvnd dz mit
-denwercken nicht erzagtfhemen mffen
-Am Sampftag den vierundzwanzigstSep
-tembeisvMetroniza marcktvber dz Ambsch
-feld gezogen z einer fhnen gemauertenpucken
-wfi darber in ein groffen marckt Wutzteruonach
-demfeldzeinem gemauertengrab eines Trck
-ichen keyfers der dann dafelsis erstochennwort
-denvns auf die lingkhand geschlagen in einfat
-Pristinadabesleben
- Jun
+Dieselben Surffen/die wirfnn Chriftenlicht
+wesengefunden haben wnsvillieberzaigt/vndfo
+etwan ein alterkommen, der hat züden jungenn
+gefagt/fchet/alfofeinbeyvnfer Väterzeyten auch
+' indiemlandgewest.
+Ach Gott wir haben allweggehofft/ihr wurd
+wnswidder erledigen/yetz vßerziecht ihr euch dem
+Türckischen keyferzüergeben/Wir sehen das der
+Türckisch keifer ein her aller weltwill werden n/
+Noch bitten wir euch Beyßefendig in Chriftenlis
+chem glaubenthüt/wie wirthon/die in allernot
+befendig sein fm glauben/Wir haben vilbefern
+trost dann sie sich versehen/geben. -
+Ach nun mißes Goterparmenn/das vints den
+gezwangten/genötten/verlaffenarmen Christen
+fn winnern glauben trösten sollen/wolt Got das
+frefym fn das Römischreich/das doch ein haupt
+aller Christenfeinfo/erschollet/fohet sie doch des
+meniger (dereingüter Christ sein wil/vnd dz mit
+denwercken nicht erzagt)fhemen müffen.
+Am Sampftag den vierundzwanzigstéSep
+tembeisvö-Metroniza marckt/vber dz Ambsch
+feld gezogen zü einer fhönen gemauertenpucken/
+wfi darüber in ein groffen marckt Wutzteruonach
+demfeld/züeinem gemauertengrab eines Türck
+ichen keyfers/ der dann dafelsis erstochennwort
+den/vns auf die lingkhand geschlagen in einfat
+Pristinadabesleben.
+- Jun
 
-Inberrttemn Ansfhfeld stehet ein vmbge
-maurts grawie ein vierecketerthurneines 
+Inberürttemn Ansfähfeld stehet ein vmbge/
+maurts graß/wie ein vierecketerthurn/eines '
 hengaden hoch mit einem runde pleyendach wol
-geziert darin ist des Murat Trckischen keifers
-des achtender fhm Taufemt vierhundert vnnd
-zwayvnd zweimtzigsten tarangehebt zregieren
-vnd hat mein vnd zweimtzig fargeherschtley 6be
-aendafi er an den felBen orten innfinerheer
- ermit feinenheer wider den Dispoten
+geziert darin ist des Murat Türckischen keifers
+des achten/der fhm Taufemt vierhundert vnnd
+zwayvnd zweimtzigsten tarangehebt züregieren/
+vnd hat mein vnd zweimtzig fargeherscht/ley 6be
+aßen./dafi er an den felBen orten innfinerheer
+' ermit feinenheer wider den Dispoten/
 der dann ein Firft oder Marggraf der Surfen
-gewesen von einem Surffschen alten ritterlich
+gewesen, von einem Surffschen alten ritterlich-
 enmann mit vamen Milosch Khabilouiz mitey
-nendolch erstochendie hystoiftehether nachge
-fcheien 
- Alsdeffelbenmals wieder Trckisch keyfer
-Murat mit heereskraft wider den benanten Fr
-ften oder Marggraffenin das Ampfchfeld gezo
- genhat sich gedachter Dispotauch mit feineheer
-verfamlet vgegen dem Keifer gezogen der mei
-nung zeschlagenbeywellichemgemelter
-Milosch Khabilouiz auch gewestVnndwiewol
-er der Khabilouitzeinvathoch Bermpter vnnd
-vermerter Rytter gewestder dann an der Grz
-nitzen tglich vilritterlich fachen gebt vnd began
-genwonnwellichesritterlichen thatten nochyetz
+nendolch erstochen/die hystoiftehether nachge
+fcheißen. - - -
+- Alsdeffelbenmals wieder Türckisch keyfer
+Murat mit heereskraft wider den benanten. Für
+ften oder Marggraffen/in das Ampfchfeld gezo-
+- gen/hat sich gedachter Dispot/auch mit feineheer
+verfamlet vñgegen dem Keifer gezogen, der mei
+nung ' zeschlagen/beywellichemgemelter
+Milosch Khabilouiz auch gewest/Vnndwiewol
+er der Khabilouitzeinvathoch Berümpter vnnd
+vermerter Rytter gewest/der dann an der Gröz
+nitzen täglich vilritterlich fachen geübt vnd began
+gen/wonnwellichesritterlichen thatten nochyetz
 in Krabaten wider endewillieder gesungen wo
-denforwarder doch seinem hernden Dispoton
+den/forwarder doch seinem hernden Dispoton
 mit wilverdechtlich hait angesetzte LP
- uy Dens
+- - uy Densº
+-
+–
 
-
-
-
+-
 denfeynden verstand vndheymlichplactickhabe
-darion zweifel wie fein that Beweyfen vnrecht
-geschehenfonder auf neydals noch oft geschicht
-das fme der ehren das er so langezeitbiinfeinal
+dariñon zweifel wie fein thaté Beweyfen vnrecht
+geschehen./fonder auf neydals noch oft geschicht
+das fme der ehren, das er so langezeit/bißinfeinal
 terfouilgeferlichhaithin kommen nicht vergundt
-wardWann aber der Frstifhme der halben fast
-wngnedigdasershme nicht wieuovnndfeinem
-verdienen nachlebet vnd gnaderzaigtdas gedul
-det der alt Ritterlang
-Aber diserzeitfetzt der Frst shmfeld legerz
-einem nachtmal viljunger Edelleutvnnddienst
-heutzfamen antichvnndehetfieaer den alten
-Ritter Khalouitz lie er vor dem tischfteendar
-bey verfond der alt Ritterden wngunft vnd das
-mitrawenfofein Herz vnuerschuldt gegenyhm
-trgganz offenbar darums war der betrtvfi
-thetshm das vnildweevnndward mit groffer
-Beschwerung nachgedenckenfinvnfhuld mit eh
-fests ob feinen miglnnernz
-PLC f 
-Vnd so die malzeit fr washberan mitbe
-schwerten gemt zfeinem herndem Marggra
-uenzreden vndfpachHertwayst du nichtwye
-offtvdickich in deinem dienst mein leben ritter
-lich wider den feyndgewagtvnndha mein ryt
-terschafft fr anderbewisenvnnddulaffest mich
-pberfolliches deinen alten in dyener vor dem
- Hitz
+ward/Wann aber der Fürstifhme der halben fast
+wngnedig/dasershme nicht wieuovnndfeinem
+verdienen nachlebet vnd gnaderzaigt/das gedul
+det der alt Ritterlang.
+Aber diserzeit/fetzt der Fürst shmfeld legerzü
+einem nachtmal viljunger Edelleutvnnddienst-
+heutzüfamen antichvnndehetfie/aßer den alten
+Ritter Khaßlouitz ließ er vor dem tischfteen/dar
+bey verfond der alt Ritter/den wngunft vnd das
+mißtrawen/fofein Herz vnuerschuldt gegenyhm
+trüg/ganz offenbar darums war der betrüßt/vfi
+thetshm das vnöildwee/vnndward mit groffer
+Beschwerung nachgedencken/finvnfhuld mit eh
+fests ob feinen mißglünnernzü-
+PLC) (f), - -
+Vnd so die malzeit für was/hüberan mitbe-
+schwerten gemüt züfeinem herndem Marggra-
+uenzüreden vndfpach/Hertwayst du nicht/wye
+offtvñdick/ich in deinem dienst mein leben ritter
+lich wider den feyndgewagt/vnndhaß mein ryt-
+terschafft für anderbewisen/vnnddulaffest mich
+pberfolliches deinen alten in dyener vor dem#
+- - Hitz
 
+'-
+“ fehn/vnind beweist den jungen (die das noch nie
+gesehen) das ich gethan/wileht mir züfchandenn/
+darumbherzbehüt dich Gott/yetz gehe ich dahyn
+vnd will meintrewen dienstbeweyfen/damit du
+erkefiefdzich 8 ehrenvil wirdiger wer gewesen/
+dann die foduzüdeinem tisch gesetzt/dañichthon
+will/das sie züthon nicht gedachten/vnd will dei
+nenkriegende geben/Wiewolich dz lebennlaffen
+müß darüb/damit ritte Mi. Kho. hin in des Tür
+ckischen keifers leger. Da das der Marggrauevi
+fein leutvernamen/die gedachten, er wer widder
+sievmsgefallen/vnd schalten ihn darum 8.
+NOnd als der Türckisch keiserv und einlent des
+Kho.ankunft vernammen/die wurden feinfro
+vnnd vermainten/erwerfhnen zügütkommen,
+wie er sich auch des mercken ließ, die empfiengenn
+' schon/dannfie erkannten ihnewmb feiner red
+ichen thatten willen wol/wnind zaigten ihne den
+Keiferan/derließfhne für sich kommen. -
+Also begerter allain mit dem Keifer gütigfachen
+züreden/desthetfhin der Keiserstatt/vfigedacht
+er wurde fmanzaigen./dasfmezüeroberung des
+Marggraffen dienstlich fein wurde. "
+Vndalsfie allein waren/vnd der Keifer reckt
+fhme (wie dann züder selben zeyt der Türckischen
+keiferbauchwas)denfüßzüküffen/Darzüfpach
+der alt Ritter/Wievnbillich küst dir ein Christde
+füß/darumbenwirst duyetz deinenlon en", -
+- - - - - j)
 
- fehnvnind beweist den jungen die das noch nie
-gesehen das ich gethanwileht mir zfchandenn
-darumbherzbeht dich Gottyetz gehe ich dahyn
-vnd will meintrewen dienstbeweyfendamit du
-erkefiefdzich 8 ehrenvil wirdiger wer gewesen
-dann die foduzdeinem tisch gesetztdaichthon
-willdas sie zthon nicht gedachtenvnd will dei
-nenkriegende gebenWiewolich dz lebennlaffen
-m darbdamit ritte Mi Kho hin in des Tr
-ckischen keifers leger Da das der Marggrauevi
-fein leutvernamendie gedachten er wer widder
-sievmsgefallenvnd schalten ihn darum 8
-NOnd als der Trckisch keiserv und einlent des
-Khoankunft vernammendie wurden feinfro
-vnnd vermaintenerwerfhnen zgtkommen
-wie er sich auch des mercken lie die empfiengenn
- schondannfie erkannten ihnewmb feiner red
-ichen thatten willen wolwnind zaigten ihne den
-Keiferanderliefhne fr sich kommen 
-Also begerter allain mit dem Keifer gtigfachen
-zredendesthetfhin der Keiserstattvfigedacht
-er wurde fmanzaigendasfmezeroberung des
-Marggraffen dienstlich fein wurde 
-Vndalsfie allein warenvnd der Keifer reckt
-fhme wie dann zder selben zeyt der Trckischen
-keiferbauchwasdenfzkffenDarzfpach
-der alt RitterWievnbillich kst dir ein Christde
-fdarumbenwirst duyetz deinenlon en 
- j
-
-Vndals er sich naygt den fzkffenzohee
-dendolch aufeinem ermel vndfach den Keifer
-von wnden auf fein herzabdaser mit feinem gez
-fchayfeinleben verliemit demward der zlauf
-vnd der Ritter floh zfeinempferdvmnd kam da
- erwardallda dann och auf dem pferd
-Erschlagen 
+Vndals er sich naygt den füßzüküffen/zohee
+dendolch außfeinem ermel/ vndfach den Keifer
+von wnden auf fein herzab/daser mit feinem gez
+fchayfeinleben verließ./mit demward der zülauf
+vnd der Ritter floh züfeinempferd.vmnd kam da
+' erwardallda dann och auf dem pferd
+Erschlagen. - -
 In dem kam das geschayinn des Margrauenn
-au Surffenheerwie Ko den Kayser erstochen
-heetaber er deshalb daroberschlageweralda er
-kannt erst der herzfeinen trewen diener
-Aber die Turckenfofy frhaupt verloren het
-tengabennf die fluchtdamit ward der Marge
-graff vnd fein heerelandvndleutdymals von
-dem Trcken erledigt 
+auß Surffenheer/wie Ko. den Kayser erstochen
+heet/aber er deshalb daroberschlagewer/alda er
+kannt erst der herzfeinen trewen diener.
+Aber die Turckenfofy frhaupt verloren het-
+ten/gabennf die flucht/damit ward der Marge
+graff vnd fein heere/landvndleut/dyßmals von
+dem Türcken erledigt. - " -
 Ach Kobilonitz hat nicht yederman gemainty
 du wurdest dich an deinem wingmedigen heulen wi
-deinen missgiernan frennachthailrechenvndfy
-inndiehend der feynd gebenjohast du dich Chi
- gerochenwnd das bse mit mitgten belo
-netauch dein leben fr deine mignner gebenn
-darzdas Vaterland auderfeyndland erledigt
+deinen missgüiernan frennachthailrechen/vndfy
+inndiehend der feynd geben/johast du dich Chi-
+' gerochen./wnd das böse mit mitgüten belo
+net/auch dein leben für deine mißgünner gebenn/
+darzüdas Vaterland außderfeyndland erledigt
 Darumben bist du billich inndie gedechtnus der
-zweyer RmerMemlich des Gaij Mucij Sceuo
-lederfeinaygenhandwerpenntwm daserfeyn
-frnemen in gleichemfall nicht vollbrachtvnd III
-Curcijderz erledigung des Vaterlanndsinn die
-Frbenfpangzfterben 
- Seyr 
+zweyer Römer/Memlich des Gaij Mucij Sceuo
+lederfeinaygenhandwerpennt/wmß daserfeyn
+fürnemen in gleichemfall nicht vollbracht/vnd III,
+Curcijderzü erledigung des Vaterlanndsinn die
+Frübenfpangzüfterben, - - - -
+- Seyr -
 
+-
+Seyt derselben zeitlast thnkain Türckischer
+Keiserner denfüßküffen/fonderdiehend/vnnd
+zwem Wascha haltendem (dend. Keiferempfacht
+vnd diehend züküffengißt)ßaydarm, damit kay-
+mer mehr/wie '''''
+das ist alles O. Koßilouizzüdeiner Ritterlichen
+gedeicht nus. - - - - - - - -
+- Am Sontag den fünffundzweimtzigsten Sep
+tembris vöPiscinaftat nach der ebne desanbisch
+feld/durch etlich Dörfer vndauffeinenberg Far
+ma genannt/Mouowerdu gesehen/vnndinstal
+kommen züeinemdorff Liuotz/allda Beliben.
+- Am Montag den sechsundzwanzigsten Sep
+tembris von Liuotzfneinerebne/wndvber einen
+berg Presa/vnndin eindorffRoboto/Machmals
+in ein schönwolerpawtsfeld genant Topollnitza
+“ssef vnndin eindorf
+hatum/allda beliben. - .
+Am Erichtag den fibenvñzwein zigsten Sep
+tembris/von Katum auß-Wraine zü/das dafi ein
+Schloß # ist auf der lingkenhandligent/
+pberein waffer Morana kommen vnder ein groß
+gebyrg auf der rechten handligent/inneindorff
+Surdulitza/dabeßltben. -
+Am mittwoch den acht vnd zweimtzigsten Sep-
+tembris/von Surdulitza vonn fundan vber ein
+waffhönen hohen langen vnd groffen bergCzi-
+mernick ä /fn die sechstfund gezogen wndin
+dastal kommen/in eindorf auf der stehand
+- Y- - geht
 
-Seyt derselben zeitlast thnkain Trckischer
-Keiserner denfkffenfonderdiehendvnnd
-zwem Wascha haltendem dend Keiferempfacht
-vnd diehend zkffengitaydarm damit kay
-mer mehrwie 
-das ist alles O Koilouizzdeiner Ritterlichen
-gedeicht nus 
- Am Sontag den fnffundzweimtzigsten Sep
-tembris vPiscinaftat nach der ebne desanbisch
-felddurch etlich Drfer vndauffeinenberg Far
-ma genanntMouowerdu gesehenvnndinstal
-kommen zeinemdorff Liuotzallda Beliben
- Am Montag den sechsundzwanzigsten Sep
-tembris von Liuotzfneinerebnewndvber einen
-berg Presavnndin eindorffRobotoMachmals
-in ein schnwolerpawtsfeld genant Topollnitza
-ssef vnndin eindorf
-hatumallda beliben 
-Am Erichtag den fibenvzwein zigsten Sep
-tembrisvon Katum auWraine zdas dafi ein
-Schlo ist auf der lingkenhandligent
-pberein waffer Morana kommen vnder ein gro
-gebyrg auf der rechten handligentinneindorff
-Surdulitzadabeltben 
-Am mittwoch den acht vnd zweimtzigsten Sep
-tembrisvon Surdulitza vonn fundan vber ein
-waffhnen hohen langen vnd groffen bergCzi
-mernick fn die sechstfund gezogen wndin
-dastal kommenin eindorf auf der stehand
- Y geht
-
-ligent von der fraffenStraffhimirouatzgenant
-a d sie Se
+ligent von der fraffen/Straffähimirouatzgenant
+a": - d - sie Se
 m Pfinztag den neinvfizwaintzigsten Sep
-temsrisanfant Michelstag den ganzentag beli
-
-Item fm anfang des Ambfhfeldhat sich das
+temsrisanfant Michelstag den ganzentag beli-
+“
+Item fm anfang des Ambfähfeld/hat sich das
 einteilfovon der Thomawher raicht dz Surffen
-landangehebt 
+landangehebt. - - - - -
 Wellichesland am anfangwaffeben vnd gleich
-dann das Ambschfeld in die zwelff oder vierzeh
- mei gelegenMacedonia vnd dem Mrganizeb
-en ist auch mit schnenn groffenndrffern wol
-besetzt windfeldern erpawtvndfhierin einyegs
-klichendorffeinkirchen vieinpfaff darinnender
-dann nach fant Paulsfatzungendie Ceremonien
-nach frergeordnetenzeit vollbringenthtdaruni
+dann das Ambschfeld in die zwelff oder vierzehé
+. mei gelegen/Macedonia vnd dem Mörganizeb
+en ist, auch mit schönenn groffenndörffern,/ wol
+besetzt windfeldern erpawt/vndfähierin einyegs
+klichendorffeinkirchen vieinpfaff darinnen/der
+dann nach fant Paulsfatzungen/die Ceremonien
+nach frergeordnetenzeit vollbringenthüt/daruni
 ermitsampt seinem weibvnndkinden sein lebenn
-langvon einer ganzengemain fein narung hat
-Dzland Seruiafowirtetschen nennSurf 
-fen hat ein eignespachof Surffischsprachinen
-nenvnndist auch ein Windisch spachDas wolck
-dieslands ist fast Gotsfchtig vndverhtfich
-wo es immglich istwowbel vnd finden 
-Wiewoldas landetlich gro Berg hatyedoch
-wil Weyn wachsauch allerlaytraydgargnge
-fandarinnwachsen mag vnd fast vilfilbererzt
-alfodz der Trckisch keifer auf dem silberfoeraus
-Surffenland hatfhier allfeinmnz schlecht
-als Senioren 
- III 
+lang/von einer ganzengemain / fein narung hat
+Dzland Seruia/fowirteütschen nennéSurf - -
+fen hat ein eignespach/of Surffischsprachinen
+nen/vnndist auch ein Windisch spach/Das wolck
+dieslands ist fast Gotsföchtig vndverhütfich
+wo es immüglich ist/wowbel vnd finden. - -
+Wiewoldas landetlich groß. Berg hat/yedoch
+wil Weyn wachs/auch allerlaytrayd/gargnüge
+fandarinnwachsen mag/ vnd fast vilfilbererzt
+alfodz der Türckisch keifer auf dem silber/foeraus
+Surffenland hat/fähier allfeinmünz schlecht.
+als Senioren“ -
+. . . - III -
 
-fhimirouaznach einem schnenwolerparvtenn
-feldgenannt Suepollevber einennklainenberg
-auf die lingkhanndgeschlagen kommen auf das
-Grachouopole in einfltlin Prenickgenantall
- da auch vilfilbererztauch da Blien
-Anfampftag den erstenn Octobeisvon in
-Prenick nach dem Grachouopole Syfneintal
-Cliffura kommen Nachmals auf das schn laning
-Sophiafelddardurch wir auch durch die statt
-Sophia am obern ortvnnddermaifentail der
-fatanderlingkenseitenligenlaffenEs hat auch
-vaft gestorben in der fatvndineindorff Slatie
-na gezogendabeliben
-Amfontag der ander Octobrisvon Slatina
-nachdem Sophia feld durchettlichdrffergerit
-tenkommen in ein hlzlindarnach inneindorff
-Wackanellallda beliben 
-Ammontag den dritten Octorisvon Wacka
-mel nach einem bhel gezogen in ein ebne kommen
-zeinem Trckischenflin Ituniananderrech
-tenhand gleichbey der fraffenligen laffenvnnd
-in einen feynigen wegzeinendorff Cliffurada
-felbszwaygroffgemauerte staynenethordurch
-eins wir gerittenvndfeinkommen inneindorff
-Vetrendabelien 
+fähimirouaz/nach einem schönenwolerparvtenn
+feld/genannt Suepolle/vber einennklainenberg
+auf die lingkhanndgeschlagen, kommen auf das
+Grachouopole in einfältlin Preßnickgenant/all
+. da auch vilfilbererzt/auch da Blißen,
+Anfampftag den erstenn Octobeis/von in
+Preßnick nach dem Grachouopole Syßfneintal
+Cliffura kommen. Nachmals auf das schön laning
+Sophiafeld/dardurch wir auch durch die statt
+Sophia am obern ort/vnnddermaifentail der
+fat/anderlingkenseitenligenlaffen/Es hat auch
+vaft gestorben in der fat/vndineindorff Slatie
+na gezogen/dabeliben.
+Amfontag der ander Octobris/von Slatina
+nachdem Sophia feld durchettlichdörffergerit-
+ten/kommen in ein hölzlin/darnach inneindorff
+Wackanell/allda beliben, - - -
+Ammontag den dritten Octoßris/von Wacka
+mel nach einem bühel gezogen in ein ebne kommen
+züeinem Türckischenfälin Itunian'anderrech
+tenhand gleichbey der fraffenligen laffen/vnnd
+in einen feynigen wegzüeinendorff Cliffura/da
+felbszwaygroffgemauerte staynenethor/durch
+eins wir geritten/vndfeinkommen inneindorff
+Vetren/dabelißen. -
 Item von Czernernick berg bis auffdashewtig
-legeristallweg alles dzland Bulgariadies ist ein
-schnebewolerpawtldauch fast vilmerleutvi
+legeristallweg alles dzland Bulgaria/dies ist ein
+schönebewolerpawtläd/auch fast vilmerleutvi
 Fij wih
 
-vihdarinnen dann in den andernau vrfachen
-Syligen mit an den Grentzenvnnd frchten sich
-wenig von den feynden
-Es ist auch allerlaymenschen notturffmurve
-berflffig darinnhaben auch Sant Paulsglaws
-ben wie die Surffen haen ihre Pfaffenwindkir
-chen frchten Got mit dhchstenverhtfy sich
-vorbelfchandlastervsind haben vns auch
-groffeehmit zierlicher reuerentzerisottenvnnd
-F fm frenheiferngehatHaben auch ein Win
-dische spachdie vmtsmetvnuerfendig gewest
-dann der Surfen fpach 
+vihdarinnen/ dann in den andern/auß vrfachen
+Syligen mit an den Grentzen/vnnd fürchten sich
+wenig von den feynden.
+Es ist auch allerlaymenschen notturff/murve
+berflüffig darinn/haben auch Sant Paulsglaws
+ben, wie die Surffen haßen ihre Pfaffenwindkir
+chen fürchten Got, mit dëhöchstenverhütäfy sich
+vorbel/fchand/laster/vñsind, haben vns auch
+groffeeh/mit zierlicher reuerentzerisotten/vnnd
+F" fm frenheiferngehaßt/Haben auch ein Win
+dische spach/die vmtsmetv.nuerfendig gewest
+dann der Surfen fpach. - - - - -
 Jitem das aber das land Bulgatta inngroffer
-freyhaitreichtumbenvfi allerleyvberflffigkait
-zder Christenziert gewest ist Seydemznerm
-tendas weybermnner vnd kinderallrck vnd
-pfaytendas find hembdermitfeyden aufgent
-tragen auch an ihnen hlfenoenfilberenmefin
-genpleyen ringlein angehenckttragen auch zpfe
- vnnden Bis auf die erdraichendvmindvilges
-chmuck daran 
-Am Erichtag den vierdten Octozisvon Ver
-tren ver das Bhelin eine 6nte kommenauf das
-Reyffeldzeiner TrckischenfatTatarzigkda
-durchwir an einem ortt geritten aber den mayf
-thailderfat an der rechten handligen laffen
+freyhait/reichtumben/vfi allerleyvberflüffigkait
+züder Christenziert gewest ist Seydemzünermü
+ten/das weyber/männer vnd kinder/allröck vnd
+pfayten/das find hembder/mitfeyden aufgenät/
+tragen auch an ihnen hälfen/oen/filberen/mefin
+gen/pleyen ringlein angehenckt/tragen auch zöpfe
+# vnnden. Bis auf die erdraichend./vmindvilges
+chmuck daran, - - - - - - -
+Am Erichtag den vierdten Octoßzis/von Ver-
+tren vßer das Bühelin eine 6nte kommen/auf das
+Reyffeldzüeiner Türckischenfat/Tatarzigk/da
+durchwir an einem ortt geritten, aber den mayfé
+thailderfat an der rechten handligen laffen.
 Machmals nach dem Pleydtnerfeld von der fraf
-fen vnz auf die rechten handgewendtfneindorf
-Gouedaroyoda beliben A
+fen vnz auf die rechten handgewendt/fneindorf
+Gouedaroyo/da beliben, A
 
 gezogen gen Komusmarck kommen
 bena
-Sironizaalldaelben
-Am mit wochenfnften Octobrisvon Go
-zuendozouo nach dem Plaitnerfeldz fat Plaud
-midardurch wir ver ein lanmgehltzine prucken
-gerittenvnd widerauffdasfeldBisinn die nacht
+Sironiza/alldaßelben.
+Am mit wochen/fünften Octobris/von Go»
+zuendozouo nach dem Plaitnerfeld/zü öfat Plaud
+mi/dardurch wir vßer ein lanmgehültzine prucken
+geritten/vnd widerauffdasfeld/Bisinn die nacht
 all dabely
-Item vordersttPlaudnivnind ehe wir hin
-eingeritten hat Instian Wascha einwaffhne
-gemauerten vierecketen rofaldarifien achthun 
-der troefehn mgen 
-Am Pfinztag den fechten Octobeisvon Ko
-musvSerdasfeldnachmals ver einandersfeld
-genant Koluizerizavnndwns ein wenig von der
- auf die lingkhandgewendtinneindorff
-Am Freytag den fibenden Octobrisvon Sie
-ronizaver dasfeldzeinem groffendorf See
-mischenachmals auf das langfelddader Trck
-ichkeifer feingefg hat in die viermeilgerzogen
-kommen ineindorff Virni aber Trckisch heit es
-Jutbugetallda beliben 
-Anfampftag den achten Octobrisvon YOir
-ni nach dem gepyrginn das talz einem drfflin
-Harmaulivnd durch ein langen Lychenwaldz
-einer schnen langennerwengemauerten prucken
-fo Muscaphaweg ein mechtiger Wafcha kumen
-allda belibenn 
-Item die fnffyetzgemeltentageMemlichv3
-Erchtag byay bremse
- 11 JKO
+Item vorderstätPlaudni/vnind ehe wir hin
+eingeritten hat Instian Wascha einwaffhöne
+gemauerten vierecketen roßfal/darifien achthun “
+der troßefehn mügen. " - "
+Am Pfinztag den fechten Octobeis/von Ko
+musvSerdasfeld/nachmals vßer einandersfeld
+genant Koluizeriza/vnndwns ein wenig von der
+' auf die lingkhandgewendt/inneindorff
+Am Freytag den fibenden Octobris/von Sie
+ronizavßer dasfeld/züeinem groffendorf See
+mische/nachmals auf das langfeld/dader Türck
+ichkeifer feingefäg hat, in die viermeilgerzogen/
+kommen ineindorff Virni aber Türckisch heißt es
+Jutbuget/allda beliben. - -
+Anfampftag den achten Octobris/von YOir
+ni nach dem gepyrginn das talzü einem dörfflin/
+Harmaulivnd durch ein langen Lychenwald/zü
+einer schönen langennerwengemauerten prucken/
+fo Muscaphaweg ein mechtiger Wafcha kumen/
+allda belibenn. -
+Item die fünffyetzgemeltentage/Memlich/v3
+Erchtag byßay bremse:
+. 11 - JKO
 
-Ronauia gezogendarinnauff der fraffenn all
-ChriftenSurfen vnd Bulgarnfeindie einglau
-benhalten vnd haengar schon allenthalbenger
-habt vndempfangenvdiegelegenhaitdis lds
-Ronauie ist gleich dem land Bulgarieonallain
-das nur merkircheninn Romaniafeindt die nicht
-Windisch mitvns reden knden
-Amfontag den nendten Octobaisvonnder
-langen fayminprucken vnd daruber wir auch ge
-rittenver das waffer Maritzanachdemfeld in
-die vier neylwegs gerittenvnd kommen innein
-groffe wmbgemauerten statt Adrianopel genannt
-hinein vberein vaft lange pruckenz einer Kers
-uafariaallda Beliben 
-Ammontag den zehenden Octobrisdengan
-zentagz Adrinopoli belien 
-Am Erichtag den ailfften Octobnisvon Aldi
-nopoli nach einem schnen weittenfeldin die vier
-meilwegs geritten kommen inneindorffHaffa
- vbernacht bey einem Trckischenpaurnber
-IOL
-Am mit wochenden zwelften Octorisvon
-Haffa aberlanngnachdenfeldzeinem marckt
-Babayskydardurch wir gerittennachmals aber
-nachdemfeld gezogen Bis in die nachtzeinstt
-lin oder marckt Bergadabeliben 
-Am Pfinztag den dreizehenden Octorisv
-Berga aber vberfeld gezogen zzweien schnen
-gemauertenpucken geritten doch zwyschennden
- zwayen
+Ronauia gezogen./darinnauff der fraffenn all
+Chriften/Surfen vnd Bulgarnfein/die einglau
+benhalten vnd haßen/gar schon allenthalbenger
+habt vndempfangen/vñdiegelegenhaitdis läds
+Ronauie ist gleich dem land Bulgarie/onallain
+das nur merkircheninn Romaniafeindt, die nicht
+Windisch mitvns reden künden.
+Amfontag den neündten Octobais/vonnder
+langen fayminprucken vnd daruber wir auch ge-
+ritten/vßer das waffer Maritza/nachdemfeld in
+die vier neylwegs geritten/vnd kommen innein
+groffe wmbgemauerten statt Adrianopel genannt/
+hinein vberein vaft lange prucken/zü einer Kers
+uafaria/allda Beliben. -
+Ammontag den zehenden Octobris/dengan
+zentagzü. Adrinopoli belißen. _
+Am Erichtag den ailfften Octobnis/von Aldi
+nopoli nach einem schönen weittenfeld/in die vier
+meilwegs geritten kommen inneindorff-Haffa/
+' vbernacht bey einem Türckischenpaurnber
+IOL.
+Am mit wochenden zwelften Octoßris/von
+Haffa aberlanngnachdenfeldzüeinem marckt
+Babayskydardurch wir geritten/nachmals aber
+nachdemfeld gezogen. Bis in die nacht/züeinstät
+lin oder marckt Bergaß/dabeliben. -
+Am Pfinztag den dreizehenden Octoßris/vö
+Bergaß aber vberfeld gezogen züzweien schönen
+gemauertenpucken geritten, doch zwyschennden
+- zwayen
 L
 
-zweienpucken an der lingken hdin einenmarcke
-nahent Beyder straffenKarifangenantkomen
-vndwafflang darnach gerittenz einem schnen
-wolerpawten marcktgenant C30 elida beliben
-Am Freytag den vierzehenden Octobisvon
-Czorli aber nachdem feldz einem Trckischenn
-doffMachmals vber ein Bhel kommen zdem
-Mdabey in einen marckt gerittennSiliige
-nantda beliben
- msampftag den fnffgehenden Octobrisvs 
-Silibrigerzogen nachdenfeldvkomenzdem
-Mdarey geritten wollangvfizeinmarckt
-gerittendzerst Czekhmetzedaselbsver einprn
-ckenfowber einarm des Msgepawt geritten
-allda beliben
-Amfontag den sechzehenden Octobtisvon
-Czekhmetze verein Bhelvnd wider in dastal
-aber zeinem marcktgenant das ander Czekhme
-zeauch vereinander Mlgeritten
-Ammontag den fisenzehenden Octobrisv6
-andern Czekhmetze vber ein klaine bhel widder
-fnstalwiderauffein klaine hchallda in die hun
-dert des Trckischen keifers hofgesind entgegenn
-kommen die haendarnachbelayt Bis in die statt
-Constantinopelwnind eingtefund geritten inn
-der fatWi wir zvnfer herberg kommenallda
-in Gottesnamen ein weylbeliben
+zweienpucken an der lingken hädin einenmarcke
+nahent Beyder straffen/Karifangenant/komen/
+vndwafflang darnach geritten./zü einem schönen
+wolerpawten marckt/genant C30 eli/da beliben.
+Am Freytag den vierzehenden Octobis/von
+Czorli aber nachdem feld/zü einem Türckischenn
+doff/Machmals vber ein Bühel kommen züdem
+Mö/dabey in einen marckt gerittenn/Silißige
+nant/da beliben.
+- , Ämsampftag den fünffgehenden Octobris/vs -
+Silibrigerzogen nachdenfeld/vñkomenzüdem
+Mö/darßey geritten wollang/vfizüeinémarckt
+geritten/dzerst Czekhmetze/daselbsvßer einprn-
+cken/fowber einarm des Mösgepawt geritten
+allda beliben.
+Amfontag den sechzehenden Octobtis/von
+Czekhmetze vßerein Bühel/vnd wider in dastal/
+aber züeinem marcktgenant das ander Czekhme
+ze/auch vßereinander Mölgeritten.
+Ammontag den fisenzehenden Octobris/v6
+andern Czekhmetze vber ein klaine bühel widder
+fnstal/widerauffein klaine höch/allda in die hun
+dert des Türckischen keifers hofgesind entgegenn
+kommen, die haßendarnachbelayt. Bis in die statt
+Constantinopel/wnind eingütefund geritten inn
+der fat/Wiß wir züvnfer herberg kommen/allda
+in Gottesnamen ein weylbeliben.
 
-
-S
-
+-
+=S
+-
 Es
+E-
+- --
+-A
+|
+-- -l–
+-
 E
- 
-A
-
- l
-
-E
-
-
-
+-
+=
+=
 H
-
-
+--
+=
 S
-
-
-
-
+-
+-
+=
+-=
 Z
-Z
+Z-
 F
-E 
-
-
-
-
- 
- 
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+-E- ------
+=---
+=
+.
+-
+- -
+- – -
+-
+-
+-
+- -
+-
+- -
+-
+-
+--
+-
+-
+-
+–
+-
+-
+- -
 
 
 
@@ -1449,842 +1444,859 @@ E
 
 
 
+
+
+
+
+-
 VOndals wir an dientaginnvnerherberggen
-Constantinopeldie sie Curuaffaria nennenkonz
-menhat man das hau von fundan nachvnsz
-gefchloffenvndkainen menschen zwns gelaffen
-on allein zwenn manhaftig Trcken einen alten
-groffenfatengenandt Buchajdan Heyradin
-vaber eine gargten funghoflichen wieerlichen
-AKuchen genantdievins gar fleiig klichen wimmit
-yrer groffenforgau des Kaisers strengenbefelh
-verhiittauch etlichknecht die wns dafi alle noturft
-vnd was wir nur zimlichen Begertau des Kay
-fers verordnungnur mitfleiztragenalfo das
-vns nichtsabgangendann alleinvnser Teutsche
-f 
-Vondertainenprugkenbis hiehergConstan
-tinopelvnind noch fr auist das Griechenland
- dann ochtvaft will Griechenin allen stettenmr
-cktenvnddrffernfeinauch noch den Chriftenlis
-chen glauenyhrefeyertagkirchenpriesterfatz
-ungen vndordnungenmur gar fleiigklichen halz
-tenTragen auch Trckisch pndtaber nur plaw
-vnd haben auch haardarmit das man sie von den
-rechten Trcken erkenn
- Leyden warlich groffen gezwangvndnotronn
-des Chriftenlichen glaubens wegenvon den Tr
-ckendann fieynen mit groffer schwerer vndhert
-terdienstparkaittglichen zinsenvndvnleidenlis
-chentributen vnderworfen das sie folliches dem
-almechtigen barmherzigen Gottwieichs s
- P11
+Constantinopel/die sie Curuaffaria nennen/konz
+men/hat man das hauß von fundan nachvnszü
+gefchloffen/vndkainen menschen züwns gelaffen/
+on allein zwenn manhaftig Türcken/ einen alten
+groffenfaßten/genandt Buchajdan Heyradin/
+vñaber eine gargüten fungéhoflichen wieerlichen
+AKuchen genant/dievins gar fleißig klichen wimmit
+yrer groffenforg/auß des Kaisers strengenbefelh
+verhiitt/auch etlichknecht die wns dafi alle noturft
+vnd was wir nur zimlichen Begert/auß des Kay-
+fers verordnung/nur mitfleißzütragen./alfo das
+vns nichtsabgangen/dann alleinvnser Teutsche
+f - - -
+Vondertainenprugken/bis hiehergêConstan
+tinopel/vnind noch für auß/ist das Griechenland/
+- dann ochtvaft will Griechen/in allen stetten/mär-
+ckten/vnddörffernfein/auch noch den Chriftenlis
+chen glaußen/yhrefeyertag/kirchen/priester/fatz»
+ungen vndordnungen./mur gar fleißigklichen halz
+ten/Tragen auch Türckisch pündt/aber nur plaw
+vnd haben auch haar/darmit das man sie von den
+rechten Türcken erkenn.
+- Leyden warlich groffen gezwangvndnotronn
+des Chriftenlichen glaubens wegen/von den Tür
+cken/dann fieynen mit groffer schwerer vndhert
+terdienstparkait/täglichen zinsen/vndvnleidenlis
+chentributen vnderworfen, das sie folliches dem
+almechtigen barmherzigen Gott/wieichs s"
+- - P11
 
-vndgesehen hab offt vnd dickfeffzendt vund
-genbimelfehendt klagethabenvnd betblichen 
-gesagt
-Dies forwirfovilleiden mffenift alles vnnfer
-aignefchulddas wir vnder dem wtenden vnd
-tyrannischen hund den Trcken kommen Habich
-gefragtwievfi warumbDarauf femir geant
-MVOTT 
-Zderzeit als der Trckallein die vmbligenden
-Knigreichfleckenlndertervnd fettfownfi
-das Griechenlandligeningehatvnd vnder sich
-gepacht darumb wir augenscheinlich gesehenny
-vnd gesagt es werdvmbvnferland also geenDa
-beyvnfer heran vnd obrigkaitangezaigt es werde
-noch nichts datauee mit der Trck die gantze
-welt gewinnenee das er das weit Griechenland
-vndter sich bringvnind wir die fachen also vercht
-lich gehaltenAlfodaser mit allein das weit Grie
-chenlandoder auch nudreytail der weltmemlich
-Asian vnd Africamfonder auch schier den hal
+vndgesehen hab/ offt vnd dickfeüffzendt/ vund
+genbimelfehendt klagethaben/vnd betüblichen -
+gesagt.
+Dies forwirfovilleiden müffen/ift alles vnnfer
+aignefchuld/das wir vnder dem wütenden vnd
+tyrannischen hund den Türcken kommen. Habich
+gefragt/wievfi warumb/Darauf femir geant
+MVOTT - - - - - - -
+Züderzeit als der Türckallein die vmbligenden
+Künigreich/flecken/länder/ötervnd fett/fownfi
+das Griechenlandligen/ingehaßt/vnd vnder sich
+gepacht/ darumb wir augenscheinlich gesehenny
+vnd gesagt, es werdvmbvnferland also geen/Da
+beyvnfer heran vnd obrigkaitangezaigt, es werde
+noch nichts datauß/ee mit der Türck die gantze
+welt gewinnen/ee das er das weit Griechenland
+vndter sich bring/vnind wir die fachen also verächt
+lich gehalten/Alfo/daser mit allein das weit Grie
+chenland/oder auch nudreytail der welt/memlich/
+Asian vnd Africam/fonder auch schier den hal-
 bentail Europe vnder feinen vner fettigenngeiz
-vnnd Rachen gepacht Darumb Oyredlen vnd
-frummenmnnerlegt euchs mit vndter die ofen
-vnd dasyrsprechen wllendee der Trckzvns
-komptmer noch will gewinnendann wir auch
-folchsgefagterifwns aber laid gar znahentikr
-meVndhalteewererkaitvfiffelbsvnder ein
-andergteaingkaitSittet Got den ang 
+vnnd Rachen gepacht. Darumb Oyredlen vnd
+frummenmänner/legt euchs mit vndter die ofen/
+vnd dasyrsprechen wöllend/ee der Türckzüvns
+kompt/müßer noch will gewinnen/dann wir auch
+folchsgefagt/erifwns aber laid gar zünahentikör
+me/Vndhalteewerößerkait/vfiffelbsvnder ein
+andergüteaingkait/Sittet Got den ang -
 
 anyhrbru
 der seinenzonaufhebviddastochvidenlast
 darundter wirfeind mit feiner gnadvnndbarm
-herzigkaitringerwileichter machDadie arme
-ellende Christenhaitfeydt derzeit foSplthundt
-der Trck angefangen hat zregierensifauffier
-zundwaffchmchlichschwerlichvndfchantlich
-gehalten wordendann beyyhnen ist will eerlicher
-vndfhnereinen mrderdiebvertreteroderer
-wrger der Christen dann einen Christen znen
-RE 
- Am Erichtag rpv Octorisvngefarlich vn 6
-gijvhat Imbian Wafhaau der heran 
-t 
-vnndemfig Sitten vnnd Begerenetlich namha
-vnyd treffenlich Trckennwmb die herangeschi
-cket die sich dann dapfferangeputzt vnd zymge
-rittenaer das anndergefind ist alles zfffenn
-gangenn 
-Als wir aber infeinhoffkofienalda vilnhaf
-tig Trckenzbadenfeiten des hoffsingulden
-fanetenvndfyden vnd von dem estentchal
-lerlayfarbenrcken bekladet gestandenfich vor
-den heran nachyremgept auch mit denkpffenge
- mit der flachen vnd rechten hand
-Dergleichenyhnen die heran auch ge
-Brlicherenerenz nachvnferen gebrauch Bewifen
+herzigkait/ringerwileichter mach/Dañdie arme
+ellende Christenhait/feydt derzeit foSplüthundt
+der Türck angefangen hat züregieren/sifauffier
+zund/waffchmächlich/schwerlich/vndfchantlich
+gehalten worden./dann beyyhnen ist will eerlicher
+vndfhöner/einen mörder/dieb/vertreter/oderer,
+würger der Christen, dann einen Christen zünen
+RE, -
+* Am Erichtag rpv. Octoßris/vngefarlich vn 6.
+gijv/hat Imbian Wafha/auß der heran '
+t -
+vnndemfig Sitten vnnd Begeren/etlich namha
+vnyd treffenlich Türckenn/wmb die herangeschi-
+cket, die sich dann dapfferangeputzt/ vnd züymge
+ritten/aßer das anndergefind ist alles züfüffenn
+gangenn. . . . . - - -
+Als wir aber infeinhoffkofien/alda vilnähaf
+tig Türckenzübadenfeiten des hoffs/ingulden/
+faneten/vndfyden/ vnd von dem ßestentüchal-
+lerlayfarbenröcken bekladet gestanden./fich vor:
+den heran nachyremgept auch mit denköpffenge
+' mit der flachen vnd rechten hand
+/Dergleichenyhnen die heran auch ge
+Bürlicherenerenz nachvnferen gebrauch Bewifen
 Nachdem wir einflyegen aufgezogennvnnd
-in einen schnenpallafkomfienDaimunder Imbi
-an Wafhain feiner magnificenzvndpompauch
- G ij mit
- 
+in einen schönenpallafkomfien/Daimunder Imbi
+an Wafha/in feiner magnificenzvndpomp/auch
+- G. ij mit
+- - - - - - - - -
+-
+-
 
-
-
-mit etlichennfucken angethonauch mitguldener
-feyden vndanderntapezereyallenthalben an der
-wandpencken vnd derer den vmbhangenwie ein
-Knig gefeffennemlich habenn die namhaften in
-Trckendie fovon imeempter habenvfi Czaulls
-all miteinandergeschy Trckischfeytvns Gott
-willkomm h redlen vnd gromechtigen herren
-In dem haben zwen Trcken einyeder ein sch
-menseffelhinzgetragen fr den Waschavnnd die
-Herren fr innderheyffenfitzen der sie dann mit
-der allerhchsten eeren empfangenvndgarfreit
-lichenzgesprochenvndalso miteinander inn die
-deyfund geredt Nachdem sie aber lang mitt
-fmegeredthat erfnenztrinckenheiffen bringen
-Als aber das tranck kam oder gebrachtvfidie die
-merfmen ztrincken gereichthaben abermals dye
-Trcken wieuo gescheyenGottgeb dir den trck
-zdeinem langwierigengfindwnind hat einyeder
-au einer schnen Erden Skudeln getrunck fast
-ein sgtsgekochtswaffer 
+mit etlichennfucken angethon/auch mitguldener
+feyden vndanderntapezerey/allenthalben an der
+wandpencken vnd derer den vmbhangen/wie ein
+Künig gefeffen/nemlich habenn die namhaften in
+Türcken/die fovon imeempter haben/vfi Czaulls
+all miteinandergeschyé Türckisch/feytvns Gott
+willkomm/ h redlen vnd großmechtigen herren.
+In dem haben zwen Türcken einyeder ein schö
+menseffelhinzügetragen für den Wascha/vnnd die
+Herren für innderheyffenfitzen, der sie dann mit
+der allerhöchsten eeren empfangen/vndgarfreit
+lichenzügesprochen/vndalso miteinander inn die
+deyfund geredt. Nachdem sie aber ' lang mitt
+fmegeredt/hat erfnenzütrinckenheiffen bringen,
+Als aber das tranck kam oder gebracht/vfidie die
+merfmen zütrincken gereicht/haben abermals dye
+Türcken wieuo gescheyen/Gottgeb dir den trück
+züdeinem langwierigengfind/wnind hat einyeder
+auß einer schönen Erden Skudeln getrunck fast
+ein süßgütsgekochtswaffer. . . . . . .
 Als aber die Herzen von Wascha abgeschyden
-haben aber die Trckenviglckseligeabschydigt
-vndgfund den Herzen geschyenvnd von Gttge
-bettennachmals wider in vier Karfarig oder
-herberggezogen 
-Am Sontag den err Octobisfeind die Herz
-aber in aller dergestalt vnndma wie vor fr den
-Instian Wascha gerittenn vnind wir alle zf
-gangen in die vierdt sind beim gewesen
- Nils
+haben aber die Türckenviglückseligeabschydigt
+vndgfund den Herzen geschyen/vnd von Göttge
+betten/nachmals wider in vier Karfaßärig oder
+herberggezogen. . . . . . . . . . .",
+Am Sontag den err, Octobisfeind die Herz
+aber in aller dergestalt vnndmaß wie vor für den
+Instian Wascha gerittenn/ vnind wir alle züfüß
+gangen in die vierdt sind beim gewesen:
+- - - Nils
 
-mals widerhain mit gttenfrid gezogen 
-Am Montag den vij Monembais etwovmbde
-pfw hat der Trckisch Keyservil Mannhafter
-Trckennvnnd Trckisch Herzenn wmb die Hers
-rengeschickt die sich dann in frgulden fuck dapf
-fer vnd schn angelegtvndzdem Keyser geriet
-wir fein zfgangen 
-VOndals wir fr fant Sophiakirchenn auf der
-lincken handligent kamenalda von fundaminey
-nendes Keysersweyttenhofgezogenvnd kom
-menalldo der Trckischen Herrenknecht mit den
-pferdendie fiegenhoffreyttengehaltennder ein
-roffeanzalgewesen vnd mitten in berhrten hoff
- zwem Elephanten gaben daraufZwenge
-feffendie sie regiert haben 
-Nachdem wir aber zdem andernth02 kamenn
-haben die Herzen von den pferden absteen mffen
-vndzfvbereinen andernfhnenhofgangen
-darin fein z Rings vmbanden vier Ortenn des
-hoffs des Trckischen Keysershofgesindinn die
-dey taufentmannenals ich vnind wir allgeschtzt
- an einemyeden otein besondere Manierge
-IOL 
-Erftlich die in den weyffenpndten die sie Tr
-bant nennen ein groffeanzal
-Darnach in den weyffen gefpyrzten htten dye
-sie Sallaki nennenvndall wegen amnechfenbey
-dem Keyferreyttenvndgeenauch eingroffemig
-Machmals die indeguld Sarckolle auch fast vil
-Es G in Zm
+mals widerhain mit güttenfrid gezogen. - -
+Am Montag den vij. Monembais etwovmb.de
+pfw hat der Türckisch: Keyservil Mannhafter
+Türckennvnnd Türckisch Herzenn wmb die Hers
+rengeschickt, die sich dann in frgulden fuck dapf
+fer vnd schön angelegt/vndzüdem Keyser gerieté
+wir fein züfüßgangen. - - -
+VOndals wir für fant Sophiakirchenn auf der
+lincken handligent kamen/alda von fundaminey
+nendes Keysersweyttenhofgezogen/vnd kom
+men/alldo der Türckischen Herrenknecht mit den
+pferden/die fiegenhoffreyttengehaltenn/der ein
+roffeanzalgewesen/ vnd mitten in berührten hoff
+# zwem Elephanten gaben daraufZwenge
+feffen/die sie regiert haben. - - - -
+Nachdem wir aber züdem andernth02 kamenn
+haben die Herzen von den pferden absteen müffen
+vndzüfüßvbereinen andernfhönenhofgangen
+darin fein zü Rings vmbanden vier Ortenn des
+hoffs des Türckischen Keysershofgesindinn die
+dey taufentmannen/als ich vnind wir allgeschätzt
+' an einemyeden o.tein besondere Manierge
+(IOL), - -
+Erftlich die in den weyffenpündten, die sie Tür
+bant nennen ein groffeanzal.
+Darnach in den weyffen gefpyrzten hätten dye
+sie Sallaki nennen/vndall wegen amnechfenbey
+dem Keyferreyttenvndgeen/auch eingroffemig
+Machmals die indeguldé Sarckolle auch fast vil
+Es G in Züm
 
-Zmletsten die Janitscher mit den weyffenen
-Sarkolledie fieack8urgknennenauchwil
-Dochfeinderfelben Trckenyedermennerfonds
+Zümletsten die Janitscher mit den weyffenen
+Sarkolle/die fieack8urgknennen/auchwil.
+Dochfeinderfelben Türckenyedermennerfonds
 hauptleutvnd die ansehenlich feindvilinguldinfa
-mettenvndfeydenfucken gekleydtall z fordert
-gestandegegen denen sich die Z genaygtvfi
-reuerenzbewyfenDagegfie gleicherweys
-gethon 
+mettenvndfeydenfucken gekleydt/all zú fordert
+gestande/gegen denen sich die Z" genaygt/vfi
+'reuerenzbewyfen/Dagegëfie gleicherweys
+gethon. - - -
 Auch in mitten deshoffs fein zehen lerwen vnd
-zwen L opardenankettingehefft gestandendye
-graufa nlich gescheyen habenvnind fr die fein die
-renineinfhn zymmerz den vier oberstenn
-WaschaMemlich fr die ImbrianCaffumAiatz
-an gangenvndetwoeinfund beyfn
+zwen L opardenankettingehefft gestanden/dye
+graufa nlich gescheyen haben/vnind für die fein die
+renineinfähön zymmerzü den vier oberstenn
+Wascha/Memlich für die Imbrian/Caffum/Aiatz
+“an gangen/vndetwoeinfund beyfné
 
-E
-Herz Joseph zum erstenLachmals Herr Miclau
-fne die handgekutvndbey fme eingteweilges
-tho beliben
+E-
+Herz Joseph zum ersten/Lachmals Herr Miclauß
+fne die handgekußt/vndbey fme eingüteweilges
+tho beliben.
 Machmals
-Machmals haben die vier wascha die Herin fr 
-den Keyser Soleymanvber den hoffgefrt vnd
-wesen Aber das andergefyndheryo auf einem
+Machmals haben die vier wascha die Herin für --
+den Keyser Soleymanvber den hoffgefürt/ vnd
+wesen/ Aber das andergefyndheryo auf einem
 
 
-Nachnalsfeind die hern von den Kaiserage
-fchadenvnd wider in die herberg gezogennalda
-eingroff anzal vnd mengder Trckendie heran
-Belaitetvnd mit wns gangen
-Am Mitwochen rionembris hat der Trcki
-fche Kaiserden hern ein waffhneherliche ehre
-unginvnferherberg geschickt
- Am Sontag xij IIouembrisfeind die herana
-berfr den Imbian Wascha gerittenvndindley
-fund Weyyhm belibendat nach wider in die her
+Nachnalsfeind die hern von den Kaiseraßge
+fchaden/vnd wider in die herberg gezogennalda
+eingroff anzal vnd mengder Türcken/die heran
+Belaitet/vnd mit wns gangen.
+Am Mitwochen rionembris hat der Türcki
+fche Kaiser/den hern ein waffhöneherliche ehre
+unginvnferherberg geschickt.
+- Am Sontag xij IIouembris/feind die herana-
+berfür den Imbian Wascha geritten/vndindley
+fund Weyyhm beliben./dat nach wider in die her
 berg gezogen
-Am Montag den rij Mouembrisfeind die her
-reminyrenguldenfucken wirckenvfi wir auch
-fovnns der Kaiser vereerethatetwan vmb acht
-wnach Trckalten gebrauchfir dKaiferge
-ritvnd hineingezogin aller gestalt wie heut acht
-tagomalla in das bey den Elephanteneinfchns
-hochsfierfffigsthyer gewt Suruoyagfand
-XOnd die hernfeind hinein gangenen fr die vier
-Waschain das vorigzimmerWir aber feind von
-nen an einem andernotvndter dem dach beliben
-anderlincken handgefeffen
+Am Montag den rij Mouembris/feind die her
+reminyrenguldenfucken wiröcken/vfi wir auch
+fovnns der Kaiser vereerethat/etwan vmb acht
+w/nach ö Türckéalten gebrauch/fir déKaiferge-
+rité/vnd hineingezogéin aller gestalt wie heut acht
+tag/omalla in das bey den Elephanten/einfchöns
+hochsfierfüffigsthyer gewöt Suruoya/gfandé
+XOnd die hernfeind hinein gangenen für die vier
+Wascha/in das vorigzimmer/Wir aber feind von
+nen an einem andernotvndter dem dach beliben/
+anderlincken handgefeffen.
 Aldavbereinklaimeweilindielrxijeffen inn der
-heranzimmer eingetragen wordenaber wngefar
-lich nur rx fr die herangefetzt 
-Onsaerfeind fr gesetzt worden rrrveffenal
-wegfibnewnfer zwaienodderdateien haben nalda
-mit frlichaitdoch fitlich geeffen aber nur einmal
-ist vnsein gtikoflichf gekochtstranck gereicht
+heranzimmer eingetragen worden./aber wngefar
+lich nur rx. für die herangefetzt. - -,
+Onsaßerfeind für gesetzt worden rrrveffen/al
+wegfibnewnfer zwaienodderdateien/ haben nalda
+mit frölichait/doch fitlich geeffen, aber nur einmal
+ist vnsein gütikoflichfüß gekochtstranck gereicht
 Jtem
-worden 
+worden. - -
+--------
 
-
- Am vierten des Kaisersdneykamerrthe 
- Nach dem effen haben die vier Wascha aber die
-hern fr den Kaiserin feinert Caimgefrtalda 
-yhma er die handgektvndfeindet wo ein hal 
-Befund beyyhm Belibenvnnd nachmals herau
-Itemdeiwascha InstianCaffim Aiat
-Bechadung vnd die zwen heran haben auffinen
-filberentisch geffen
-Auf dem vnderntisch zwen oristpriester Am
-dritten des Kaifers oblister Cantzler
-wider kommen auf die Rogefeffenvndalerla
-Trcken in den weien pndtenguldinfarkholle
-indietaufentvinochmer Trckenzrovndz
- fgar erbarlich vnsbiinvnferherberg belait
-
-
+- Am vierten des Kaisersdneykamerräthe -
+" Nach dem effen haben die vier Wascha aber die
+hern für den Kaiserin feinert Caimgefürt/alda ,
+yhmaß er die handgeküßt/vndfeindet wo ein hal -
+Befund beyyhm Beliben/vnnd nachmals herauß
+Itemdeiwascha Instian/Caffim Aiat
+Bechadung vnd die zwen heran, haben auffinen
+filberentisch geffen.
+Auf dem vnderntisch zwen oßristpriester Am
+dritten des Kaifers oblister Cantzler.
+wider kommen auf die Roßgefeffen/vndalerla
+Türcken in den weißen pündten/guldinfarkholle
+indietaufentvinochmer Türcken/züroßvndzü
+... füß/gar erbarlich vnsbißinvnferherberg belait.
+-
+-
 liincarceremeo Augusto
-zum ander Czemetzealdaelien
- Itenandientag findvastwilmer Trcken in
-dem hoffgewesenRemlich wie wirs gescherzt v
-geachthaben in die viertaufentallerlay Trcken
-zwf Decembeisfinitumin nocte Constantinopo
- Am Pfinztagrrij Decembrisfeind wir mit
-groffenfreudenvonn Constantinopel gezogenn
- Am freitag den rxilj Decems isvonn andern
-Czekhennetze wolfrei eingte fd vortagsvber
-einpeugkengezogenzum ersten CzekhmetzeMach
-in einem Trckischen Metzit gelegen
-Am Sambstag den rei Decembrisvon 
- 102
- 
- 4 
+zum ander Czemetze/aldaßelißen.
+- Itenandientag findvastwilmer Türcken in
+dem hoffgewesen/Remlich wie wirs gescherzt vß
+geachthaben in die viertaufent/allerlay Türcken
+zwf. Decembeisfinitumin nocte Constantinopo
+- Am Pfinztagrrij. Decembris/feind wir mit
+groffenfreuden/vonn Constantinopel gezogenn/
+- Am freitag den rxilj. Decems is/vonn andern
+Czekhennetze wolfrei eingüte füd vortags/vber
+einpeugkengezogen/zum ersten Czekhmetze/Mach
+in einem Türckischen Metzit gelegen,
+Am Sambstag den reiß Decembris/von '
+" - - - 102
+- - - - - - - - -
+"- 4 -
 er
-mals bey dem Margetten kommen gen SiliSi 
+mals bey dem Margetten kommen gen SiliSi/ -
 
-ivserdichaydkoien seiner groen zer
-uaffaria vnd dorff Haraplinachmals kommen
-13 der nachtgen Czorli
-Am Sontag den erw Decembris amhailgen
-Weihenacht tagzCzorlibeliben 
- Am Montag den rrwf Decembrisvaft fr 5
-Czorli auf K oristram Kheruaffariavmndgen
-Begasalda beliben
-ganfllianchmal wissen
-Am Erlichtag den Erwij Decembrisvon Bie
-ein Kheruaffariagen Lafada beliben
-Am Mitwochen derwl Decembrisvon Laf
-bigen Dinopologezogendavbernacht bely
-Hint 
-Am Pfinztag den xxix Decemseisetwofhielt
-mittag von Dinopolibiszdertainenpeu
-g kennt 
-Am Freitag den rrr Decembrisvon der lange
-pringken durch einen aychenwaldgen Hermauli
-darnach nach einem phel gezogen gen Virnial
-da Belli 6en 
-Am Sambfagdletfen Decembrisvon Vit
-nivber das lanmg KaisersveldgendoffSemi
-fchovndgen Stroniza 
+üßivserdichaydkoien seiner großen zer
+uaffaria vnd dorff Harapli/nachmals kommen
+13 der nachtgen Czorli.
+Am Sontag den erw. Decembris amhailgen
+Weihenacht tag/züCzorlibeliben. " ,
+- Am Montag den rrwf. Decembris/vaft für 5
+Czorli auf K oristram Kheruaffaria/vmndgen
+Begas/alda beliben.
+ganfällianchmal wissen
+Am Erlichtag den Erwij. Decembris/von Bie
+ein Kheruaffariagen Lafada beliben.
+Am Mitwochen derwül. Decembris/von Laf
+bißgen Dinopologezogen/davbernacht bely
+Hint, - -
+Am Pfinztag den xxix. Decemseis/etwofähielt
+mittag von Dinopolibiszüdertainenpeu
+g kennt. -
+Am Freitag den rrr' Decembris/von der lange
+pringken durch einen aychenwald/gen Hermauli
+darnach nach einem pühel gezogen gen Virni/al
+da Belli 6en. - - - - -
+Am Sambfagdèletfen Decembris/von Vit-
+nivber das lanmg Kaisersveld/gendoff-Semi-
+fcho/vndgen Stroniza. - - -
 Amfontag den Januari von Stroniza vast
-frver ein lange haydgen Marckt kofienvnind
-vns von wnserm vorigen wegauf die linckenhd
- gewen
- 
- 
+früvßer ein lange haydgen Marckt kofien/vnind
+vns von wnserm vorigen weg/auf die linckenhäd
+. . - gewen-
+–- - - - - - - - - - - - -
+- - - - - - - - - -.
 
-kofianzagenantdaelben 
-gewendet kommen in ein doff Kaffumwenoal
-dabelbenbey einem Griechischen wolck 
-Am Montag den jYanuarijvon Caffinweis
-nofr Ploudni auf der rechten handligendkoms
-mengen Patriffadoffaldaelben 
-An Erichtag den im Januarvonn Patriffa
-nachdem waffer Maritza gezogennetlichdrffer
-durchgezogennkommengen Bellouaaldadeli
-benn 
- Am Mitwochen denJanuar von Beloua
-durch zwo Cliffuravnndnachmalsinn einaychitt
-holz kommen zeiner Toplitzgenant Castanitza
-panaalda belien 
-waffrgezogen wber einen langennpergin fhnee
-gen Samakouomarcktalda beliben 
-Am Freitag den vIanuarjzSamakouoe
+kofianzagenant/daßelben. . .
+gewendet, kommen in ein doff Kaffumweno/al
+dabelbenbey einem Griechischen wolck. _ *
+Am Montag den jYanuarij/von Caffinweis
+nofür Ploudni auf der rechten handligend/koms
+mengen Patriffadoff/aldaßelben. - -
+An Erichtag den im Januarü/vonn Patriffa
+nachdem waffer Maritza gezogenn/etlichdörffer
+durchgezogenn/kommengen Belloua/aldadeli-
+benn. -
+- Am Mitwochen denüJanuar von Beloua
+durch zwo Cliffura/vnndnachmalsinn einaychitt
+holz kommen züeiner Toplitz/genant Castanitza
+pana/alda belißen. - -
+waffrügezogen wber einen langennpergin fähnee
+gen Samakouomarckt/alda beliben. :
+Am Freitag den vIanuarj/züSamakouoße
 is
- 
-Am Sambstag den vijJanuarijvon Sama
-kouo z einem doff Slatn werden genantalda
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Am Sambstag den vij.Januarij/von Sama,
+kouo zü einem doff Slatn werden genant/alda
 feindvil Christen an deneyfenen ketten gegenwns
-gefrt wordennnachmals gen Czeruouotegu
-da beliben 
- Am Sontag den vij Januari von Czernomo 
-bregueinen 6fen weg vber einen perg kommen
-zeiner schnenfainenprugken ineindorff Offl
-An Pfinztag den v Januart vs der Toplitz 
-mifontag den Januar von Offikofa
- H ij niza
+gefürt wordenn/nachmals gen Czeruouoßtegu/
+da beliben. - -
+- Am Sontag den vij Januari von Czernomo -
+bregueinen 6öfen weg vber einen perg kommen,
+züeiner schönenfainenprugken ineindorff Offl
+An Pfinztag den v. Januarät vs der Toplitz -
+mifontag den Januar von Offikofa,
+- - - - - - - H. ij niza
 
 mitza durch die Toplitzgenant Constanitza Watt
-naivber einen perg insthal fast 6senwegkomfien
-zeinrwaffersomitvmsgeruegent Krina Vez
-kavfi ineindorf Konopnizaalda die macht belis
-Am Erichtag den xJanuarijvonn Konopen
-mitzaauffein schnsfeld kommennz einem doff
-nach einem phel genant Stratzindabeliben 
- Am Mittichen den rf Januarjvon Strafzinet
-lichdrffer gezogen fast lang gerittenkomfiengen
-erstellers 
-endabeliben 
+naivber einen perg insthal fast 6ösenweg/komfien
+züeinérwaffer/somitvmsgeruñegenät Krina Vez
+ka/vfi ineindorf Konopniza/alda die macht belisé
+Am Erichtag den x-Januarijvonn Konopen
+mitza/auffein schönsfeld kommennzü einem doff
+nach einem pühel genant Stratzindabeliben. - -
+- Am Mittichen den rf. Januarjvon Strafzinet
+lichdörffer gezogen, fast lang geritten/komfiengen
+“erstellers -
+endabeliben. – - - - : "
 Ampfinztag den rij Januarj von Frost heuo
-vber einen grossenberg Jeruagaradziftfchwartz
-perggezogenkommen auf Maranafeldgendorf
-Liuatz Machmals gen 06er Poneschaalda vere
-macht belien
-Am Freyttag den rij Januarijvon obern Pone 
-fcha durch eingepyrg komfiengen Pristinafatvfi
- Anschfeld in ein Babnio dafelbs Se
- Anfampftag den rij Januarjvonn Banio
-vber das Ampfhfeld zdem marckt g Wutziter
-uo kommen in ein doffRderidaliben 
-Am Sontag den xvJanuarijvon Ruderdorf
-wolfrverdempach IbaMachmals zdemzer
-ften Closterfafflang zwischenn dem gepyrgim
-tal gezogen ver den Rogofirokofiengen Moupa
-farindernacht daelien 6eyvner alten Surf
-fchen wirtin 
- Am Mon
- 
+vber einen grossenberg Jeruagara/dziftfchwartz
+perggezogen/kommen auf Maranafeldgendorf
+Liuatz. Machmals gen 06er Ponescha/alda vßere
+macht belißen.
+Am Freyttag den rij Januarijvon obern Pone -
+fcha durch eingepyrg komfiengen Pristinafat/vfi
+' Anßschfeld in ein 'Babnioß dafelbs Se
+- Anfampftag den rij Januarjvonn Baßnioß
+vber das Ampfhfeld züdem marckt gé Wutziter
+uo kommen in ein doff/Rüderi/daßliben. . . . . . .
+Am Sontag den xv.Januarijvon Ruderdorf
+wolfrüvßerdempach Iba/Machmals züdemzer
+föten Closterfafflang zwischenn dem gepyrgim
+tal gezogen vßer den Rogofirokofiengen Moupa
+farindernacht daßelißen 6eyvner alten Surf-
+fchen wirtin. . . . . . . . . . . . . . . . .
+- “ - Am Mon:
+- -
 
- Am Montag denviTantiariz Mouipasar se
-Uiben 
+: Am Montag denviTantiarizü Mouipasar se
+Uiben. - - - - - - - '-
 Am Erichtag den xvii Ianuarijvon Mouipasar
 zwischendemperg vnd nachmals auf einen hohe
-perg Bresa in ein dolf Brunizada beliben 
-Am Mittichen den rwijJanuarijvon Brunza
-im groffenfhnee6zeiner paugkenvberdiebach
+perg Bresa in ein dolf Brunizada beliben. - -
+Am Mittichen den rwij.Januarijvon Brunza
+im groffenfähnee/6ßzüeiner paugken/vberdiebach
 Vbonatzwndgen Skender Paschina in der macht
-dabeiben 
-An Pfinztag den rixJanuarjvon Skender
-Paschina frvberdenberg zum doff Crotouda
-er den Wannaperggezogenvndgen Pibo konfis
-da beliben
-Am Freytag dxxJanuarijvon Piboffaffr
-vber das vonatzwaffervber einen langen viho
-henperg Bello genant kommen zdem schlo wi
-Closter Doblindarein wirfhier alle gangendye
-Mnchvns schon empfangen vnd vnsztrincken
-geennMachmals fein wirzogen in bfen weg
-gen Wischegradvnddo Beliben 
-Am Sambistag den rrfJanuarijvon nVische
-grad von fundamvber das Drena wafferwmdey
-nen hohenpergSemetz den ganzen tag gezogen
-kommen gen Ragatizada beliben
- Am Sontag den xxij Januarijvon Rogatza g
-gen Herzog Paulouitzgrabkommen gen Grach
-zenizadoeltben 
+dabeiben." - - - - - - - - - - - - - - - - - - - .
+An Pfinztag den rix.Januarjvon Skender
+Paschina früvberdenberg zum doff Crotoudaß
+er den Wannaperggezogen/vndgen Pibo konfis
+da beliben.
+Am Freytag déxx.Januarijvon Piboffaffrü
+vber das vßonatzwaffer/vber einen langen viho
+henperg Bello genant kommen züdem schloß wi
+Closter Doblin/darein wirfähier alle gangen/dye
+Münchvns schon empfangen vnd vnszütrincken
+geßenn/Machmals fein wirzogen in böfen weg
+gen Wischegrad/vnddo Beliben. . . .
+Am Sambistag den rrf.Januarijvon nVische
+grad von fundamvber das Drena waffer/wmdey
+nen hohenpergSemetz den ganzen tag gezogen/
+kommen gen Ragatizada beliben.
+- Am Sontag den xxij Januarijvon Rogatza g
+gen Herzog Paulouitzgrabkommen gen Grach-
+zenizadoßeltben. -
 Am Montag den rrij Januarijvonn Grachtze
-nza nach dem pergnedonigk fast 8fen steynige
-H 11 PnP
+nza nach dem pergnedonigk fast 8öfen steynige
+H. 11) PnP
 
-vundkottigenwegkommengen Verksoffeninn
-die stattdabeliben 
-Amrichtag den FrJanuari z werckboss 
-fenblasen 
-Am Mitwochenden xxvJanuarif von Verch
-boffen wber das weld vndwaffer Waffuazein
-doff Rachanitzaaldaelben
-Am Pfinztag den irrwfJanuarifvon Kakami
-zazdem faurenpunnennach dem Lepnitzapol
-lekonfien ineindorffamperganderrechtenhand
-Luschdabelien
-Am Freitag rrwifJanuarifvon Lufhetlich p
-helgezogenkommen auf das Lufthanopolleinn
-eindorff Graauoalda beliben
-Am Sambstagrrwif Januarifvon Grabano
-
+vundkottigenweg/kommengen Verksoffeninn
+die statt/dabeliben - " - -
+Américhtag den FrüJanuari zü werckboss -
+fenblasen. - - . "
+Am Mitwochenden xxv.Januarif von Verch
+boffen wber das weld vndwaffer Waffua/züeiné
+doff Rachanitza/aldaßelben
+Am Pfinztag den irrwf.Januarif/von Kakami
+zazüdem faurenpunnen/nach dem Lepnitzapol
+le/konfien ineindorffamperg/anderrechtenhand
+Lusch/dabelißen.
+Am Freitag rrwif-Januarif/von Lufhetlich pü
+helgezogen/kommen auf das Lufthanopolle/inn
+eindorff Graßauo/alda beliben.
+Am Sambstagrrwif Januarif/von Grabano
+-
 vonfundamvber den perg Radofceuo fast hoch
-gezogenvndzdem Castelwider instalvndin
-eyndoffwiderim gepyrgligendander rechten
-handBlatzgoydabelben 
-Am Sontag den rxir JanuarifBlatzgoy zwi
-fchen demgepyrg ver das waffer Versofa von
-fundanden hohenperg Serum gezogen komfien
-gen Babimdollalda Beliben
+gezogen/vndzüdem Castelwider instal/vndin
+eyndoff/widerim gepyrgligend/ander rechten
+handBlatzgoy/dabelben. - - - .
+Am Sontag den rxir. Januarif/Blatzgoy zwi
+fchen demgepyrg vßer das waffer Versofa von
+fundanden hohenperg Serum gezogen, komfien
+gen Babimdoll/alda Beliben.
 Am Montag den rrr Januarif von Basindol
-aber vber einen hohenperg kommen vber dzwaf
-fer Jamanachmals Pluia das waffer geritten z
-dem schlo Sockolan der rechten handligendt
-ineindorffSeueronichdabeliben 
-An Erichtag der Januari vSeueronich
-vber dperg Bristenvnd bey demwaffer Szana 
+"aber vber einen hohenperg kommen vber dzwaf
+fer Jama/nachmals Pluia das waffer geritten, zü
+dem schloß Sockol/an der rechten handligendt
+ineindorff-Seueronich/dabeliben. "
+"An Erichtag der Januari vöSeueronich
+vber déperg Bristen/vnd bey demwaffer Szana :
 gerit
-
- 
-
-
-
-geritten wollang bis siCut daselbstsen
-Am Mitwochenden fjebruarijvon Cluzva
-ber die zwen fl Szanizakommen gen Camera
-graddaselbst beliben s 
-Am Pfinztag denij Februarvonn Camera
-grad durch die denkommen inn Gottesnamen
-gen Cruppdabeliben 
-Am Freytagij Februarvon Cruppvberds
-gepyrgkommengen Nougraddaelben
-F Sambfagdij Februarijv6 Mouligrad
-auf die zwai Claduschevndgemfchlo Klokotz
-alda beliben 
-Am Sontag den v Februarvon Klokonzgen
-Budaukufchlovber das waffer Carauawider
-zdem schlo Belloivndvber das waffer Miros
-mizawnsverfren laffenninneindorff kommen
-Dalgeresdabeliben 
-Am Montag dviFebruarivatfrnoch vor
-tagsgen Louigrad vber die Dobravnd nach d
-gepyrgBibnikhnachmals vber die Cluz waffer 
-Mietlingda belien 
-Erichtag den vij Februarijz8 Metling blib
-Mitwochen den vif Februarifvonn Merling
-auffSemenitzschloaldavnns die Semeniten
-waffeerlichen gehaltennachmals an die Toplitz
-vnd durch die ayndgen Seyfenserck kommen
-vnd dabei iben
-Am Pfinztagdix Februarif vSeyfenberk
-aer auf Gurchgen fant Mareinnachmals mit
-freudengen Laybach Gotthablo
- 
-
-
-
-
- f
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- A 
- 
- 
- 
- 
- 
- 
-
- 
-r 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-r 
-
- 
- 
-
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
-Y 
- 
- 
-
- 
- 
- 
- w 
- 
- 
- 
- 
- 
- 
-
- 
-
-r
-
- 
-
-
- 
-
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
-
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-1 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
-r 
- 
-A 
-
-
- 4 
- 
-
- 
-
-
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
-
-
- 
-
- 
- 
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
-
-
- 
- 
- 
- 
-g 
-
- 
- 
- 
- 
- 
-
-
-
- 
- 
- e 
-
- 
- 
-
-
- 
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
- 
- 
- 
-
- 
-
- 
-
-
-
- 
-
+-
+- - - -
+
+--
+-
+geritten wollang, bis siCut daselbstsüßen.
+Am Mitwochenden fjebruarij/von Cluzva
+ber die zwen flüß Szaniza/kommen gen Camera
+grad/daselbst beliben. sº- -,
+Am Pfinztag denij. Februarß/vonn Camera
+grad durch die öden/kommen inn Gottesnamen
+gen Crupp/dabeliben. -
+Am Freytagij. Februarß/von Cruppvberds
+gepyrg/kommengen Nougrad/daßelben.
+F" Sambfagdéij. Februarij/v6 Mouligrad
+auf die zwai Cladusche/vndgemfchloß Klokotz/
+alda beliben. - - -
+Am Sontag den v. Februarü/von Klokonzgen
+Budaukufchloß/vber das waffer Caraua/wider
+züdem schloß Belloi/vndvber das waffer Miros
+mizawnsvßerfüren laffenn/inneindorff kommen
+Dalgeres/dabeliben. -
+Am Montag dévi-Februarivatfrünoch vor
+tags/gen Louigrad vber die Dobra/vnd nach dé
+gepyrg-Bibnikh/nachmals vber die Cluz waffer -
+Mietling/da belißen. -
+Erichtag den vij. Februarij/zü8 Metling blibé
+Mitwochen den vif. Februarif/vonn Merling
+auffSemenitzschloßaldavnns die Semeniten
+waffeerlichen gehalten/nachmals an die Toplitz/
+vnd durch die aynödgen Seyfenserck kommen,
+vnd dabei iben.
+Am Pfinztagdéix. Februarif vöSeyfenberk
+aßer auf Gurchgen fant Marein/nachmals mit
+freudengen Laybach, Gotthabloß.
+- . .
+-
+
+-
+-
+-. - -- - - - -f
+- -
+- - --
+--
+- -- -
+-- -- -
+- - - -
+- -". -
+-- ----- -
+- -
+-
+-- - -
+- --
+-
+- -- --A-- - -
+- - --- -
+-- - - -
+- - --- - -
+-- -- - ... - - - -
+- -
+- -
+-
+- - -
+r-- - - -- -
+- - - - -
+- - -
+-
+-
+-- - --
+- --
+- - -
+- - -
+- - - -
+- -- -- - -- -
+--- - -
+---
+- - -- -
+-- -- -
+-
+: - - -
+- -- - -
+- - -
+-- - -
+- - -- -
+- - -- --,
+---- - - -
+- ---
+--- - -- --
+-
+- -- - -
+- -- -- - -
+- --- -
+-
+- - -
+- -
+-
+- - - -
+- --
+- -
+r - -
+-
+- - - --
+- - - --- -
+--
+- - -
+- --
+-- - -
+- --
+--
+- --- - -- -
+- - --
+-- -
+- - - - - - -
+- - - -
+- - - --
+- - - - - --
+- - -
+"Y -
+- - -
+- -- - --
+--
+.-- - - -
+- -- --
+- - - -- -
+". - -w-- --
+- - -
+-- -
+- - --- -
+- -
+- -
+- -
+--…"
+-- --„
+--
+-:r
+-
+- -
+-
+--
+- -
+-
+-
+--
+---- -- -- -- --
+„--
+- --:
+- -
+- -- -
+- - -- - - - -
+- - - - -
+- -
+- --
+- - - -
+-- -
+-- -- - - -
+- - - - -- - - -- -
+-
+-- - -
+- --- - --
+- -
+- -
+- - - - -
+--
+-. - - : -
+- - - - - - -
+- - -- -
+- - -. ---- -
+- - - - - -
+- - --- -- -
+- - -
+- -- - - -
+- - --
+- - - - -- -- - -- --
+- - --
+--
+--,
+- - - - - -- -- - - -
+- - -
+-
+- -- - --- -
+-- -
+- …"--
+- ------
+--- -
+- -- -- - - -- -
+- - -- - -
+--
+- -
+-".- - - -
+-
+-- -
+- - -
+--- -
+- - -
+-- -
+-- .
+-,
+- -
+- - - -- -- - --
+-- - --
+-
+-
+- -- -
+--
+-
+- - - -
+--- - - -
+- --
+-- -
+- --
+- - - - - -- - -
+- - - -
+- - - - - -
+- --
+- -
+- - -
+- -- -
+- - - - - -
+-
+-–
+1. --- -- -
+- - - -
+- - - -
+- - - - --
+- - - - -
+- - - -
+- - -
+-
+- - - - -
+- - - - -- -
+". - --- -
+-
+- - --
+- - - --
+- - -- - - - - -
+- - -
+-r - - - -
+- - - - -
+.A- - - -
+--
+-
+-- -4 -
+- --
+\-
+- -
+-
+-
+-
+„ -- -- ----
+- --– --- --
+- - - - -- -- --
+- - -
+-- - -
+- - -
+- -
+-
+- - -
+- -*, -
+- -- -
+- -
+- -
+-
+--- - -- -- - - - -
+- - --
+-
+- - -
+- -
+- ;…"- -
+- - - -
+--
+- - --- - - - - -
+-
+- - - - - -- -
+- -- -
+- -- - --
+- - -
+-- -, - -
+-
+-- "- - -
+- - -
+-- -
+--
+--
+-
+- -
+-
+- -
+-- -- -
+-
+-
+-
+-
+--
+- ---
+- -
+- -
+-- - -
+- - -
+- -
+- -
+-
+- - -
+--- -
+- :-- -
+--- - -
+- -
+- ",- - -
+--
+- -
+-
+-»-
+- -
+- - -
+- -
+- - - - -
+g -
+-
+-- - - --
+- -
+- - - - - -
+- -
+- -
+-
+-
+-
+- -
+- - --
+- - e -
+-
+- -
+: -
+-
+-
+- -
+-
+-
+- -
+-
+-
+-
+-
+-
+- -
+-
+-
+-
+-
+-
+- --
+---
+",- - -
+--
+- -
+--
+. .- -
+-
+- -
+- - -
+- -
+- -
+-
+- -
+-
+- -,
+--
+-
+-
+-- - - -
+----
 sA
-
-
-
+-
+--
+-
 p
-
-0
-
+-
+-0,-
+–--
 o
- 
- 
- 
+--- -
+- - -
+- -- -- -
 3
-
- E
-
-
-
- 
-
-
-
-
-
-sterreichische Nationalbibliothek 
-Z15657730X
+-
+",- - -E
+-
+-
+-
+- -- -
+---
 
 
 
 
+Österreichische Nationalbibliothek - -
++Z15657730X
+-
 
 
+-
 
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
 
- D
-P MN DED
- X XY A S r
-DY DYEDit 
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+- - - - - - D
+P" MN) DED)
+-- X XY ). ) A) S r-
+-->>DY - DYE)--Diät -
 H
-
-5 555 555 555
+-
+5% - 555 555 555
 ZF FFF
-T ERA F 3333555 
- 22 ZE3 YOD D DVD 
-53ZEFFFFFF3
-
-ZTEHF 53Z 
-YODY
- D
-55
-FFHF5
-FI F FP D5
-FS DDPPD 
-MADO DX XXX SS
-PDMYD Z 3
-XMENNEN X5 E5
-3 32
- DPA N DM TS 
+T ERA F ## #333-3555 -
+------- 22 ----------- ZE3 YOD ))) D DVD »
+53-ZEFFFFFF,3%---
+######################################
+ZTEHF 53-Z'------------------------- - -
+YODY)
+>> D)
+5:5-
+FFH-F5
+FI), F. FP D5-
+FS "D-DP-Pº-D) -
+MADO DX XXX. SS-
+PDMYD) - Z 3.
+X-MENNEN X5 E5-
+###3% 3-2-
+----- - ''DPA N. DM) ) TS - -
 HYYY YERNS 55 5
- YEN ODDP DD HSHE55
-XYB2 EX
- 4 FDOOD E
+- YEN ODDP DD HSH-E55-
+„XYB2 EX-
+- 4- FDOOD >> %) - E
+
+
+
+
+
+
+
+
+
+
+--
+||||

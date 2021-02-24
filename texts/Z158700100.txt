@@ -1,1628 +1,1621 @@
-M ENTEM AL T ET EXCOL T
-K K H D F B B L O T H E K
-OSTERR NATIONALB BLIOTHEK
- AL D A0
-
-
-
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
-
-
-
-
-
-
- 
-
-
-
- 
-
- 
-
- 
-
-
-
-
- 
- 
-
-
-
-
-
- 
- 
-
-
-
-
- 
-
-
- 
- 
-
-
-
- 
-
- 
-
-
-
- 
- 
-
-
-
-
-
-
-
- 
-
- 
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+M ENTEM AL | T ET EXCOL | T
+K. K. H (D) F B | B L | O T H E K
+OSTERR. NATIONALB | BLIOTHEK
++ (AL , D, A0
+
+
+
+
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+-
+- - - - -
+- - - - - - - - - -
+- - - - -
+- - - - - - - -
+- - - -
+-
+- - - - - - - - - - - - - -
+- - -
+- - - - - - -
+- - -
+- -
+-
+- -
+-
+-
+-
+-
+-
+-
+- -
+-
+-
+-
+- -
+-
+- -
+-
+- -
+-
+-
+-
+-
+- -
+- - -
+-
+-
+-
+-
+-
+- -
+- -
+-
+-
+-
+-
+- -
+-
+-
+- - ---
+- -
+-
+-
+-
+- -
+-
+- -
+-
+-
+-
+- - -
+- - -
+-
+-
+-
+-
+-
+-
+-
+- - -
+-
+- - -
+- - -
+-
+-
+- -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 n
+-
+-
+-
+-
+-
+- -
+X . D .
+-
+- /
+-
+-
+- -
+- 1 -
+- -
+- -
+- - - -
+- -
+-
+-
+- -
+-
+-
+-
 
+- -
+-
+-
+-
+/
+--
+- -
+- - -
+-
+-
+-
+-
+----
+- -
+- -
+-
+--- -
 
-
-
-
- 
-X D 
-
- 
-
-
- 
- 1 
- 
- 
- 
- 
-
-
- 
-
-
-
-
- 
-
-
-
-
-
- 
- 
-
-
-
-
-
- 
- 
-
- 
-
-2 
-Sigmund Freyher zHerber
-fan Neypergvnd Guttenhagoberster Erb
-camrer vnd oberster Druchsas in Krnten
- s
- z 9 setz SEK zers
-44 4 
- S 51 
-Q
-Den Gegenwurtign vnd nachko
-menden Freyherren zu 
-Herberstain
-Seines thuns dienstnvnnd Raifens mittrewer
+2, - -
+Sigmund Freyher züHerber-
+fan Neyperg/vnd Guttenhag/oberster Erb-
+camrer vnd oberster Druchsas in Kärnten.
+\" \ - - - - - s
+-> z« 9/- - setz SEK“ - - zers
+44- 4- -
+. S- / 51 -/
+Q__
+Den Gegenwurtign vnd nachko-
+menden Freyherren zu -
+Herberstain.
+„Seines thuns dienstnvnnd Raifens mittrewer
 vermanung fichzn Tugenden vnd
-guetemweef schicken
-Geducktz Wienn in Osterreich
-durch Raphaeln iOoffhalter
+guetemweef schicken.
+Geducktzü Wienn in Osterreich
+durch Raphaeln iOoffhalter.
 
- 
+- - - - - - - - - - - - - - - - - - -
+:
+- - - - - -
+- - -
+- -
+- - - - - - - - -
+"-----
+- - - ------- * - - - - -
+- - - - - - - - - - - - -
+- - - - -
+- - - - - - - - - - -
+- - - - - - - - - -
+- - - - - - - - - - - -
+- -
+- -
 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
 
 
-
- bekhomen ha ich zusamengebracht Mit darum
-F Er mensch soll sich von gemainen Thirn mit feinem leben
-vndthuen absondern vnd seines thuens ain erliche gedacht
-muslason guet beyspill oder evempel sonderlichn feines ge
-schlachtsnachkommen gebe vnd vorlaffen weildangemain
-gelichen alle vlker vnd Geschlcht sich jres allt heerkhn
-mens Berhimen vnd erfreyen Also hab auch ich mit groer Begiermichvn
-derfangen meiner voteltern Namen rnndwie die nacheinandergeporn sein
-zuerkundigen vnd zu beschreiben Begiert mir Spatzenkumen
-ist das ich mich in leben meiner Eltern mit erkndigen mugen
-Souilich aber auBrieffen neen meinen dinfinvndvillraisen
- das ich mich alla in der El
-tern tugent vnderworben Adels Berhmen vnd bengen oder andern meines
-Namens damit vielfach geben wollte Sich solches als herkhumens vnd Adls
-zu8ernemennd die so hoch zuberhmen vnd damit erachten als Bedrff
-wir nichts meres oder auch tugentlichsten Erhaltung oder Bestttung des
+- bekhomen haß ich zusamengebracht. Mit darum
+F / Er mensch soll sich von gemainen Thirn mit feinem leben
+vndthuen absondern vnd seines thuens ain erliche gedacht-
+muslason guet beyspill oder evempel sonderlichn feines ge-
+schlachtsnachkommen gebe vnd vorlaffen, weildangemain-
+gelichen alle völker vnd Geschlächt sich jres allt heerkhn-
+mens Berhimen vnd erfreyen. Also hab auch ich mit großer Begiermichvn-
+derfangen meiner voteltern Namen rnndwie die nacheinandergeporn sein,
+zuerkundigen vnd zu beschreiben, '' Begiert mir Spatzenkumen
+ist das ich mich in leben meiner Eltern mit erkündigen mugen.
+Souilich aber auß-Brieffen neßen meinen ' dinfinvndvillraisen
+- das ich mich alla in der El-
+tern tugent vnderworben Adels Berhümen vnd benügen oder andern meines
+Namens damit vielfach geben wollte. Sich solches als herkhumens vnd Adls
+zuü8ernemen/nd die so hoch zuberhümen vnd damit erachten, als Bedörffé
+wir nichts meres oder auch tugentlichsten Erhaltung oder Bestättung des
 Adls 3uthuen
-Der halben an alle meines Mvmens die solchemeinverfaffingvnsere El
-rern erschen werden Ist mein trewesvermanenvnd bitten wllen Bedenckh
-das vnsere vorfordern mit mir muegeen oder wolluft zu solchem Adlkholmer
-vndfo wir dann von solchen Stammen vnd Bmen die fy
-ich als frchte dem Pannen oder Stamgleich wirdig finden laffenvndfon
-lichen die jungen auch dermafen vnderweisen die zeitlich zu lernning oder
-diensten in die Zucht die Eltern sich des vincosten mit Sereuren laffen damit di
-selben wol vnd guette otverordnt do y inveung vnd arait gebrauche
-vnnd des migang vnndber gesellschaft verhielt werden
-So istkain Geschlcht das von Adamheer Edl oder hchers Stammdts
-eporn Sondern welche durch tugent vnd schickligkhaitberhimbt vnd ge
-ehen worden die sein fr ander gemain gewidigt Wie dann zin Nrnberg
-als ich bricht Bin geschrieben wordenWo was da der Edlmanda Adha
-wetvnd Eua spanSol2Rhey Friderich haben laffen hinzue schreiben Jch
-Sinnitner weder ain ander Danvalla in das mir Gott der Ehrengan
-Weildan dem also vnd meine vor Eltern auch ain anfang Jhres Adls Ge
-habt wesfy sich aber zuuor Betragen gehalten vnd Beholffen habenmne
+Der halben an alle meines Mvmens die solchemeinverfaffingvnsere El-
+rern erschen werden. Ist mein trewesvermanenvnd bitten wöllen Bedenckhé
+das vnsere vorfordern mit mir mueßgeen oder wolluft zu solchem Adlkholmer
+vndfo wir dann von solchen Stammen vnd Bämen die '' fy
+ich als früchte dem Pannen oder Stamgleich wirdig finden laffen/vndfon-
+lichen die jungen auch dermafen vnderweisen, die zeitlich zu lernning oder
+diensten in die Zucht die Eltern sich des vincosten mit Sereuren laffen, damit di
+selben wol vnd guette otverordnt do y inveßung vnd arßait gebrauche
+vnnd des mißgang vnndböer gesellschaft verhielt werden.
+So istkain Geschlächt das von Adamheer Edl oder höchers Stammdts
+eporn, Sondern welche durch tugent vnd schickligkhaitberhimbt vnd ge-
+ehen worden, die sein für ander gemain gewidigt. Wie dann zin Nürnberg
+als ich bricht Bin geschrieben worden/Wo was da der Edlmanda Adäha-
+wetvnd Eua span/Sol2Rhey Friderich haben laffen hinzue schreiben Jch
+Sinnitner weder ain ander (Danvalla in das mir Gott der Ehrengan.
+Weildan dem also vnd meine vor Eltern auch ain anfang Jhres Adls Ge-
+habt, wesfy sich aber zuuor Betragen, gehalten vnd Beholffen haben./mne
 ich ain glaubwirdigen verfandt ausvnern Erslichen Wappen abnemen
-n demselben Sy gefiiert vnd wir noch fren ein weieschlaipffndaran mit
-enpflugauffdenacker vnd wider dauon fert Das Sy Ackerswind Bau
- sein So bestadt auch die mein Der Gnther wo
-Herbertain feines Anheran Ontterhalstern Gnthers des letzten des
-Namens von Haag Wappen einen gelben Rokhumet im rotenfeldt Im
-1 409 Ja zu Leben Empfangen der khumer auch zum Ackerpaw
-Solcher meiner aulegung Bedarf sich kainer besch wren Dann wo mein
+n demselben Sy gefiiert vnd wir noch füren ein weißeschlaipffn/daran mit
+enpflugauffdenacker vnd wider dauon füert. Das Sy Ackerswind Bau-
+'' sein. So bestadt auch die mein "#" Der Günther wo
+Herbertain feines Anheran (Ontterhalstern Günthers des letzten des
+Namens von Haag Wappen einen gelben Roßkhumet im rotenfeldt. Im
+1 409. Ja zu Leben Empfangen, der khumer ' auch zum Ackerpaw
+Solcher meiner außlegung Bedarf sich kainer besch wären. Dann wo mein
 Vatter oder auch ich mit dem Ackerpawvmnd Pflueg gearfait oder genere
-hetten wolt daffelbin war halt auch mit vorhalten Ich auch villiser der erst
-Edel gemacht sein wolt Dann das ich meinen Eltern vngleich Befunden
-solt werden A is Dann
+hetten wolt daffelbin war halt auch mit vorhalten. Ich auch villiser der erst
+Edel gemacht sein wolt. Dann das ich meinen Eltern vngleich Befunden
+solt werden. A, is (Dann
 
 C
-Dan findt auch bey dent Noch weisen das die narung des pflugs vnd Ack
-er paw aller Slgstenarungsey die dem ganzen menschliche geschlacht
+(Dan findt auch bey dent. Noch weisen das die narung des pflugs vnd Ack-
+er paw ' aller Sälgstenarungsey, die dem ganzen menschliche geschlacht
 mitzen thut
-Darzue so befindet man das die treffenlichsten Rmer in zeittenjresbli
-enden glcks vnd macht als Curius nach dem als Er die Samniter die Sat
-biner vnd dem Pierchum verwunden Triumphiert hat sich zudem Acker
-pawgethonvnd Caius CIOuintus Cincinatus al der zu der wierde der Dic
-tatur Verueffenwart mit dem pflugackherent Befunden 
-Zudem finde man das Premilaus der Erste Herzog zu Behaim al der
-zu solcher wirdeerfilecht ward an seinem Pfluegseinspeisgeniefendt Befun
-den vnd von dann hingenommen Er wollte auch seine Paffene schuch die m
-nachjherer sprach Kburpienennet nicverlaffen als der gefragt war zueEr
-die wolltegasantwort die sollen zu Vischegradt das ist an hohen Schlo zu
-gedachuu gehalten werden Damit die nach kumme wifenden Erste Dertz
-ogen vompflug genommen sein 
+Darzue so befindet man das die treffenlichsten Römer in zeittenjresbli-
+enden glücks vnd macht als Curius nach dem als Er die Samniter die Sat.
+biner vnd dem Pierchum vßerwunden Triumphiert hat sich zudem Acker-
+pawgethon/vnd Caius CIOuintus Cincinatus alß der zu der wierde der Dic-
+tatur Verueffenwart mit dem pflugackherent Befunden. - :
+Zudem finde man das Premißlaus der Erste Herzog zu Behaim alß der
+zu solcher wirdeerfilecht ward an seinem Pfluegseinspeisgeniefendt Befun-
+den vnd von dann hingenommen. Er wollte auch seine Paffene schuch (die mä
+nachjherer sprach Kburpienennet) nicverlaffen als der gefragt, war zue-Er
+die wollte/gasantwort, die sollen zu Vischegradt: das ist an hohen Schloß zu
+gedachuuß gehalten werden. "Damit die nach kumme wifenden Erste Dertz-
+ogen vompflug genommen sein -
 So dann solche anfechliche Qeit nach so groffen Erlichen am Stern sich
-wider zu den PflueggethonSollen wir Bedencken in disen wandelwartige
-3eiten mit was zuefallen der widerwertigkait zu dem Pflug zu feenvnd
-3ngreiffen verursacht mochten werden Darum Sfoljeglicher bedacht fein in
-glcklichem Standt sich gegen meniglichen vnd sonderlichen den Midternder
-maffenzuhalten damit wo sich solches zuerruegemitfrwerffen seines vorige
-stolz vnd hochmudt mit verlachen mit furgeworffen wirde vnd krzlich ge
-redyederzeit sich dermaen halten damit von dem Obern mit verachtvnd v
-den Widern mitgefecht werde
-Die areit vndvbung ehernen vnd besterckhen den Lei da wider der
-niegang ainraitzung aller Bohait ist Darum 8 wol zu achten das vnser
+wider zu den Pflueggethon/Sollen wir Bedencken in disen wandelwartige
+3eiten mit was zuefallen öder widerwertigkait zu dem Pflug zu feenvnd
+3ngreiffen verursacht mochten werden . Darum Sfoljeglicher bedacht fein in
+glücklichem Standt sich gegen meniglichen vnd sonderlichen den Midternder-
+maffenzuhalten damit wo sich solches zuerruegemitfürwerffen seines vorige
+stolz vnd hochmudt mit verlachen mit furgeworffen wirde vnd kürzlich ge-
+red/yederzeit sich dermaßen halten damit von dem Obern mit verachtvnd vö
+den Widern mitgefecht werde.
+Die arßeit vndvbung ehernen vnd besterckhen den Leiß, da wider der
+nießgang ainraitzung aller Boßhait ist. Darum 8 wol zu achten das vnser
 worfordern mit arbayeredlich kait vndgueten tugenden von Ackerpawzt
-dem Adlerhcht sein dem wir nachuolgen sollen vnd vnsfelbsaunch also Edl
-machen weil wir von gentem Paum oder Stamenkhumeu follen wirvins
-guette frucht mit trewen dinsten redlichkhaitn Sefdigen warhaffenge
-mererweisen vnderzagen auch khainer die alten Tuegenden mit seinem vi
-tugenden vermailigen 
-Weildan vnsere voreltern sich der dinf Befliffen khain araie geschichten
-wie es sich danefindt sonderlichen mein Benvid sein Bruder auch mein Va
-ter vnd meine gebrder dermafen gehalten mir das Evempel vorgetragen
+dem Adlerhöcht sein, dem wir nachuolgen sollen vnd vnsfelbsaunch also Edl
+machen, weil wir von gentem Paum oder Stamenkhumeu, follen wirvins
+guette frucht mit trewen dinsten redlichkhaitn Sefädigen warhaffenge-
+müerßerweisen vnderzagen, auch khainer die alten Tuegenden mit seinem vi-
+tugenden vermailigen. -
+Weildan vnsere voreltern sich der dinf: Befliffen, khain arßaie geschichten
+wie es sich danßefindt sonderlichen mein Benvid sein Bruder auch mein Va-
+ter vnd meine gebrüder dermafen gehalten mir das Evempel vorgetragen
 wird darzue mich also zuthuenvniderwillen den ich auch trewlichen nachgeuol
-getverhoffJr werden solches mit allain aus meinen worten sonderinwerck
-en befindenau den Briffen die vns allen vmbwnserervotelrernvnd solider
-lichen auch unbmeiner dinst willen gegeben sind worden famptbesserung
-oder merung vnferswappens Erhhung vnseres Standts mit erlanggdes
-Erbeamerervi Erbtruckfffcampterin Furstenthb2Rhrmdten wir in was
-fachich in 2Rhayser Davimilians auch Rhayser Carls vdeffelben Bru
-der Rm2Knigs auch Jetztmals 2Kay Ferdindindiefen Amstern vndpot
-fchaften gebraucht bin word Getrste ich mich die Jngern so noch lesen vi
-die geborn werden Sich auch darnachrichten vmachuolgen werden
-Derberftain das Schlos hattNer Dtt von XOlrichen G
-er Imtausentzweyhundert vnd Neunzigesteniar erkhauffvnd man find
- 11
- i 
+get/verhoffJr werden solches mit allain aus meinen worten, sonderinwerck-
+en befindenauß den Briffen die vns allen vmb.wnserervotelrern/vnd solider-
+lichen auch unbmeiner dinst willen gegeben sind worden, famptbesserung
+oder merung vnferswappens Erhöhung vnseres Standts mit erlangügdes
+Erbeamerervi Erbtruckfäffcampterin Furstenthüb2Rhärmdten wir in was
+fachéich in 2Rhayser (Davimilians auch Rhayser Carls vñdeffelben Bru-
+der Röm2Künigs auch. Jetztmals 2Kay: Ferdinädindiefen Amstern vndpot-
+fchaften gebraucht bin wordé, Getröste ich mich die Jüngern so noch lesen vi
+die ä geborn werden. Sich auch darnachrichten vßmachuolgen werden.
+Derberftain das Schlos hattNer: Dtt von ' "XOlrichen ' G
+er Imtausentzweyhundert vnd Neunzigesteniar erkhauff/vnd man find
+" " 11.
+- - i -
 
-mit wie dasselb Schloaus vnd wider an die von iPerSertainkhumen wre
-Audem etliche deutten wollen also 8 wir zuuor den Namen von toarperg
- hetten das ich aber dermafinnit erachtenkYOrfach das hieuor dies
+mit wie dasselb Schloßaus vnd wider an die von iPerSertainkhumen wäre
+Außdem etliche deutten wollen also 8 wir zuuor den Namen von toarperg.
+' hetten, das ich aber dermafinnit erachtenkäYOrfach das hieuor dies
 hauffs deren von terbertainnamen gewest ist Dan Prost Johanns zu
-Plan hat mir mit seiner hand zugeschriben am fibenundzwainzigit Dai
-desfunfzehen hundert vnd Meinzehendenjarvnd mir das Register zuege
-stelt hat zu ersehen das iDer Hans von Herberstain als Pharher dafelbfin zu
-F des derzeit noch kain Probstay wasjm Tauentzwayhundertvnnd
-indten Jar schreiben hat laffen
-Edler Gefrenger lieber ter Sigmundt MOeingesetvigantz willig diese
-fein euch in alwe benotJch schickench hiemit vier Brieff daraus jerfinden
-werdet vier alte Fchaft oder Sigil Ewersalenheerkhumens vndllichen
-Geschlacht Ich hab all meines Gottshaus Brieffvberlesen vnd nicht mer als
-ain alt Registerauffdiephart zu Pl feet Jcht Nans von iHerbertain zu
-den seitten Pharter zu Plan habdis Register machen laffen nach Christi
-geburttausent zweihundert Meun Jaraber man khan eskhaum lesenWo
-mit ich Euch meinem iOertenDern Georgen vnd Ewern gebrdern dienen
-EhamBin ich allzeitwillig vnd Serait die Brieffbehalt nur Wey Eurenhemd
-bi ich zu euch khum aber noch iterum iterum ist mein hochuleifig bitten
-auffalles vertrawi damit mir mein Stewrauch meines Hoffmaister Wolff
-gang Sarl die ich in vertroft habfiurjmauzurichtenein fristgelaffen wird
-damit ich mit in vngehorsam fielJch wilvlei baen auf das Feld ist die zu
-richten auch vmb Euch als meinem lieben iOerten verdienen Solchs Wollet
-procuriren mihiremgratifflimamfummostudiopromerendam Ich hab jetzunt ey
-lendraingelt augeben mssen das ich ganz erschopff bin Und wijerver
-fundt das mir solches zu nachtailkhomsoltBitich vertrewlich mich durch
-ein Elainsbriefferichtney diesenpoten Hismevobis vivnicae peime com
-do Valetefelixexpolancelere 27 May Anno 19
+Pölan hat mir mit seiner hand zugeschriben am fibenundzwainzigité (Dai
+desfunfzehen hundert vnd Meinzehendenjar/vnd mir das Register zuege-
+stelt hat zu ersehen, das iDer Hans von Herberstain als Pharher dafelbfin zu
+F" des derzeit noch kain Probstay was/jm Tauentzwayhundertvnnd
+indten Jar schreiben hat laffen.
+Edler Gefrenger lieber ter Sigmundt (MOeingesetvigantz willig diese
+fein euch in alwe benot/Jch schicken.ch hiemit vier Brieff daraus jerfinden
+werdet vier alte F"chaft oder Sigil Ewersalenheerkhumens vndlößlichen
+Geschlacht. Ich hab all meines Gottshaus Brieffvberlesen vnd nicht mer als
+ain alt Registerauffdiephart zu Pölä feet Jcht Nans von iHerbertain zu
+den seitten Pharter zu Pölan habdis Register machen laffen nach Christi
+geburttausent zweihundert Meun Jaraber man khan eskhaum lesen/Wo-
+mit ich Euch meinem iOerten/Dern Georgen vnd Ewern gebrüdern dienen
+Eham/Bin ich allzeitwillig vnd Serait die Brieffbehalt nur Wey Eurenhemd
+biß ich zu euch khum aber noch iterum & iterum ist mein hochuleifig bitten
+auffalles vertrawéi damit mir mein Stewrauch meines Hoffmaister Wolff
+gang Sarl, die ich in vertroft habfiurjmaußzurichten/ein fristgelaffen wird
+damit ich mit in vngehorsam fiel/Jch wilvleiß baßen auf das Feld ist die zu
+richten auch vmb. Euch als meinem lieben iOerten verdienen. Solchs Wollet
+procuriren mihiremgratifflimamfummostudiopromerendam. Ich hab jetzunt ey-
+lendraingelt außgeben müssen, das ich ganz erschopff bin. Und wijerver-
+fundt das mir solches zu nachtailkhomësolt/Bitich vertrewlich mich durch
+ein Elainsbrieffäßerichtnßey diesenpoten Hismevobis vivnicae peime comé-
+do, Valetefelixexpolancelere, 27. May, Anno 19.
 Johannes propofusibidem
-totus vester Y
- Der Edlengestrengen Ritter Herrn Sigmund
-von Herberstain c meinem liben ver
-treulichsten Herrn
-Von wem aber derselbtoertans eborn wer auch seine geschwistrat ge
-wesenhab SJ s st
-Das mchte ich wol zugebenAl die von terberistain venjererbehaustig
-Galswilen geschlachtenbeschehen ist vnd noch beschiecht vnd zu Harpergn
-mestch desselben Namen wie in Franckreich viNiderladtgemeineglich bei
-fhiecbr Von jrerrinha und gierter gepraucht weil Syaer ihr Schlowid
-bekum vhaupergverlafinochen Sybeyhrmalten Namen bliben sein
-Dir
+totus vester - * Y
+- Der «Edlengestrengen Ritter Herrn Sigmund
+von Herberstain, c meinem liben ver-
+treulichsten Herrn.
+Von wem aber derselbtoertans eborn, wer auch seine geschwistrat ge
+wesen/hab “ SJ - s st
+Das möchte ich wol zugeben/Alß die von terberistain venjererbehaustig
+Galswilen geschlachtenbeschehen ist vnd noch beschiecht) vnd zu Harpergên-
+me/stch desselben Namen wie in Franckreich viNiderladtgemeineglich bei
+fähiecbr Von jrerrinhaß und gierter gepraucht, weil Syaßer ihr Schloßwid
+bekumé vñhaupergverlafinochen Sybeyhrmalten Namen bliben sein,
+(Dir
 
-Mir ist auch frsracht worden als sollte das Schlos hieuor Erulstain
-von den Vlckheun Eruli welche hien oder Enden gewondtgenentwor
-den fein Gleichermaen wie die gegent nachnt dersey erzo Rielande ge
-nene wirtfol Reglandt gehaiffen haben nach den Vlckhern Rugy die
-auch daselbstngewont haen wie den am Kulmperg will pur alterspen
-befundenvnndgesehen werden des mich wenig Bekhimert gibt doch an an
-Jaigen
-So hat mir Olrich von tierbersdorffbrieffzugestellt Darin befinden das
-Herr Georg von Herberstain von Fridaw zween Sn gehabt Dainzlen vnd
-Henlen den haben Paul vnd Georg die Warzmain Brieffgeben im drei
-zchen hundert meinundachtzigsten Jar Freytags vor Sandt Tag
-tbareneie der Jnger von Pettaw Oarschalch zu Steyr hat ainen
-spruch zwischen denselben zwayen gebrdern einen dienern gethon am Frey
- vor Gottsleichnams tagimdreyzchen hundert fnffundibenzigisten
-KBC 
-tNamel von iDer8ertain zu Fridaw hat den Erbaren Ritter Herm
-Georgen von iDerberstainain Gut verkauft den brieffhaen gefigltiert
-Antoni von Trautmansdorffvnd Jaco Lembincher im dreizehen hundert
+Mir ist auch fürsracht worden, als sollte das Schlos hieuor Erulstain
+von den Völckheun Eruli welche hien oder Enden gewondt/genentwor-
+den fein Gleichermaßen wie die gegent nachnt dersey erzo Rießlande ge“
+nene wirtfol Rüeglandt gehaiffen haben nach den Völckhern Rugy die
+auch daselbstngewont haßen wie den am Kulmperg will pur alterspen
+befundenvnndgesehen werden des mich wenig Bekhimert, gibt doch an an-
+Jaigen.
+So hat mir Olrich von tierbersdorffbrieffzugestellt. Darin befinden das
+Herr Georg von Herberstain von Fridaw zween Sün gehabt. Dainzlen vnd
+Henßlen, den haben Paul vnd Georg die Warzmain Brieffgeben im drei-
+zchen hundert meinundachtzigsten Jar Freytags vor Sandt ' Tag.
+tbareneie der Jünger von Pettaw (Oarschalch zu Steyr hat ainen
+spruch zwischen denselben zwayen gebrüdern einen dienern gethon am Frey-
+# vor Gottsleichnams tagimdreyzchen hundert fünffundibenzigisten
+KBC. - *
+tNamßel von iDer8ertain zu Fridaw hat den Erbaren Ritter Herm
+Georgen von iDerberstainain. Gut verkauft, den brieffhaßen gefigltiert
+Antoni von Trautmansdorff/vnd Jacoß Lembincher im dreizehen hundert
 vnd zwayundachtzigisten Jamran Sant XOrbans Fen
-Von wemter Georg der zwayer iMainzlen vndi Henlen Wattergeporn
-ha ich khain wifen ABer Erhart vnd PernbartiMaintzleinstHerbertainer
-Sne verkauften Dieterichen von Teuffempach getern im 14oo Jaram
-sag Thome von khandaerg 
-Von meinem Elternha ich auch vernommen die F nur von hrma
-Egeredtdas iben Ritter zu ainerzeit dazu Der erstaingewontsolen habe
-rundermurainerhosen getragen Gleichermasse auch vernomen das Nein
-Derbertainerin aueinem GDantel verheyratwrm So ist mir zu meincu
-tagenainer zuekumen dre gesagt hat Er wr deren ainer von dem Nein die
-auainem Dantel in Das setz ich auch fr Ehai gewishaitSo
-es aber also war als mglich ist So findet man daraus wie sich das weltlich
-wesen verendert nach der zeitJerzo will keiner anfiben Parhofen auch khai
-ne an mein GDantin zufriden oder Benugig sein So wirtvnerjizigs weesen
-auch mit ewig befteen
-Binder erstlichen hofftig meine nachkomene werden sich befleiffen noch
-ferter auf die mein hinderlich zu finchen vnd 3uerindern vnd ob Sy
-gleich mit merers finden Sich doch des so vorhanden von mir Bengen vnd
-alain trachten sich jeren von Eltern nach zmleen vnd zu halten Damit Sy
-sich auch selbsmitjrem wolthuen bey dem rechten Adl erhalten
-Wann das buen werden syvon dem staffel darauf wir
-getreten vnd Syfeemaingroffe Bequemlichkhaitha
-ben auf den mechfStaff fr aufzutreten Das
+Von wemter Georg der zwayer iMainzlen vndi Henßlen Wattergeporn/
+haß ich khain wifen. ABer Erhart vnd PernbartiMaintzleinst-Herbertainer
+Süne verkauften Dieterichen von Teuffempach güetern im 14oo Jaram
+sag Thome von khandaßerg. -
+"Von meinem Elternhaß ich auch vernommen die F" nur von hörma-
+Egeredt/das iben Ritter zu ainerzeit dazu. Der erstaingewontsolen habe
+rundermurainerhosen getragen. Gleichermasse auch vernomen, das Nein
+Derbertainerin außeinem GDantel verheyratwärm. So ist mir zu meincu
+tagenainer zuekumen dre gesagt hat. Er wär deren ainer von dem Nein die
+außainem Dantel '' in. Das setz ich auch für Ehai gewishait/So
+es aber also war als müglich ist. So findet man daraus, wie sich das weltlich
+wesen verendert nach der zeit/Jerzo will keiner anfiben Parhofen auch khai-
+ne an mein GDantin zufriden oder Benugig sein. So wirtvnerjizigs weesen
+auch mit ewig befteen.
+Binder eröstlichen hofftig meine nachkomene werden sich befleiffen noch
+ferter auf die mein ' hinderlich zu finchen vnd 3uerindern vnd ob Sy
+gleich mit merers finden. Sich doch des so vorhanden von mir Bengen vnd
+alain trachten sich jeren von Eltern nach zmleßen vnd zu halten. Damit Sy
+sich auch selbsmitjrem wolthuen bey dem rechten Adl erhalten,
+Wannß das buen werden syvon dem staffel darauf wir
+getreten vnd Syfeemaingroffe Bequemlichkhaitha-
+ben auf den mechféStaff für aufzutreten. Das
 verleichjnen der Allmechtige Ewige Gott
 deney Lob Eervnd damckvms alle
-guaden die vns durch ein Barm
+guaden, die vns durch ein Barm
 herzigheit mitgethailt
-ist worden
-der nach 
+ist worden,
+der nach “
+)
 
-
-
-Hernachvolgen Numals die von Herberstain wie
-die nacheinander geben sein
-Herr Ott von Herbertain hat ain gemahlgehat mitnamen NOg hab
-mit wissen was geschlchts die haben gesert GeorgenReinharten Plrichen
-vnnd Dittm
-Herrn Ottns mit der Mzn
-Sirne
-Herr Wlrichtern Ottns Snlain Preylingehat haben hat brieff
-gefigelt im 13 34 Jarligt zum Bischoffdoff im Sagrer
+-
+Hernachvolgen Numals die von Herberstain, wie
+die nacheinander geben sein.
+Herr Ott von Herbertain hat ain gemahlgehaßt mitnamen (NOäg hab
+mit wissen was geschlächts, die haben gesert Georgen/Reinharten Plrichen,
+vnnd Dittm.
+Herrn Ottns mit der Mäzn
+Sirne.
+Herr Wlrichtern Ottns Sünßlain Preyßlingehaßt haben, hat brieff
+gefigelt im 13 34. Jar/ligt zum Bischoffdoff im Sagrer.
 Reinhart vmnd Ott von dilen zwaien gebuedern finde ich nichts alla in
-das die nur Brieff gefigelt haben
-iDer Georg Deren Ottensvmnd der COgn Sin hat Ehelichen Alhaitn
-FreimpergirinvnndgesertniXNaimrichenOttnvmnd Eckhartn
-Herrn Georgens mit der CAl
-haitin Siin
-tDerek DainrichtDeren Georgens mit der Alhaitm Sinhat Ehlich gehabt
-Annanteren Gnthers von HagTochter Datum des iDeyrarriffs 1379
-Jaran Sant Vlrichstag die gebertin Gnthern derselsnam Ehlich An
-nam Dikfin des Eertainer Tochter vnd Dietrichs von Teuffempach zu
-Dayrhouen Witwe geferten zwo Tchter
-Von Eckhartnieren Georgens mit der Alhaitn Sin finde nichts als
+das die nur Brieff gefigelt haben,
+iDer Georg Deren Ottensvmnd der COägn Sin hat Ehelichen Alhaitn
+Freimpergirin/vnndgesertniXNaimrichen/Ottnvmnd Eckhartn,
+Herrn Georgens mit der CAl-
+haitin Siin.
+tDerek Dainricht-Deren Georgens mit der Alhaitm Sinhat Ehlich gehabt
+Annanteren Günthers von HagTochter Datum des iDeyrarßriffs 1379
+Jaran Sant Vlrichstag die gebertin Günthern derselsnam Ehlich An-
+nam (Dikfin des Eßertainer Tochter vnd Dietrichs von Teuffempach zu
+Dayrhouen Witwe geferten zwo Töchter.
+Von Eckhartnieren. Georgens mit der Alhaitn Sin/ finde nichts als
 Brieff8efiglung
-Ott der diemietigt Neren Georgens mit der Alhaitn Sn hat Ehlich ge
-habt Elisabeth Herent Mannen von iDolmeggTochter des iOeyratbrieff Det
-tum 1389 Jar am Dontag vorgeburdt Darie die haben geboten Georgen
-vnnd Andreen
-Herrn Ottns von Herberstain vnd Elisabeth Herrn Hannten von Hol
-negkh tochter SnetNert Georg vnd Andree die bad ordnung
-vnnd mageben wiejre Kinder Erben vnd die To
-chtergeuertigt sollen werden Anno 1427
-Herr Andre ogemeltshoeren Ottms Sin Rayser Fridrichs des dritten
-Dauptman zu Adlsperg vndam Carst hat Ehlichen VrsulamtDeren Dann
-fen von Teuffenpachstochter Ift mit thailung von iPerSertaingen COrm
-fei in Jfereich khomen Lige zu Grtz in der Pharkhirchen begraben
-Herrn GAndes Sne
-volgen hernach
+Ott der diemietigt Neren Georgens mit der Alhaitn Sün hat Ehlich ge-
+habt Elisabeth Herent Mannen von iDolmegg-Tochter des iOeyratbrieff Det-
+tum 1389. Jar am Dontag vorgeburdt (Darie, die haben geboten. Georgen
+vnnd Andreen.
+Herrn Ottns von Herberstain, vnd Elisabeth Herrn Hannten von Hol-
+negkh tochter Süne/tNert Georg vnd Andree die bad/ ordnung
+vnnd maßgeben, wiejre Kinder Erben vnd die To-
+chtergeuertigt sollen werden. Anno 1427.
+Herr Andre oßgemeltshoeren Ottms Sin Rayser Fridrichs des dritten
+Dauptman zu Adlsperg vndam Carst hat Ehlichen VrsulamtDeren Dann-
+fen von Teuffenpachstochter Ift mit thailung von iPerSertaingen COärm-
+feiß in Jfereich khomen Lige zu Grätz in der Pharkhirchen begraben.
+Herrn GAndes Süne
+volgen hernach.
 her Gesagteren Andres Sun diente an 2Rayser Fridrichstoff kham
-von finnenligt in der Kirchen vor dem Schlo GDrnfels begraben
-Bert Leonhart hoeren Andres Sun Ist mit Kharfer Fridlichen gen
-Rhom zu der Crnung vnndgen Neapolis zudertochzeit vnd dann zum
-andern mal mit dem Rhayser gen Rom gezogen da selbstn mit Ritterlicher
+von finnenligt in der Kirchen vor dem Schloß GDärnfels begraben.
+Bert Leonhart hoeren Andres Sun - Ist mit Kharfer Fridlichen gen
+Rhom zu der Crönung vnndgen Neapolis zudertochzeit vnd dann zum
+andern mal mit dem Rhayser gen Rom gezogen, da selbstn mit Ritterlicher
 Wierdebegabt darnacht Hauptman zu Adispergvnndam Carstpfleger
- pPacy
+- - pPacy
 
-
+-
 Wippach feingemahl Barbara Herrn MiclasenBurggrauen zu Nuentyvnd
-zum Luegtochter erligt zu Grtz in der Pharkirchen
-HernCeonhardts von Herber
-fa in Sine
-ter Geogan Rhayser Fridrichst Doff al an Junger erzogen vonge
-mainer Landeschafft in Steyr an Rhayser DavimilianstHof im 15o2Jar
-geschickt worden derzeyt ist der Rhayfer im Bayrischenkrieg wider die Be
-batim gezogen da selbfin nach der Schlacht Bey RegenspurgErneben vilan
-dern im Veld zu Ritter geschlagen dangen TraumstaintHauptmangesetzt
-dreimal die toauptmanschaffen vber die Steyrischerfungen wider die De
-nediger vnd damit Hauptman der fnff Midersterreichischen Landt der Pa
-uern auffeuer in Steyer mit den Steyrern getempfft dann mit Kayser GOa
-imilian zuefantz von Cyllijn Crain vnd gar durchzogen auch gefilt vnd ge
-afft Nach Erzherzog Ferdinandn Cronung in Behaim auch in iOun
-gern zuederselben Cronung gezogen dazumal in Hungern erkhramckt vnnd
-gen Paugg an die Leyttakomen dafelbstmgestorben vnd kegraen sein Ge
-mahl Dargarethaiern Christoffen von RottalTochter
-iHerthans Knaben wei an 2Kayser Fridrichstofferzogen als die T
-en im Pierpamer Waldt zu Crain im 1 49 1 Jar erlegt sein worden 
-rpey gewest der halben zu Ritter geschlagen hernach in vil Zgen wider
-Dungern vnd Venediger gewest in Kayser Davimiliansdienst mit zwain
-zigt Huffrischen Pfrdtn Jm 1 51 o Jar Besteltvnd gedient Sein Ge
-mahl Dargaretha Herrn Christoffen von Racknitztochter ligt im Ental
-an der Purgkh begraben 
+zum Luegtochter erligt zu Grätz in der Pharkirchen.
+Hern-Ceonhardts von Herber-
+fa in Sine.
+t)er Geogan Rhayser Fridrichst Doff alß an Junger erzogen, vonge-
+mainer Landeschafft in Steyr an Rhayser (DavimilianstHof im 15o2-Jar
+geschickt worden, derzeyt ist der Rhayfer im Bayrischenkrieg wider die Be-
+batim gezogen, da selbfin nach der Schlacht Bey Regenspurg-Erneben vilan-
+dern im Veld zu Ritter geschlagen, dangen Traumstaint-Hauptmangesetzt
+dreimal die toauptmanschaffen vber die Steyrischerüfungen wider die De-
+nediger vnd damit Hauptman der fünff Miderösterreichischen Landt, der Pa-
+uern auffeuer in Steyer mit den Steyrern getempfft, dann mit Kayser GOa-
+imilian zuefantz von Cyllijn Crain / vnd gar durchzogen auch gefilt vnd ge-
+afft. Nach Erzherzog Ferdinandn Cronung in Behaim / auch in iOun-
+gern zuederselben Cronung gezogen, dazumal in Hungern erkhramckt vnnd
+gen Paugg an die Leyttakomen, dafelbstmgestorben vnd kegraßen sein Ge-
+mahl (Dargarethaiern Christoffen von Rottal-Tochter.
+iHerthans Knaben weiß an 2Kayser Fridrichstofferzogen, als die Tü
+en im Pierpamer Waldt zu Crain im 1 49 1. Jar erlegt sein worden./ #
+rpey gewest, der halben zu Ritter geschlagen hernach in vil Zügen wider
+Dungern vnd Venediger gewest in Kayser (Davimiliansdienst mit zwain
+zigt Huffärischen Pfärdtn/ Jm 1 51 o. Jar Besteltvnd gedient. Sein Ge-
+mahl (Dargaretha Herrn Christoffen von Racknitztochter ligt im Enßtal
+an der Purgkh begraben. - -
 Mein Sigmund Herrn Lienhart Sun
-thun vnd wesen steht hernach
-kHert Wilhalm Jft mit Riinig Carln erstmals au dem Niderlande in
-Dispanien als ein Trabant geschifft darber er durch Rayser Davimilian
-3u Rittergeschlagen die Zg in Friaul auch in der von Steyr rstigung vi
-nachmals in Kayser Davimiliansdienst Daran gespeist vnd die Weinde
-belffenfhlaben Jm 15 29 jar als Suleyman der Trckisch 2Rayser fr
-Wiegezogen vnd belegert ist neben andern Ritterlichen Leiten in der Be
-legerung bliben hernach der Rmischen Rnigin Rathvi Oister Stabl
-maister als lang die gelebt Blien Nach derselben ableibung ist er durch K
-2Rhii Ot in die Nidersterreichische Regiergverordntfeet noch im dift
-alla in das Erschwachaithalben mit aumag 1 557 Sein gemahl Regina
-Cristoffen von Pluemberg Tochter
+thun vnd wesen steht hernach.
+kHert. Wilhalm Jft mit Riinig Carln erstmals auß dem Niderlande in
+Dispanien als ein Trabant geschifft, darüber er durch Rayser (Davimilian
+3u Rittergeschlagen, die Züg in Friaul auch in der von Steyr rüstigung vi
+nachmals in Kayser (Davimiliansdienst (Daran gespeist vnd die Weinde
+belffenfählaben / Jm 15 29. jar / als Suleyman der Türckisch 2Rayser für
+Wieñgezogen vnd belegert ist neben andern Ritterlichen Leiten in der Be-
+legerung bliben hernach der Römischen Rünigin Rathvi Oßister Stabl-
+maister als lang die gelebt Blißen. Nach derselben ableibung ist er durch Kö:
+2Rhii: Ot, in die Niderösterreichische Regierügverordntfeet noch im dift
+alla in das Erschwachaithalben mit außmag/ 1 557. Sein gemahl Regina
+Cristoffen von Pluemberg Tochter.
 Herrn Georgns mit der
-von Rottal Sine
+von Rottal Sine.
 ter Georg Deren Georgens Sun also Junger Herzog Erichen von
-Braunschweig in dienst gelaffen der in Frielandr lang bey des Frsten leiten
-Blben CDit der von Steyr Poeschafft nach Rhayser Davimilians todt in
-Hispanien gera ist danau dem Niderlandtin Daylandt vnder den Fue
-Enechtngedient als die Aydgmoffen geschlagen sein worden Im 1522jar ist
-zu Ritter geschlagen durch den Knig Ferdinandndan Rath vi Landtstuer
-weser Vijetzo Landeshauptmanin Steyr wo die 15 57 Sein f
+Braunschweig in dienst gelaffen der in Frießlandr lang bey des Fürsten leiten
+Blben CDit der von Steyr Poeschafft nach Rhayser (Davimilians todt in
+Hispanien gera ist danauß dem Niderlandtin (Daylandt vnder den Fueß-
+Enechtngedient als die Aydgmoffen geschlagen sein worden. Im 1.522.jar, ist
+zu Ritter geschlagen durch den Künig Ferdinandn/dan Rath vi Landtstuer
+weser Vijetzo Landeshauptmanin Steyr wo die 15 57. Sein f'
 43 P4T14
+-
 
-
-
-
-Barbara Deren Achatzen Schrotten die an der Eleonora Herum tanzen
-Trauesam zu Sprechenstain Erbmarslich in Tyroll Tochter
-Derr Ruprecht Herrn Georgms Sn Erstlich Rhmaben wei in das
-Niderlde geschickte etliche Jar bei dem Prinzen von Sinai gedine ist mit
-mir al derzeyr Erzherzog Ferdinand mitzo Ro Raysers Poeschafft in der
-GDosma gewestMachmals vndert der entlanfen2Rhazianer lang in Hung
-erischen Ehrig gelegen Dani Pauptman ver die Rayfigen vnd fueknechte
-in Oermstetten zu Dungernvil redlicher vnd Ritterlicher thattingechon
-Darums derselben 3eyt von Rom 2Rhu MDaytern Ferdinandem zu Ritter
-geschlagen In seiner pluenden jugendrin Jargestorben Sein
-gemahl Helena Hansen Fuegers Tochter ligt zu Grtz in der Phart
-tdert Gnther Her Georgms Sun ist mit Rayser Carls Potschaft dem
-Grauen Leonhardtn Mugarolis in der Ooszulagewest von dan zu Rnig
+-
+-
+Barbara Deren Achatzen Schrotten, die an der Eleonora Herum tanzen
+Trauesam zu Sprechenstain Erbmarslich in Tyroll Tochter,
+Derr Ruprecht Herrn Georgms Sün Erstlich Rhmaben weiß in das
+Niderläde geschickte etliche Jar bei dem Prinzen von Sinai gedine ist mit
+mir alß derzeyr Erzherzog Ferdinand mitzo Ro: Raysers Poeschafft in der
+GDosma gewest-Machmals vndert der entlanfen2Rhazianer lang in Hung
+erischen Ehrig gelegen Dani Pauptman vßer die Rayfigen vnd fueßknechte
+in Oßermstetten zu Dungernvil redlicher vnd Ritterlicher thattingechon
+Darums derselben 3eyt von Rom: 2Rhu: MDay.tern Ferdinandem zu Ritter
+geschlagen. In seiner pluenden jugendrin '' Jargestorben. Sein
+gemahl Helena Hansen. Fuegers Tochter ligt zu Grätz in der Phart.
+tdert Günther Her Georgms Sun, ist mit Rayser Carls Potschaft dem
+Grauen Leonhardtn Mugarolis in der Ooszulagewest von dan zu Rünig
 Sigmmnden in Polln gen Dantzkhageschickt dafelsin zu Ritter geschlage
 vndals der zumer Jarnkomenalin Fendrich vnder den knechten gewest als
-Tirgg Wien Belegert im 15 19 jar ist ein aufallgeschehen vnd im F
-nieen willen der Feindschieffenvnbeladigt blien von Tockhey an der Theysa
-erschoffen vnd in der kirchen gegen Schlover begraben
-Der Georg Andrei Der Georgms Stift auch in das Mderlant die Neren
-von Rhoyals Romischen KayserDesbritintooffmaister indinst gelaffen
-der den in khriegssachen viel gebraicht hat in der Feindt Leger etlichmalge
-schickt Deren von Steyr Rrigsuolck Zalmaister eingemahlt Deleratern
-e Petschachs Tochter junger gestorben Erligt zu Sant Leonharte
-zupuhelm
-ter Georg Sigmundter Georgiens Snder Rmische Rhnigin
-Enabe Im 13 Jarmit andernfurThurin in Italia gezogen Im 15 z
-armeen andern Erlichenleiten wider den Trggengen Effeckh geraist
-Der nach der Rmischen RniginDruchss alle andere Zugin to ungern vi
-sonderlich im 1 5 56 mit Erzherzog Ferdinandn zu rettung Sigeth vnund
-Erobrung Bagisch vnd 2Khorortna helffen huen Jezs Ro 2Kay Day
-Rate vndainer Landschafft in Stayrbefeltteri Nauptmin auf
-potfeingemhal WDargaretha Dern Felicians von PettschachTochter
+Tirgg Wien Belegert im 15 19 jar ist ein außfallgeschehen vnd im F"
+nießen willen der Feindschieffenvnbeladigt blißen von Tockhey an der Theysa
+erschoffen vnd in der kirchen gegen Schloßvßer begraben.
+Der Georg Andrei Der Georgms Stift auch in das Mäderlant die Neren
+von Rhoyals Romischen Kayser-Desbritintooffmaister indinst gelaffen
+der den in khriegssachen viel gebraicht hat in der Feindt Leger etlichmalge-
+schickt. Deren von Steyr Rrigsuolck Zalmaister eingemahlt Deleratern
+äe Petschachs Tochter junger gestorben. Erligt zu Sant Leonharte
+zupuhelm.
+ter Georg Sigmundter Georgiens Sünder Römische Rhünigin
+Enabe Im 13. Jarmit andernfurThurin in Italia gezogen. Im 15 % z.
+armeßen andern Erlichenleiten wider den Türggengen Effeckh geraist,
+Der nach der Römischen Rünigin?Druchsäs alle andere Zugin to ungern vi
+sonderlich im 1. 5 56. mit Erzherzog Ferdinandn zu rettung Sigeth vnund
+Erobrung Baßgisch vnd 2Khorortna helffen huen Jezs Ro: 2Kay: Day
+Rate vndainer Landschafft in Stayrbefeltteri Nauptmäin #" auf
+pot/feingemhal (WDargaretha Dern Felicians von Pettschach-Tochter.
 Herrn Hansen mit der von
-Ragkhmitz Sme
-Herr Caspertern transens Sninsenerjugendthern George Druchs
-fff Freyhern zu Walpurg als des Schwabischspundstauptmann in dienst
-F Rom 2Rhde Pott schafften zudem Trggischen Khaysergen
- F thungern vnder dem Obristen Deldhaupt
-213
-manipertentarifen 2Ratzianer gedient Dann der Rmischen Rhnigin Fr
-schneider nichts minder als intdumgren gedinet vor Effeckh der
-Steirer Fendrich im 1 5 37 dan derselben Hauptmann vber Sienhundere
-Phrdt mit denen fur Offengezogen do dan der Trgg Personlichkh
-oud Offen eingenommen im 54 Nach der Rmischen 2Khnigin tode dem
-Rmischen Rhinig auf seinfls cofin in Sachsfischenkrieg 
-seiner Ot person gewart Machmals auch K Ot gen Frschnei
+Ragkhmitz Süme.
+Herr Caspertern transens Süninsenerjugendthern George Druchs
+fäffé Freyhern zu Walpurg als des Schwabischspundstauptmann in dienst
+F" Rom. 2Rhüde. Pott schafften zudem Türggischen Khaysergen
+“ "F" thungern vnder dem Obristen Deldhaupt-
+(213
+manipertentarifen 2Ratzianer gedient. Dann der Römischen Rhünigin. Für
+schneider nichts minder als '' intdumgren gedinet vor Effeckh, der
+Steirer Fendrich im 1. 5, 37 dan derselben Hauptmann vber Sißenhundere
+Phärdt mit denen fur Offengezogen, do dan der Türgg Personlichkhä
+oud Offen eingenommen im 54. Nach der Römischen 2Khünigin tode dem
+Römischen Rhinig auf seinflös cofin in Sachsfischenkrieg ''
+seiner Ot: person gewart Machmals auch Kü: Ot: gen Fürschnei
 worden
+/
 
-
-A 
-
- 
-
-worden nach der Schlacht als der Churfirstin Sachiffen Herzogtans Fri
-derich gefangen im veldt zu Ritter geschlagenErzherzogen Carls zu Oster 
-reich Obrister Camrer fein gemal Wandula Hansen Dandorffers tochter
-ter Cristoffi Nern iNansens Sn des Rmische Knigskhnasdan mit
-Phrdtn in krigen gedinet vnder Offen in dem vngluckseligen atzug wie
+A -
+-
+- -
+-
+worden nach der Schlacht als der Churfirstin Sachiffen Herzogt)ans Fri
+derich gefangen im veldt zu Ritter geschlagen/Erzherzogen Carls zu Oster- -
+reich Obrister Camrer fein gemal Wandula Hansen (Danßdorffers tochter.
+ter Cristoffi Nern iNansens Sün des Römische Künigskhnas/dan mit
+Phärdtn in krigen gedinet/ vnder Offen in dem vngluckseligen aßtzug wie
 anch der Turckhisch khayler Perscheinlich khomen tot blieben dazumal der
-Trckh Ofen eingenomenJim 1541JarGott wei ob der Begraben ist
-Pnd wo 
- Der Sigmdtkernt Hansens Sun wolgelert auch die sprachen Latei
-ni vnd Franzsisch kundig als Ray Carlwider Frckreich 
-dem Niderland gezogen Ist mit andern erlichen leiten in des Kaysersdin
-vnder den geringen Phrorn mit geraist danward frid gemacht hat erne
-rers sehen vnd erlernen wllenSich indes Cardinals von Lutringen der des
-XKimi Franckreich als geselgewcltig was dinst begeben dafelsin Jun
-Sergestorbet 
-Herthans Gregor Hern tanen Sinn der Rmischen Rnigin Rnaby
-Darnach Druchsa mit iOern Jeronimus Qaski2Rh KOt Orator zu
-dem Ticken gen Constantinopel gezogen auffaligen Coffingen Preburg
-als der Trck Granvnd Weiffenburg genomen zugezogen Erzherzog Fer
-dinandn zu Osterreich DruchsJanainem Ritterspilnitainem Lad
- ainer Dandtpuyn zu Prag erschossen worden vngeuerlich lige
-in Chuenb 
-Hert Oswalt als junger abgestorben wie Er von der hoerfert auitung
-ernkamim 1 541jar
+Türckh Ofen eingenomen/Jim 1541.Jar/Gott weiß, ob der Begraben ist
+Pnd wo. -
+* Der Sigmüdtkernt Hansens Sun wolgelert auch die sprachen Latei-
+ni ''vnd Französisch kundig als Ray: Carlwider Fräckreich '
+dem Niderland gezogen. Ist mit andern erlichen leiten in des Kaysersdin
+vnder den geringen Phärorn mit geraist, danward frid gemacht hat erne-
+rers sehen vnd erlernen wöllen/Sich indes Cardinals von Lutringen (der des
+XKimi ' Franckreich als geselgewcltig was) dinst begeben dafelsin Jun-
+Sergestorbet. . -
+Herthans Gregor Hern tanen Sinn der Römischen Rünigin Rnaby
+Darnach Druchsaß mit iOern Jeronimus Qaski2Rhü: KOt: Orator zu
+dem Ticken gen Constantinopel gezogen auffaligen Coffingen Preßburg/
+als der Türck Granvnd Weiffenburg genomen zugezogen, Erzherzog Fer-
+dinandn zu Osterreich Druchsäß/Janainem Ritterspilnitainem Lad-
+' ' ainer Dandtpuyn zu Prag erschossen worden vngeuerlich lige
+in "Chuenb. -
+Hert. Oswalt als junger abgestorben, wie Er von der hoerfert außitung-
+ernkam/im 1 541jar.
 ber Achatz tern iNansen Sun in seiner jugent der lernungskgelegen
-darumb auch in das Wlisch Landtgelaffen neben dem Studio die sprachen
-zu lernenJst neben andern Steyrischen Reittern im Zug wider die Turcken
-Zu zwaymal des 1 5 56 Jars gezogen zu rettung Sigetbvnd Eroerung
-Baboscha vnd Rhrottma 
-DAin wunderliche tath hat sich jm 15 57 zwischen der Traavnd Saw 3ue
-getragen das vier hundert Steyrische Phrdt in die finframent Turcken
-in die flucht vnd viel daranerschlagen dabei iMerr Achatz auch gewestder
-halben die Rm Rhii Dt iOern Christoff von Lamberg term Achatzn
-vnd Walthasarm Walderstein zu Rittergeschlagen am ersten Septembris
-Hern Williams mit der 
- von Puemeck Sine
+darumb auch in das Wälisch Landtgelaffen neben dem Studio die sprachen
+zu lernen/Jst neben andern Steyrischen Reittern im Zug wider die Turcken
+Zu zwaymal des 1 5 56. Jars gezogen zu rettung Sigetbvnd Eroßerung
+Baboscha vnd Rhrottma. -
+DAin wunderliche tath hat sich jm 15 57. zwischen der Traavnd Saw 3ue-
+getragen, das vier hundert Steyrische Phärdt in die finframent Turcken
+in die flucht vnd viel daranßerschlagen, dabei iMerr Achatz auch gewest-der-
+halben die Röm: Rhii: (Dt. iOern Christoff von Lamberg term Achatzn/
+vnd Walthasarm Walderstein zu Rittergeschlagen am ersten Septembris.
+Hern Williams mit der . . .
+- - - - - - - von Puemeck Sine.
 tder Ditterich iNern Wilhalms Sun bey Erzherzogen Ferdinanden
-al khnaber zogen dientjtzoal Druchsas F Erzherzogen Ferdi
-manden seine erste Hrfurt mit feinen Furften des 1 5 56 Jars in Hungern
-zu entsetzung Sigechvnn Eroerung Babotschavnd Khorottna
- der Carolidern Wilhalms Sun Istal 2Rnasbey dem Rmischen
-Rhinig erzogen dient yetzo mit zwaen PhatdtnJst im 1 557jarvon
-Rmischer Rhde zudem Churfrsten am Rhein geschickt worden
+alß khnaber zogen dientjtzoalß Druchsas F“ Erzherzogen Ferdi-
+manden, seine erste Hörfurt mit feinen Furften des 1 5 56. Jars in Hungern
+zu entsetzung Sigechvnn Eroßerung Babotschavnd Khorottna.
+- der Carol/idern Wilhalms Sun Istalß 2Rnasbey dem Römischen
+Rhinig erzogen, dient yetzo mit zwaen Phatdtn/Jst im 1 557.jar/von
+Römischer Rhüde zudem Churfürsten am Rhein geschickt worden.
 Herr
+-
+-
+- -
 
-
- 
-
-tDerr Juliustern Wilhalms Sun dient als ain Edler Rinas Rnig
-Davimilian zu Behaim
+tDerr Julius/tern Wilhalms Sun dient als ain Edler Rinas, Rünig
+Davimilian zu Behaim.
 Herrn Georgen Sandshauptman
-inmitt der Schrttin Sine
-kBert Georg Herrn Georgen Sunrist in Italia auch Burgundi Luen in
-lernung gewest noch jung sein erste hfart wider den Trcken im 1 5 7
-Der Leopoldt Herrn Georgens Sun ist auch lerning haben in F
-gewet nachmals zu den Cardinal von Trient als Statthalter zu Day
-landtindienst gelassen sprachbalken zu lernen jetztmals 2Knig Oaximi
-liansdiener 
-Der Georg Rueptecht tMeren Georgens Sn Ifbey Erzherzogen
-Carlin Edler Rhmab
+inmitt der Schröttin Sine.
+kBert Georg Herrn Georgen Sunrist in Italia auch Burgundi Löuen in
+lernung gewest noch jung sein erste höfart wider den Türcken im 1 5 - 7.
+Der Leopoldt Herrn Georgens Sun, ist auch lerning haben in F"
+geweßt nachmals zu den Cardinal von Trient als Statthalter zu Day-
+landtindienst gelassen, sprachbalken zu lernen jetztmals 2Künig (Oaximi-
+liansdiener, - - -
+Der Georg Rueptecht tMeren Georgens Sün Ifbey Erzherzogen
+Carlin Edler Rhmab.
 Herrn Georg Andresmitder
-von Petschach Sne
-Felician ist noch Jnger in der lernung zu Padua auch sprach halben
-Georg Ande zu Grtz Jngerbey derlernung
+von Petschach Süne.
+Felician ist noch Jünger in der lernung zu Padua auch sprach halben
+Georg Ande zu Grätz Jüngerbey derlernung.
 Herrn Georg Sigmundts mit
-der von Pereschach Sune
- noch Jung Sigmund FridrichHans FridrichGeogCristoff Ja
-CoSFranz
-Herr Georg Herrn Ottens mit der von Holmegkh Sn
-vnd Herrn Andres Brder hat Ehlichen Dargarethn
-Herrn Sigmunden Dardawn Tochter
-Er was Erzherzog Fideichen der nachmals Rmischer Rhayserward
-F zu Stvenistain als hochgemelter Erzherzog sich mit den zwayen
-Lande Ofterzeicbvndervo der Bris Rhinig Lalasgeerhaschaff halbe
-vertragen welchen vertrag Erzherzog Fridrich vnd sein Brueder Erzher
-zog Albrecht auch Bischoute zu Gurgh5wentierten von Stubmbergvnnd
+der von Pereschach Sune.
+' noch Jung, Sigmund Fridrich/Hans Fridrich/GeogCristoff Ja-
+CoSFranz.
+Herr Georg Herrn Ottens mit der von Holmegkh Sün,
+vnd Herrn Andres Brüder hat Ehlichen (Dargarethn
+Herrn Sigmunden (Dardawn Tochter.
+Er was Erzherzog Fideichen der nachmals Römischer Rhayserward/
+F" zu Stüvenistain als hochgemelter Erzherzog sich mit den zwayen
+Lande Ofterzeicbvndervñoß der Bris Rhinig Laßlasgeerhaschaff halbe
+vertragen, welchen vertrag. Erzherzog Fridrich vnd sein Brueder Erzher-
+zog Albrecht auch Bischoute zu Gurgh/5wentierten von Stubmberg/vnnd
 Senelter Dert Georg von Herberstain verftgelt haben am Ertchtag nach
-AndtceIm 1 4 3 9 Jar
-Als ogemelter Erzherzog zu Rom Rhinig erwelt vnd zu der Cronung
+Andtce/Im 1 4 3 9. Jar.
+Als oßgemelter Erzherzog zu Rom: Rhinig erwelt vnd zu der Cronung
 3oche hat derter Georg das ZKhuchlmaisterampt gehandelt von GOontag
-nach Judica des 1 44 2 hinzauff Sant Georgenstag des 1 44 3 Jar
-Des RaidtbtieffsDatum fehct 1 44 9 Etags nach Diti
-Der R32Rh zsche in das ReichBeualch das Lanndt Steyr in seinem
-awesen nebenteren Conraden von 2Khriegt Noffmaisterwimmdiauptmann
-in Krndtnterentiansen von Stubmberg tatptmann in SteyrDeren
-Vlrichen vnd Leotodn von Stubnberg Herrn Stolphen von Perneck
-tderen Dierregen Duchsaffnt0ern trainrichen von Meyperg Herrn Mi
-clasen von Liechtenstein transen Laun Ottin von Radmsdorff Georgen
-B ij Schwein
+nach Judica des 1 44 2. hinzauff Sant Georgenstag des 1. 44 3. Jar
+Des Raidtbtieffs/Datum fehct 1 44 9. Etags nach Diti.
+Der R32Rhü: zsche in das Reich/Beualch das Lanndt Steyr in seinem
+aßwesen nebenteren Conraden von 2Khriegt Noffmaisterwimmdi)auptmann
+in Kärndtn/terentiansen von Stubmberg tatptmann in Steyr/Deren
+Vlrichen vnd Leotodn von Stubnberg/ Herrn Stolphen von Perneck
+tderen Dierregen Duchsaffn/t0ern trainrichen von Meyperg/ Herrn Mi-
+clasen von Liechtenstein transen Laun, Ottin von Radmäsdorff, Georgen
+B. ij Schwein-
+/
 
-
-SchweinpecknrLeonhartiniMartscherhansen Waltfainer Leopoldtn A
-spichwlffen Saurer Sigmunden Rogendofferdentieren Georgen mit
-gene digisten woran vnd Sitten am montag nach SVlrichstag im 1444
-Herrn Geoign mit der KOar
-dazvin Sne
- der Hansteren Georges Sun hat mit den Hungrischen vil zuchun ge
-hat sich redlich gehalten hatkain Sungelaffen eingrofferfarcker Dann
-das man an seinen verlaffinen wehen animpr die derzeit keinem zugesrau
-chen eingemahl Dargareta Petterndes SchannfueTochter
-Herr Anthonitern Georgns Sun hat Rhaiser Fridrichengedientkain
-Sun gelaffen sein erste gemahl XPrsula Maringerin die an der an Gott
-hardtn Frottauers Cochter 
-Erhard Herten Gestgens Sun hat Rhaier Davimilian in seinen Ju
-gendt als Druchfis gedient ist on Weibvnd Rindt gestoen
+SchweinpecknrLeonhartini-Martscherhansen Waltfainer/ Leopoldtn A-
+spich/wölffen Saurer, Sigmunden Rogendofferdentieren. Georgen mit
+gene digisten, woran vnd Sitten am montag nach SVlrichstag im 1444-
+Herrn Geoign mit der KOar-
+dazvin Süne.
+- der Hansteren Georges Sun hat mit den Hungrischen vil zuchun ge
+haßt sich redlich gehalten hatkain Sungelaffen eingrofferfarcker Dann
+das man an seinen verlaffinen wehen aßnimpr/ die derzeit keinem zugesrau-
+chen eingemahl (Dargareta Petterndes Schannfueß-Tochter,
+Herr Anthonitern Georgns Sun hat Rhaiser Fridrichengedient/kain
+Sun gelaffen sein erste gemahl XPrsula Maringerin, die an der an Gott
+hardtn Frottauers "Cochter - -
+Erhard Herten Gestgens Sun hat Rhaier (Davimilian in seinen Ju-
+gendt als Druchfis gedient, ist on Weibvnd Rindt gestoßen.
 Fridericht Berlin Georgens Sun ist ein Waidman gewest ein senffer fromm
-merman Sein erste gemahl BararatDeren Sigmundts von Rogendorff
-die an der GOargareth Andreen Gllerstochter
- Galerin Sn 
-ker Wernhard in Fridrichs SunIstals ein Jungerainpaniger wieder
-2Rhaiser Dayimilian die gehalten gedient Als Rhaier 
-dem Rhnig in Engellandt gezogen vor Terbona die Franzosen an der spei
-fing geschlagen mit gewest Ist auch etlich Krieg wider die Venedigerge
-zogen vnd zum Ritter geschlagen Sein gemahl Catherina teren Georgens
-von Sauraw Tochter ligr zu Stubmberg begraben
+merman. Sein erste gemahl Barßarat-Deren Sigmundts von Rogendorff
+die an der GOargareth Andreen Gällerstochter.
+- Galerin Sün. . - -
+k)er Wernhard in Fridrichs Sun/Istals ein Jungerainpaniger wieder
+2Rhaiser (Dayimilian die gehalten gedient. Als Rhaier ''
+dem Rhünig in Engellandt gezogen vor Terbona die Franzosen an der spei
+fing geschlagen mit gewest. Ist auch etlich Krieg wider die Venedigerge-
+zogen/ vnd zum Ritter geschlagen. Sein gemahl Catherina teren Georgens
+von Sauraw Tochter ligr zu Stubmberg begraben.
 Herrn Wernhardin Frey Herms
-mit der von Sauraw Sine
-e Frantz ist in der ndelag im Chomueldt vnder Ofen in der Schlache 
+mit der von Sauraw Sine.
+e“ Frantz ist in der ndelag im Chomueldt vnder Ofen in der Schlache -
 iben
-ber Georg bern weinhardins Sn 2Rhinig Davimilians zu Be
-haimfrschneider Sein gemahl BararatBern Bernhardts Schintltoch
-tersein Sun Davimilian war Jung gestorben 
-kHert WilhalmiXeren Wernhardins Sun hat ein zeitbey Graff Nicla
-fen von Salm als R Rhi Die oriften Camrer in seiner Jugend gedient
-Seingemahl Sigaun Sigmunden 2Khenenhllers Tochter er starb am 18
-Aprilts des 1 5 5 7 Jarligt zu StubmBerg 
-tDer Ott Ruepecht tern wernhardins Sun Isteinzeit Beydenen
-Frstin von Plawimdienst gewes
+ber: Georg bern weinhardins Sün, 2Rhinig (Davimilians zu Be-
+haimfürschneider. Sein gemahl BarßaratBern Bernhardts Schintltoch
+ter/sein Sun (Davimilian war Jung gestorben. - -
+kHert. Wilhalm/iXeren Wernhardins Sun hat ein zeitbey Graff Nicla-
+fen von Salm als Rö. Rhi. Die oßriften Camrer in seiner Jugend gedient
+Seingemahl Sigaun Sigmunden 2Khenenhüllers Tochter, er starb am 18.
+Aprilts des 1 5 5 7. Jar/ligt zu StubmBerg. -
+tDer Ott Ruepecht, tern wernhardins Sun Isteinzeit Beydenen
+Fürstin von Plawimdienst gewes.
 Hernach Wolgen die
-Tchter
- Neress
+Töchter.
+“ - - - - - - - '- '-- - - - - Neress
 
- Herrn Ottns von Herberfain
-H der Dazn Tochter 
-Gerdrametern Seens mit der MDatentochter hatchlichen len Pannen
-zu Sturmberg 
-Herrn Georgns von Herberstain mit
-der Wreinpergerin Tochter
-Anna Neren Gesteckens mit der Drei erin eochter hat Ehelichen
-Vlichen Saffner gen er wreinpergerin escorer
-Herrn Wlrichs von Herber
- fain Tochter
-h vierten Vlrichs tochter hat Ehelichen Herrn Hansen aaur
-ECCMI 
+- Herrn Ottns von Herberfain.
+H der (Dazn Tochter. . . "
+Gerdrametern Seens mit der MDatentochter hatchlichen Ölen Pannen
+zu Sturmberg. -
+Herrn Georgns von Herberstain, mit
+der Wreinpergerin Tochter.
+Anna Neren Gesteckens mit der "Drei erin eochter hat Ehelichen
+Vlichen Saffner. gen er wreinpergerin escorer
+Herrn Wlrichs von Herber.
+– fain Tochter.
+h vierten Vlrichs tochter hat Ehelichen Herrn Hansen açaur-
+ECCMI, - - - *
 Herrn Hainrichs von Herberstan
-mit der von iDagtchter 
-Anna Herrenhainrichstochter hat Ehelichen Orten von Herberstoff E
-Machmals Walchunvon Radmanstoff die geberttn Ottm vndtanien
-Zuletzt hat fiel Derman Sturmberger
+mit der von iDagtöchter. -
+Anna Herrenhainrichstochter hat Ehelichen Orten von Herberstoff E.
+Machmals Walchunvon Radmanstoff, die geberttn Ottm vndtanien
+Zuletzt hat, fiel Derman Sturmberger,
 Barbara Herten iMainrichs tochter hat Ehelichen Erharten von Der
-
-Berstoff die haben gepertr Andreenwind Fridrichen
-Herrn Gnthers mit der Eber
-faimerintchter
-Dosehea Herrn Gnthers Tochter hat Ebelichen Georgen offen
-Zu Ramfainkhain Rindt 
-Elisabethtoeren Gntherstschter hat Ehelichen Herrn GDotizen Teil
-zer die geperten iOerten WilhalmenVeitnGeorgnvnd Balthasarnvnnd
-M Pairhoferin vnd M Gralin 
+-
+Berstoff, die haben gepertr Andreenwind Fridrichen.
+Herrn Günthers mit der Eber“
+faimerintöchter
+Dosehea, Herrn Günthers Tochter, hat Ebelichen Georgen offen
+Zu Raßmfain/khain Rindt -
+Elisabethtoeren Güntherstschter hat Ehelichen Herrn GDotizen Teil
+zer die geperten iOerten Wilhalmen/Veitn/Georgnvnd Balthasarnvnnd
+M Pairhoferin vnd M. Graßlin. - -
 Hansen von Herbertain mit der
- Schaumfiiffintchter
-Juliana Engelhardtn von der tMaydt 
-Dargaretha Sigmunden von tollenbwurg darnach Blasen Teschitz
-Barbara Wolffgangen Sarl
+- Schaumfiiffintöchter.
+Juliana Engelhardtn von der tMaydt. - -
+Dargaretha Sigmunden von tollenbwurg darnach Blasen Teschitz,
+Barbara Wolffgangen Sarl.
 Herrn Knthonie
- H 
-Benigna Jacoben Grabnerkain Rindt 
-Helenaprimuffen Wildenstainerkain Rinde
+. . . - - - H '
+Benigna Jacoben. Grabner/kain Rindt. "
+Helenaprimuffen Wildenstainer/kain Rinde.
 Herrn Wernhardins mit der von
 Saura wirdchter
-Dargarethakanten Stainpeisauff Aichpers
-Anna Cristoffen von Colnitz 
-Daria 
-Barbara
-tester Jung gestorben
- 
- m nun
+(Dargarethakanten Stainpeisauff Aichpers,
+Anna Cristoffen von Colnitz. -
+(Daria. - -
+Barbara.
+tester Jung gestorben.
+. .
+» m nun
 
- 
- 
-26 Datti 1 5 4 8
-
+- -
+- -
+26. (Datti 1- 5 4 8.
+-
 Hernach Wolgen Herrn Kndres mit
-H Tochter
-Margaretha ist Andreenweltzer zu Landschach verheyratkain Rinde
-Herrn Leonharts mit der
-von Lueg Tchter
-aMargareth Sigmundn Schaumfliet MachmalsPaulln von Rotempers
-Drilla mit Leonhardren 2Rhazianner dauon ter tans Rhazianner
-Freyher zu Flednich der beruembt Ritterlicht Dauptmangepoin der ist er
-modt worden am 8 Ocrobris 1 5 3 9 darnach mit Georgen Ketzer
- 2Katherina Sigmunden von der Veff kainKindtSystarb am 1 Jen
-Incrg 1 5 5 o
-Dorothea Hannten Nicolitschkain Rindt 
+H “ Tochter,
+"Margaretha ist Andreenweltzer zu Landschach verheyratkain Rinde,
+Herrn „Leonharts mit der
+von Lueg Töchter.
+aMargareth, Sigmundn Schaumfließt MachmalsPaulln von Rotempers.
+"Drilla mit Leonhardren 2Rhazianner dauon ter tans Rhazianner
+Freyher zu Flednich der beruembt Ritterlicht Dauptmangepoin, der ist er-
+modt worden am 8. Ocrobris 1 5 3 9. darnach mit Georgen Ketzer.
+- 2Katherina Sigmunden von der Veff kain-Kindt/Systarb am 1. Jen-
+Incrg 1 5 5 o.
+Dorothea Hannten Nicolitschkain Rindt. -
 Elemma Anthonien Ficiendarnach Danielln Schwardelathn Systarb
 Herrn Georgen mit der von
-Rottal Tchter
-Rofinagebon 17 Aprilis 1499 terentiansen von Eywefwalt R3 Rhi
-ADt Rat gemahl Er starb 7 February 1 532 Sy am 25 Nouember 1 552
-Cordula geboren 4 Juli 1 500 Heran Sebaldn Pogl Freyheren zu Reiff
-fainvnd Arberg BEr starb 1 Juni 15 40 Syam 17 Oartij 1 543
-Barbara ist geboren 1 5 07 Deren Jobft von Oberweinmayr genommen
-am 25Jenner 1 52 3 Brfarbim 1 528 Darnach Deren Georg von Wol
-fareydt bed Ritter vnd R2Rhii Ot Rtte der ist gestorben am 29 Aprilis
-in 1 549 Syftarb 27 Nouembris im 1 55 3
-Cecilia geboren 1 Day 1 5 09 Deranten von Trautmanforffkain Rindt
-Dargareth geboren 21 Decembis 15 0 Cristoffen Prantner der star
-im 1 53 1 Man darnacht Mannsen SchrampffnSyftarb 2Jenner 8
-Benigna geboten 3 Octobris 1 5 1 2 Deren Galln Freyherren von Rakhnig
-2RhdOt Ratkain Rindt Er starb 21 Nsuembeis 3
-Anna geboren am 27 Oat 1 16 term Twolffen von Spangfain Dar
-macht Deren Sigmundn Galler R2Rhii Dt Rit
+Rottal Töchter.
+Rofinagebon 17 Aprilis 1499 terentiansen von Eywefwalt R3 Rhi.
+ADt Rat gemahl. Er starb 7. February 1 532 Sy am 25. Nouember 1 552.
+Cordula geboren 4. Juli 1 500 Heran Sebaldn Pogl Freyheren zu Reiff-
+fainvnd Arberg BEr starb 1. Juni, 15 40. Syam 17. Oartij 1 543.
+Barbara ist geboren 1 5 07. Deren Jobft von Oberweinmayr genommen
+am 25.Jenner 1 52 3. Brfarbim 1 528. Darnach Deren Georg von Wol-
+fareydt bed Ritter vnd Rö.2Rhii (Ot, Rätte der ist gestorben am 29. Aprilis
+in 1 549. Syftarb 27. Nouembris im 1 55 3.
+Cecilia geboren: 1. Day 1 5 09. Deranten von Trautmanforffkain Rindt.
+Dargareth geboren 21. Decembis 15 : 0. Cristoffen Prantner der star
+im 1 53 1. Man darnacht Mannsen Schrampffn/Syftarb 2.Jenner - - 8.
+Benigna geboten 3. Octobris 1 5 1 2. Deren Galln, Freyherren von Rakhnig
+2Rhüd-Ot: Ratkain Rindt. Er starb 21. Nsuembeis - 3.
+Anna geboren am 27. Oat 1 : 16 term Twolffen von Spangfain. Dar-
+macht. Deren Sigmundn Galler Rö.2Rhii (Dt. Rit.
 Herrn Hansen mit der von
-Rakhnitz Tchter
-AElisabeth mit Gabriellen Stubich im 1 535 darnach mir treten Frangs
-von Derberstoffverheyrat 18 NouemSis 1 543
-2nna mit Deren GOotizen Rumphm 8 Aprillis 15 54
-Elena mit Herrn Wilhalmen Grafwein Ritter 2 Juni 15 53
+Rakhnitz Töchter,
+AElisabeth mit Gabriellen Stubich im 1 535. darnach mir treten Frangs
+von Derberstoffverheyrat 18. NouemSis 1 543.
+2nna mit Deren GOotizen Rumphm 8. Aprillis 15 54.
+Elena mit Herrn Wilhalmen Grafwein Ritter 2. Juni, 15 53.
 Herrn Wilhalmbs mit der
-von Pluemeckh Tchter
-Florentina Junge gestorben
-Amamitt ans Ludwigen Sperrn Jenners
+von Pluemeckh Töchter.
+Florentina Junge gestorben.
+“Amamitt ans Ludwigen Sperrn Jenners.
 Deren
 
- 
+, - -,
 Herrn Georgen mit der
-Schrttin tochter
-Eua mit Herrn Philipn Preiner Freyherin am 4 Februar 1554 Behes
-deonkhinder Sy gestorben am 30 Nouemsris defelsen Jars
-Sophia mit hoeren Jacom Zagkhl Stehen zu Frydawbeheirat 18 aDay
-15572Ratharinaterrn Sernatin von Tauffempach zu Dairhof verhay
-rat am 21 GDay 155 9 
- Herrn Rueprechts mit der 
+Schröttin tochter.
+Eua mit Herrn Philipn Preiner Freyherin am 4. Februar 1554 Behes
+deonkhinder Sy gestorben am 30. Nouemsris defelsen Jars
+Sophia mit hoeren Jacoßm Zagkhl Stehen zu Frydawbeheirat 18. aDay
+15572Ratharinat)errn Sernatin von Tauffempach zu Dairhof verhay
+rat am 21. GDay 155 9. - . . . . . .“ - - - - - -
+" Herrn Rueprechts mit der . . . . . . . . . .
 Fuegerin tochter
- Dargareth mittlern Mans whalbm Seibern zu Rogendorff oerfen
-Er Lindthoffmaisterin Osterreich 28 Juni 1 557 
+" . (Dargareth mittlern Mans wähalbm Seibern zu Rogendorff oßerfen
+Erß Lindthoffmaisterin Osterreich 28 Juni 1 557. -
 Anna mittleren Andreentieren von Puechaim zu Haldenreichstain Ers
-druchsa in Osterreich 31 Octobris 1 5 57 
-Herrn Georg Sigmundt mit 
-der von Petschach tochter 
-Benigna Wilhalmen von er verheiratama may 15 59
- E14 
- Dagdalena 
+druchsaß in Osterreich 31. Octobris 1 5 57. - -
+Herrn Georg Sigmundt mit -
+der von Petschach tochter . . . . . . . . .
+Benigna Wilhalmen von er: verheiratama may 15 59.
+- - - - - - - - - - E14, - - . . . . . . " - … -
+- (Dagdalena. .
 Herrn Caspars mit der
- Qainstorffrin tochter 
-Vrsula 
-SNDein Sigmundts Freyherrns zu Herbertaine 
- thuns vnd leens 
- 
-Oein Vater Herr Leonhart hat derzeyt das Schlo Wippach an
-Carst von Rayser Fridrichen in gehabt sein Gemahl Bararaterin Miclase
-Burggrauen zu Lnentz vnd zum Luegtochter haben mich geborn Im
-148 6jar an abent Bartholomei 
-In meiner was ich so kranckh das man an menschlicher hilff ver
-zweifelte vnd zu Gott vnd seinen heiligen sich getrstet Darum mich zu wal
+- (Qainstorffrin tochter. . . . . . "
+"Vrsula. . " - . . .“ -
+SNDein Sigmundts Freyherrns zu Herbertaine. . .
+- - thuns vnd leßens. - - - -
+- * - - - - - - - -
+(Oein Vater Herr Leonhart hat derzeyt das Schloß Wippach an
+Carst von Rayser Fridrichen in gehabt, sein Gemahl Barßaraterin Miclase
+Burggrauen zu Lnentz/ vnd zum Luegtochter haben mich geborn. Im
+148 6.jar/ an abent Bartholomei. - - - - - - -
+In meiner ' was ich so kranckh, das man an menschlicher hilff ver-
+zweifelte vnd zu Gott vnd seinen heiligen sich getröstet. Darum mich zu wal-
 fartnverhaiffengen Loreth Sder Racamad zuvner Frawen dahin mich mein
-Bruder Herr Hansau Laran in Jsterreich ver KOoergen Anconavnd
-furter zu Pherdt gebracht 
-
+Bruder Herr Hansauß Laran in Jsterreich vßer KOoergen Anconavnd
+furter zu Pherdt gebracht. - -
+---
 absolcher Kays bin ich das ist wach und gelassen werde
- Der nach zu terrn Wilhalmen Welzer Thums Brobst zu des
-mutteraint Herbertainerin was vmSlernung vnd sucht willengelaffen wor
-denvngeuerlichen Im 1 49 53ar 
-Abergehn Wien Im 1497 Jarnaufdie Schnell da im 1 302 JarBac
-calaureus 2Artium des sich mich aber erfreytt D
-wiegerewe Daister vnd vnterweiserich da gehabtGottges denen allen
-die ewigefreid zu lon Amen allein
- Elte
+. - Der nach zu terrn Wilhalmen "Welzer Thums Brobst zu ' des
+mutteraint Herbertainerin was vmSlernung vnd sucht willengelaffen wor-
+den/vngeuerlichen Im 1 49 53ar. - -
+Abergehn Wien. Im 1.497. Jarnaufdie Schnell da im 1 302 Jar/Bac-
+calaureus 2Artium '' des sich “ mich aber erfreytt, D.
+wiegerewe Daister vnd vnterweiserich da gehabt/Gottges denen allen
+die ewigefreid zu lon Amen. - - - - - - - - - - allein
+" " -, Elte
+-
+- -
 
- 
-
- 
+- -
 Meine dinst vnd Reisen nach
-der Schuel
- t 5 6 
-Khayser Oaximilian vermam das die Hungern vber alle vertrag den
-Hansengraffenin zipps des Rnigs Wladislai Zutungermainige Tochter
-vnderfunden zugebe mit dem verhofft Rnig zu werden damit dem Ray
-fer vnd seinen erben den Zugang def Rnigreichs abzufrickmNimpe
-den Rrig widert Hungern an Bin in der von Steyr rstigung mitgezogen
-Herzog Wilhalm von Gulich was Obrister Velt hauptman
-1 5 b 8
-Als die Venediger denn Rayser Dayimilian sein khriegsmolckh das er in
-taliam schickte der meinung nach Rhon vmb die Kaiserliche Cronzuzie
-en zuruckgentiget mit dem gieng der krieg an vndals der Kayser etlichs
+der Schuel.
+- t 5 ö 6. “
+Khayser (Oaximilian vermam das die Hungern vber alle vertrag den
+Hansengraffenin zipps des Rünigs Wladislai Zutungermainige Tochter
+vnderfunden zugebe, mit dem verhofft Rünig zu werden, damit dem Ray-
+fer vnd seinen erben den Zugang def Rünigreichs abzufrickm/Nimpe
+den Rrig widert Hungern an. Bin in der von Steyr rüstigung mitgezogen-
+Herzog Wilhalm von Gulich was Obrister Velt hauptman.
+1 5 b 8.
+Als die Venediger denn Rayser (Dayimilian sein khriegsmolckh das er in
+taliam schickte der meinung nach Rhon vmb die Kaiserliche Cronzuzie-
+en zuruckgenötiget, mit dem gieng der krieg an vndals der Kayser etlichs
 khriegssuolckmitherzen Stoten Trautson auf dem Codober verordnet das
-fels die Venediger vberdrung Baltdarauffim Day Cramafi GrtzTrieft
-vnd Ditterburg famptallem das der ZKayserin Friaul am Carf vnd Jiker
-reich hette eingenomen danwart an sechsten Junjain anstant gemacht
-in 3 
-Nach dem Deines Vatern Schlos NOrnfels in Isterreich mein Brnes
-iDerzt Hans von Vatters wegen in gehabt vndanch gedrungen wand
-stch zu ergeben mit solcher Condicion das allein jm leids erkendaffels
-bleiben soll darumb schickt mich mein Vaterer gehn Venedig deshalbn zuhan
-dnaer weil der Kayser vnd Rnig Ludwig in Frankreich sich wider dia
+fels die Venediger vberdrung, Baltdarauffim Day Cramafi Görtz/Trieft
+vnd (Ditterburg famptallem das der ZKayserin Friaul am Carf vnd Jiker-
+reich hette eingenomen, danwart an sechsten Junjain anstant gemacht.
+in § Ö 3. - -
+Nach dem Deines Vatern Schlos (NOärnfels in Isterreich mein Brnes
+iDerzt Hans von ' Vatters wegen in gehabt, vndanch gedrungen wand
+stch zu ergeben mit solcher Condicion, das allein jm ' leids erkendaffels
+bleiben soll darumb schickt mich mein Vaterer gehn Venedig deshalbn zuhan-
+dn/aßer weil der Kayser vnd Rünig Ludwig in Frankreich sich wider dia
 Venediger verpunden khunte ich michs geschaffen mir war der beschad die
-Nerschaffthette so viel als vorje zuthun ich mochtauffa in andermalkhum
-derzeit aber als ich zu Venedig was verprain der Arsenal am 14 
-Der 2Knig von Franckreich schlug die Venediger zu Caranagio in Ag
-danclt am 18tag Oay so hart dass sich des Ertrichs nahent garverwe
-gen hetten tratten mit allain ab Sofy des Jars daruor dem Rayser age
-rungen sondervatvilgromechtiger SterSchlo vnd gepier verlassen
-Ditterburg benahlf meinem Bruder mitzustellung der schlielden 2Kay
-fer zu berantworten auch im MDayd 
-7 Die rdesterreichischen Landestickten ainan eheliche Rstigung die
-2Kayser in Friaul darunderich auch mit fisen Phrtengedient hab 
-Erich von Braunschweig was Obrister Veldthauptmau
-Wir feinfurWeidngeruckt am 27 Juli vnd dann wider zu ruckh Rosatz
-ein Closter gewunnen am dreifigisten ult 
- vor Cibidat daffelbbeschaffen vnd vnunglich gefurmt am 2 Au
-Tulmeingewnnten wir an dritten tag SeptembrisJch Finanfdenho
-beim Perg so entgegenligt auf die Scarewerordent wie offgeschicht als vn
-Ehu indigerwana in Parver mich khomen wre hette mich reitenden mit
-steine zu seinen willen der hhehalen bringen mug ist vnach Sarktaupt
-leut schult Gott hat mich Behuet Nach
+Nerschaffthette so viel als vorje zuthun, ich mochtauffa in andermalkhum
+derzeit aber als ich zu Venedig, was verprain der Arsenal am 14. - -
+Der 2Künig von Franckreich schlug die Venediger zu Caranagio in Ag-
+danclt am 18.tag (Oay so hart, dass sich des Ertrichs nahent garverwe-
+gen hetten, tratten mit allain ab Sofy des Jars daruor dem Rayser aßge-
+örungen, sondervatvilgroßmechtiger Ster/Schloß vnd gepier verlassen,
+Ditterburg benahléf meinem Bruder mitzustellung der schließlden 2Kay-
+fer zu überantworten auch im MDayd. - - -
+7 Die rdesterreichischen Landestickten ainan eheliche Rüstigung die
+2Kayser in Friaul, darunderich auch mit fisen Phärtengedient hab, ' -
+Erich von Braunschweig was Obrister Veldthauptmau.
+Wir feinfur'Weidngeruckt am 27. Juli, vnd dann wider zu ruckh Rosatz
+ein Closter gewunnen am dreifigisten ult. -
+“ vor Cibidat daffelbbeschaffen vnd vnunglich gefurmt am 2. Au-
+Tulmeingewnnten wir an dritten tag Septembris/Jch Finanfdenho-
+beim Perg so entgegenligt auf die Scarewerordent, wie offgeschicht als vn-
+Ehu indigerwana in Parvßer mich khomen wäre, hette mich reitenden mit
+steine zu seinen willen der höhehalßen bringen mugé istö vnach Sarktaupt-
+leut schult Gott hat mich Behuet. - - - Nach
 
-Macbende dieses dienfs bin ich gern Darmfelsgezogen meinem Bueder
-zu entsetzen der lang kranckh was damit er den lufftverkerte der 30che gehn
-Crain 
-Der iXerzog zoche fr Neuhau vmnd Raspurg gewann die Baide im Se
-ptembibeyerberung Rajpurg Bin ich gewet vndam zuezug den Veffen
-Taerharlandt Windisch Lanisch genannter bert
-Ich bin in des Rhaysers dienst mit acht geriffen Phrden angenommen
-worden am vierdtntagDctotis 
-Dichael GOarkhes degrauifis3oche zwischen Raspurg vnnd QDarnfels 
-durch vnd ver den Butzkhaname ob Sibentausenttbauptviech den hab ich
-erlegt will erschlagenvnd gefangen das viecherhalten am Sechswndzwainzi
-gisten Octobtis 
-Die Venedigerruckten bald wider fr Ralpurg gewonnen datierten
-Wernhardin von Raunach am fnfftentag Mouembis mit mir schmecken wie
-etliche gesagt 
-Am sechsten defelen Donatsruckhtensy fr Ornfelsbelegerten mich
-hab in warhait verdey gefunderknecht im Dau mit gehat dann ich die
+Macbende dieses dienfs bin ich gern (Darmfelsgezogen, meinem Bueder
+zu entsetzen der lang kranckh was damit er den lufftverkerte der 30che gehn,
+Crain. -
+Der iXerzog zoche für Neuhauß vmnd Raspurg gewann die Baide im Se-
+ptembibeyeröberung Rajpurg Bin ich geweßt vndam zuezug den Veffen
+Taßerharlandt Windisch Lanisch genannter öbert.
+Ich bin in des Rhaysers dienst mit acht geriffen Phärden angenommen
+worden, am vierdtntag-Dctoßtis. -
+Dichael GOarkhes degrauifis3oche zwischen Raspurg vnnd QDarnfels -
+durch vnd vßer den Butzkha/name ob Sibentausenttbauptviech den hab ich
+erlegt, will erschlagen/vnd gefangen das viecherhalten am Sechswndzwainzi
+gisten Octobtis. - - -
+"Die Venedigerruckten bald wider für Ralpurg gewonnen datierten
+Wernhardin von Raunach am fünfftentag Mouembis mit mir schmecken wie
+etliche gesagt. - -
+Am sechsten defelßen (Donatsruckhtensy für Oärnfels/belegerten mich
+hab in warhait vßerdey gefunderknecht im Dauß mit gehaßt, dann ich die
 neererin mit den gefangnen zu meinen freunden vnd nachparn geschickthetter
-Dein Brueder hat die vnderthonendernaffen gehaltndarumbenich an jren
-trewen mit gezweiffelt Die Weinde muten dochvngerhoner sachen abzie
-hen Diser AnsuloTeruisan was OStifter der Venediger baldt kam ain zei
-tung in Crait die Venediger hetten mich belegerrvmindich hett die geschla
-F warm Baide war aber schlagen gieng votalso komptofftainemainvnuer
-iente Eh auch schmach als die von mir abzohn gewunnenf den Taber den
-fy noch haben Dzagutsch genandt
-Die von Steyr schickhten dem Khayfer widerum bzn Rovnnd Fue
-GtzTriestDitterburg vnd die namhafften Fleckhen den Winter zu erhal
-ren Derr Georg mein beneder was deren Hauptmann der veroident mich als
-Bekanendai weil sonst in jeglicher dahin zu ziehen sich verwiderte mit zwlff
-Phrdtnvnd zwemvnddreissig fueknechten gehn Ditterburg
- I 5 1 O 
-DAls Valdt der von Steyrdienstvolckh abzogen fein die Venedigischen fr
-Ditterburg geruckht der verwalter Andre Blafitz 2Khfder schrib mirJch
-fle zu dem Nerzogenvnd solches auch wie Schlovnd Statt versehen w
-renamzaigen weil ich aber gewift das der verwalter Bey dedienst vnd Statt
-volckverhafft wasderhalb wenigerostzuerhalten auch mein Beneder Der
-iDaumszti Ornfels wasBin ich selbs hinab vndannabent von der belegerg
-einkommen die Crabatn wollten sich mit belegern laffen die ich dann ocht vnd
-also Schlovnd Statt Gottlob erhalten habimi Hornung
-iHerzog Erich kam gleichwollindermeinung vns zu rettchintz am Schill
-herraber oder Schilherperghette aber noch kainvolckhey fich zudem kam
-ich nach der belegerung Ehte vnnd setzte mich zum abentmal an sein seiten
-legt mir fr vnd spricht du hast das wolverdient ga mir dazumalvrkhundt
-meinercrewen dienfamvierdtn Darty
-Auff den Summerschickten die von Steyraermals mit meinem 
- GP2
+(Dein Brueder hat die vnderthonendernaffen gehaltn/darumbenich an jren
+trewen mit gezweiffelt / Die Weinde mußten dochvngerhoner sachen abzie-
+hen (Diser Ansulo"Teruisan was OStifter der Venediger baldt kam ain zei-
+tung in Crait, die Venediger hetten mich belegerr/vmindich hett die geschla-
+F" warm Baide war aber schlagen gieng votalso komptofftainemainvnuer-
+iente Eh: auch schmach, als die von mir abzohn gewunnenf den Taber den
+fy noch haben Dzagutsch genandt.
+Die von Steyr schickhten dem Khayfer widerum bzn Roßvnnd Fueß,
+Götz/Triest/Ditterburg vnd die namhafften Fleckhen den Winter zu erhal-
+ren/ Derr Georg mein beneder was deren Hauptmann der veroident mich als
+Bekanendai (weil sonst in jeglicher dahin zu ziehen sich verwiderte) mit zwölff
+Phärdtnvnd zwemvnddreissig fueßknechten gehn (Ditterburg
+– - I 5 1 O. -
+DAls Valdt der von Steyrdienstvolckh abzogen, fein die Venedigischen für
+(Ditterburg geruckht, der verwalter Andre Blafitz 2Khöföder schrib mir/Jch
+föle zu dem Nerzogen/vnd solches auch wie Schloßvnd Statt versehen wä-
+ren/amzaigen, weil ich aber gewift, das der verwalter Bey dedienst vnd Statt
+volckverhafft was/derhalb wenigerostzuerhalten, auch mein Beneder Der
+iDaumszti (Oärnfels was/Bin ich selbs hinab / vndannabent von der belegerüg
+einkommen die Crabatn wollten sich mit belegern laffen, die ich dann ocht vnd
+also Schloßvnd Statt Gottlob erhalten habimi Hornung.
+iHerzog Erich kam gleichwollindermeinung vns zu rettchintz am Schill-
+herraber oder Schilherperghette aber noch kainvolckhßey fich, zudem kam
+ich nach der belegerung Ehte vnnd setzte mich zum abentmal an sein seiten,
+legt mir für vnd spricht du hast das wolverdient gaß mir dazumalvrkhundt
+meinercrewen dienfamvierdtn (Darty.
+Auff den Summerschickten die von Steyraßermals mit meinem *:
+- - - GP2-
 
-Herrn Georgen Irrfungen in Friaul vor Gradisch ward Paul von Rot
-perg der Landeschafft Zalmaifter am vierden Juli als wir ein anschlag her
-ten die Statt abzuremen vnd in der halthielten erschossen das Zalmaister
-ampt ward mir Beuolhen
-1 5 1 4 
+Herrn Georgen Irrüfungen in Friaul vor Gradisch ward Paul von Rot-
+perg der Landeschafft Zalmaifter am vierden Juli, als wir ein anschlag her-
+ten die Statt abzuremen vnd in der halthielten erschossen das Zalmaister-
+ampt ward mir Beuolhen.
+1 5 1 4 -
 Jch bin etlicher meiner gebueder vnind meiner fachen dem 2Khayserlichen
-erlich Zeit nach geraitdafi aufain Zeit zu Paumgartnperg den Kloster
-im Lannd ob der Eis von der ZKhay Dt mein abschied genomen So spricht
-der Rhayserich sollte etliche itag waren seiner Ot Rche werden gen Grge
-so werde ich gesellschafft haben das von solchem Herzen mir Jungen ganz
-frembdt aber groffefreudwardbin hinzrgen Wien belibenvni in das Weldt
-auffainmcgeneschieden dafelsten mit gar genedigitn wollten Senolhen wie
-der in die Statt zu ziehen dann Hofnaitervnd Lantzler Beuelhen die Rathe
-denselben tagau der Statt zuuertigen Darzueda sich die verordnte Ra
-ehe gewilichen au der Statt desselben tags mit vilen gerne digiften wollten
-bringenfll Oit denen soll ich gehn Grtz raysen meinem Eltisten Brueder
-Der in Georgin Beuelchen zu Rovmnd Fue aufzunemen dann wir witen
-welche seiner Dt gern dientnwollte den Belegertnin Daran zu hilff kommen 
-die fich so wolgehalten hetten vndoain Lanndt der halben versetzt solt wer
-den Binalso denselbentag mit iMeran Wilhalmen von Rogendoffwnind MT
-Bobst von Beltzarnau der Stattvnind nach Grtz verzuckt Dafelbsten
-meine Beuelchverzicht
-2Khayserkham bald hernach gen Grtz vnndruckt zu dem Kirchl Velde
-kbirchgemaitainmeilvnder Grzruet zumittag inainemellenden Phaffen
-heulGDaisterin aus Renner der ansehen lichisten Secretarien ainer handle
-au Beuelch mit meinem Baucder die rai zuthuenXDnd fragt was er fr ain
-Donatliche Besoldung auffinperson begerte die aber mein Bruedervber
-offs ansprechen mit anders dann was die Ray Dr Jmebestimpte benefien
-wolt vber das fragt Renner ob er mit fnffzig Gulden zu friden sein wollt
+'erlich Zeit nach geraißt/dafi aufain. Zeit zu Paumgartnperg den Kloster
+im Lannd ob der Eis von der ZKhay. Dt mein abschied genomen. So spricht
+der Rhayserich sollte etliche itag waren seiner Ot: Räche werden gen Gräge
+so werde ich gesellschafft haben, das von solchem Herzen mir Jungen ganz
+frembdt aber groffefreudward/bin hinzrgen Wien beliben/vni in das Weldt
+auffainmcgenßeschieden dafelösten mit gar genedigitn wollten Senolhen, wie
+der in die Statt zu ziehen, dann Hofnaitervnd Lantzler Beuelhen, die Rathe
+denselben tagauß der Statt zuuertigen Darzueda sich die verordnte Ra-
+ehe gewißlichen auß der Statt desselben tags mit vilen gerne digiften wollten
+bringenföll (Oit denen soll ich gehn Grätz raysen, meinem Eltisten Brueder
+Der in Georgin Beuelchen zu Roßvmnd Fueß aufzunemen / dann wir wißten
+welche seiner (Dt gern dientn/wollte den Belegertnin (Daran zu hilff kommen -
+die fich so wolgehalten hetten vndoßain Lanndt der halben versetzt solt wer-
+den Binalso denselbentag mit iMeran Wilhalmen von Rogendoffwnind MT.
+Bobst von Beltzarnauß der Stattvnind nach Grätz verzuckt. Dafelbsten
+meine Beuelchverzicht,
+2Khayserkham bald hernach gen Grätz vnndruckt zu dem Kirchl Velde-
+kbirchgemaitainmeilvnder Gräzruet zumittag inainemellenden Phaffen
+heußl/GDaisterin aus Renner der ansehen lichisten Secretarien ainer handle
+auß Beuelch mit meinem Baucder die raiß zuthuen/XDnd fragt, was er für ain
+(Donatliche Besoldung auffinperson begerte, die aber mein Bruedervber
+offs ansprechen mit anders dann was die Ray (Dr. Jmebestimpte benefien
+wolt/ vber das fragt Renner ob er mit fünffzig Gulden zu friden sein wollt,
 mein Bruederlage gar wolySo wendet sich der Renner gegen mir vnd speicher
-die Kay GLOt Begern das ich auch mit ziehen solle des ichon alle weiterered
-bewilligte auf solches spricht Renner mit den Leuten war zuhandln
+die Kay. GLOt: Begern das ich auch mit ziehen solle des ichon alle weiterered
+bewilligte auf solches spricht Renner mit den Leuten war zuhandln.
 Der Rhayserruckte auch mit hinzgen Laybach wirfortinfriaulvi speist
-ren Daran Dazumalfiiert ich denn Streitfanen den ich noch hab there
-Dans von Aurperghette den obersten Benelch die veinde waren abgewiche
-lieffen vnsfveifen Der halben die so aus Krndenvnd Crain zu solcher spei
-fing Berueff kamen zohen darnachfampir dem Oberstmabauch mein Bene
-derdie Steirerische Ohert wardn mir wnder geben vnd Slib damit zu Gra
-dich was Noffgefindt gewef lag zu Gtz
- Die Weindt legeren fich an den Tham daran man ein vitaus Daran raisen
-mues damit warndiedienstleut gleich als ob die weindran der Stadtlagen
-behaurer Sokhumpt Graf Niclas von Salen der hochbermbt Ritterlich
-iHeld als oberster Veldthauptman der man den Zug gegen den Weindtn
+ren (Daran / Dazumalfiiert ich denn Streitfanen, den ich noch hab there
+Dans von Aurperghette den obersten Benelch, die veinde waren abgewiche
+lieffen vnsfveifen. Der halben die so aus Kärndenvnd Crain zu solcher spei-
+fing Berueff kamen zohen darnachfampir dem Oberstmab/auch mein Bene-
+der/die Steirerische Ohert wardn mir wnder geben, vnd Slib damit zu Gra-
+dich was Noffgefindt gewef lag zu Götz.
+- Die Weindt legeren fich an den Tham daran man ein vitaus Daran raisen
+mues, damit warndiedienstleut gleich als ob die weindran der Stadtlagen
+behaurer / Sokhumpt Graf Niclas von Salen der hochberümbt Ritterlich
+iHeld als oberster Veldthauptman, der man den Zug gegen den Weindtn/
 dazumal haben wier die geschlagen jhren obersten zwan Dicturio gefangens
-am 12 taz Juli 
-Machfolchen Sig Endet sich mein vnd meiner vndergebnen Reittermo
-nat nach der Bestallung wir wrn gern neben dem Ehrlichen Ritterlichen
-Grafen im dicstlenger FelibenJamurvmbploffeluffung gedient w
+am 12. taz Juli. -
+Machfolchen Sig Endet sich mein vnd meiner vndergebnen Reittermo-
+nat nach der Bestallung, wir wärn gern neben dem Ehrlichen Ritterlichen
+Grafen im dicstlenger Feliben/Jamurvmbploffeluffung gedient w“
 
-khain bescheide der halbn was Sogas der Graffwns den paseieff mit guter
-ernsehen emphangsvnderpietens zu Gladisch am
-zten Julij
-Sobald ich anhainskhamwardmira in Kayserlicher Senech mich ange
-ficht defelben antoffzuerhebenDatum Gmundnam 13 Augusti
+khain bescheide der halbn was. Sogas der Graffwns den paßseieff mit guter
+“ernsehen /emphangsvnderpietens zu Gladisch am
+zten Julij.
+Sobald ich anhainskham/wardmira in Kayserlicher Senech mich ange-
+ficht defelben antoffzuerheben/Datum Gmundnam 13. Augusti.
 Der Oberste Graff Niclas kam auch fambriderntanen Apflerar der
-schtzt vmd Dans Wolff von Emershouenderfueknechttoaubelentgen
-Infpzug daselbst der 2Kayservnsdzey mit ritterlicher wirde zierlichen begab
-tenesenvillandern in Veysein Dargraff Fridlichen zu Brandenburg vmnd
-viel an der GraffnRitter vnd Edl am 26 Sebtembis 
-Nach solche hat Vlrich Phinzingau Beuelch mit mir gehandle der Ray
-Ot am Doffzudienen mit Beger was ich fr ein Befldung zu haben ver
-meintanzuzeigen so ich keine Bestimen woltfchlueg mirdeyhundertgulden
-fr die ich annam mich vertrstentfo ich woldiente sein Oe wurde mich
-mit gnaden bedecken der Bestelbrieff ist zu Inpugamandern Octobtisge
-uertigt die Ratspflicht mir am dreizehenhem Decembeisfurgehaltnvnd da
-zumalintooffat gesetzt r
- 1 5 1 5
-Rhayferkhan Wiemvnnd 2Rnig Vlala fame feinem gekrntem
-Sun Ludwigen Said Rnigen zu Hungernvn Behaim auch 2Knig Sig
-mundt zu Poln sein Brueder da beschlossen Sy die vnndjhter
-ZRhinderheytat dazumal bin ich dem Erzbischoue zu Brement Merten Chri
-foffen geborenen iOertzogen von Braunschweig zugeordnt Beyzuwonen
+schützt vmd Dans Wolff von Emershouenderfueßknechttoaubelentgen
+Infpzug daselbst der 2Kayservnsdzey mit ritterlicher wirde zierlichen begab-
+te/nesenvillandern in Veysein Dargraff Fridlichen zu Brandenburg, vmnd
+viel an der Graffn/Ritter vnd Edl am 26. Sebtembis. -
+Nach solche hat Vlrich Phinzing/auß Beuelch mit mir gehandle der Ray.
+(Ot: am Doffzudienen mit Beger, was ich für ein Beföldung zu haben, ver-
+meint/anzuzeigen, so ich keine Bestimen wolt/fchlueg mirdeyhundertgulden
+für die ich annam mich vertröstentfo ich woldiente sein (Oe: wurde mich
+mit gnaden bedecken der Bestelbrieff ist zu Inpugamandern Octobtisge-
+uertigt die Ratspflicht mir am dreizehenhem Decembeisfurgehaltn/vnd da-
+zumalintooffat gesetzt. r
+- 1 - 5 1 - 5.
+Rhayferkhan#" Wiemvnnd 2Rünig Vlaßla famße feinem gekröntem
+Sun Ludwigen Said Rünigen zu Hungernvn Behaim auch 2Künig Sig-
+mundt zu Poln sein Brueder, da beschlossen Sy die “ vnndjhter
+ZRhinderheytat dazumal bin ich dem Erzbischoue zu Brement Merten Chri-
+foffen geborenen iOertzogen von Braunschweig zugeordnt Beyzuwonen.
 Vondan Bin ich vmdter Niclas Ziegler Oberster HoffSecretari zu
-dem Erzbischoffe Lienhartin von Salzburg Deren Datheffen Cardinal
-von Gurgk Coadiutotei halben geschickht
-Bindangen Inspeugkhomen von dafienneenteren Delchion Phin
-ging Bobst zu Nrnberg am vierzehenden Octobeis geschickt Abermals
-ich allein datum 28 Octobazis mit Salzburg zuhandln genertigt
-Der Rhayser was von Inspengveritten lie seintooffnaisterCantzler
-vnd Rathe zu Inpug die schickten Grafft Doyrm von GOansfeldt vnd mich
-Das Regiment vnd Land schafft schicktentDerent Dainrichen von Khnozin
-gen Lannd Comentheur an der ErsthvndtMerten Carl Trapm zu dem Kay
-fer den fundtn wir zu Vlm wir vertritten den Neundten tag Mouemtis
-So ist mir auch einfondere verzeichnus geben Da sich allein 2Khay Dt
-anzeigen muete Daneben der zwitrachthalben zwischen des Deren Stande
-vnnd Landeshauptman ob der Enns 
-Der Rhayserschickt mich von Olm zu dem Bischoff Eyfet am 21 tag
-11 
- 
+dem Erzbischoffe Lienhartin von Salzburg. Deren Datheffen Cardinal
+von Gurgk Coadiutotei halben geschickht.
+Bindangen Inspeugkhomen von dafienneßenteren Delchion Phin-
+ging Bobst zu Nürnberg am vierzehenden Octobeis geschickt. Abermals
+ich allein datum 28 Octobazis mit Salzburg zuhandln genertigt.
+Der Rhayser was von Inspengveritten, ließ seintooffnaister/Cantzler
+vnd Rathe zu Inpug die schickten Grafft Doyrm von GOansfeldt vnd mich,
+Das Regiment vnd Land schafft schicktentDerent Dainrichen von Khnozin-
+gen Lannd Comentheur an der Ersthvndt-Merten Carl Trapm zu dem Kay-
+fer den fundtn wir zu Vlm / wir vertritten den Neundten tag Mouemßtis.
+So ist mir auch einfondere verzeichnus geben. Da sich allein 2Khay. (Dt.
+anzeigen mueßte. Daneben der zwitrachthalben zwischen des Deren Stande
+vnnd Landeshauptman ob der Enns. -
+Der Rhayserschickt mich von Olm zu dem Bischoff# Eyfet am 21. tag
+11, -
+-- --
 Touembais von dankann ich zu dem Rhaysergen Fie
- Von Fieff schickht mich der 2Kayser zuterzog Ludwigenvfi der Landt
-schafft in Bayrng Landtshuet fampici Meren Jheronimuffen Stauffer Oer
-zog Wilhalms von Bayrnt Hoffmaister der hernach als die gebrederverai
-nigt enthaupt ist wordenJch vertit von Fiefin den achtentag Decembis
-Von Lamdtshnet bin ich gen Augspurg zum Khayser khomen
-1 1 51 6
+. Von Fieff schickht mich der 2Kayser zuterzog Ludwigenvfi der Landt
+schafft in Bayrngé Landtshuet fampici Meren Jheronimuffen Stauffer Oer-
+zog Wilhalms von Bayrnt Hoffmaister der hernach als die gebrüederverai-
+nigt enthaupt ist worden/Jch vertit von Fiefin den achtentag Decembis.
+Von Lamdtshnet bin ich gen Augspurg zum Khayser khomen.
+1) 1 51 6.
 
- 1 5 1 6 
-Von Augspurg zu den beyen Churfrstin GDnzSawen vnd Branden
-Burg auch baden Frstent erzogiDainrichen vmnd Albrechtmgesiedern zu
-OechelburgVnd zu 2Khnig Cristiern in Denmarckhtvertiten von Aug
-spurg den aimunddteifigistentag Januarij Dem Rhinig hab ich neben des
-Prinzen in iOispanien Erzherzogen Carlingesandten Oonso de Bulevmund
-Daister Jampenning von Ambfertham3n Neukheping impfalter gesagt
- 
+- - - - 1 5 " 1 6. -
+"Von Augspurg zu den beyen Churfürstin GDänz/Sawen vnd Branden-
+Burg auch baden. Fürstent) erzogiDainrichen vmnd Albrechtmgesiedern zu
+(Oechelburg/Vnd zu 2Khünig Cristiern in Denmarckht/vertiten von Aug-
+spurg den aimunddteifigistentag Januarij/ Dem Rhinig hab ich neben des
+Prinzen in iOispanien Erzherzogen Carlingesandten (Oonso de Bulevmund
+Daister Jampenning von Ambfertham/3n Neukheping impfalter gesagt,
+- -
 das Ervingeschickt vnredlich vndvnerlich handlte dem Khayservmdfeiner
-freiindt schafftvnleidlich gleichwol mit folgen als zu bedencken ist 
-Als ich nichts erwerben mchtfagt ich der Rhayser vnnd der Prinz wur
-den wns mit glauben das der ZRhinigaingemaines Wei hher achtet weder
-Gott feinphliche Ehevfi die hchst freunde schafft in der Critchait darumen
-Begertich die antwortingschiff vndter des Rhnigs Sigl das war mir
-abgeschlagen doch vnder des Canzler handzaichen schlechtsfhiffleinzuege
-stelt in abfertigung wardmira in Phrdt verert mit Satelvnd Zn an dem
-Geraitward verzaichnt ein Weispild draund an ainer Pe dar zwischen
-lagain herz
+freiindt schafftvnleidlich gleichwol mit folgen als zu bedencken ist. . -
+Als ich nichts erwerben möcht/fagt ich der Rhayser vnnd der Prinz wur-
+den wns mit glauben, das der ZRhinigaingemaines Weiß höher achtet weder
+Gott feinphliche Ehevfi die höchst freunde schafft in der Critchait darumen
+Begertich, die antwortingschiff vndter des Rhünigs Sigl, das war mir
+abgeschlagen, doch vnder des Canzler handzaichen schlechtsfähiffleinzuege-
+stelt in abfertigung wardmira in Phärdt verert mit Satelvnd Zän an dem
+Geraitward verzaichnt ein Weißspild draund an ainer Peß dar zwischen
+lagain herz.
 Aus Denmarckht hab ich den Rhayser wider eritten zu Tanhaim durch
-das Tentschland vnangerittndesfich vil verwundert habenvnd bin mit ge
-rait hinztgen Cofnig
+das Tentschland vnangerittn/desfich vil verwundert haben./vnd bin mit ge-
+raißt hinztgen Cofnig.
 Von Costnitz schickt der Rhayser iMeren Wolffen von Rhlingenberg
-LandtComenchenrin Elsaet deren Wilhalmen von Reihnpachvnnd mich
-zu den fnffetern der Aydgns schafft ZrchWySchweizVnderwaldnt
-GDittewaldngen Raschach den Neunwind zwainzigistentag Juni Von Ka
-fchach khamen wir wider zu dem ZKhayer zu Lynda
+LandtComenchenrin Elsaeßt deren Wilhalmen von Reihnpach/vnnd mich
+zu den fünfföetern der Aydgns schafft Zürch/Wy/Schweiz/Vnderwaldn't
+GDittewaldn/gen Raschach den Neunwind zwainzigistentag Juni. Von Ka-
+fchach khamen wir wider zu dem ZKhayer zu Lynda.
 Zu Lynda vertigt der 2Khayser die Instruction anderen taugen von
 Lanndaberg Bischoue zu Costnitzt er in Wilhalm von Reihnpachvnd mich
-auch Damen Agkher Secretarien zugemainer Aydgno schafft gen F
-dritten JuliBinalso mit dem von Reihempach nach CostnitzWmund von dann
-mit dem Bischoff nach Zrchverzuckt
-Nachverdichter handlungslib Reihnpach zu Costnitz Jchritzm2Khay
-Ot gen Flieffen von dan muft ich zu fundan wider mit Reyhnpachigen
-Zrchauff den 22 tagBinvertittn 20 Juli
+auch Damen Agkher Secretarien zugemainer Aydgno schafft gen F"
+dritten Juli/Binalso mit dem von Reihempach nach Costnitz/Wmund von dann
+mit dem Bischoff nach Zürchverzuckt
+Nachverdichter handlungslib Reihnpach zu Costnitz / Jchritzm2Khay:
+(Ot: gen Flieffen, von dan muft ich zu fundan wider mit Reyhnpachigen
+Zürchauff den 22 tag/Binvertittn 20. Juli.
 Der Khayser was mit dem Rhinig Sigmunden in Polnain zeitlang in
-vnwillen Darum 8 der Rhayser fich mit den Oefouiterinfreunde schafft
-eingelasfenAls aber solchervnwillen infreunde schafft zu Wien verkert ward
-cbickt mich der Rhayser zu dem 2Khnigheyratshalben mit Bonatzberzog
-ansen Galeazn zu Daylandttochter Onndfrter in die UDofquafridens
-halben zwischen des Rhinigs vnd Grofrstin zuhandeln Bin zutagenaw
-abgeuertigt wordenam vierzehenden tag Decembtis
-Von Augspurg mit Gregorien Demeteri Sagrewski des COoscouiterge
+vnwillen. Darum 8 der Rhayser fich mit den (Oefouiterinfreunde schafft
+eingelasfen/Als aber solchervnwillen infreunde schafft zu Wien verkert ward,
+cbickt mich der Rhayser zu dem 2Khünigheyratshalben mit Bonatzberzog
+ansen Galeazn zu (Daylandttochter Onndfürter in die (UDofquafridens
+halben zwischen des Rhinigs vnd Großfürstin zuhandeln. Bin zutagenaw
+abgeuertigt worden./am vierzehenden tag Decembtis.
+Von Augspurg mit Gregorien Demeteri Sagrewski des COoscouiterge-
 antin Crisostomo Columno der Derzogin von Deylandt geschickhen Wind
-amfen vom Turm der mir als augeer zuegeordentPfi Georgin Rmen
-schil als wegweiser am 27tag vertritten
- 
+amfen vom Turm der mir als außgeßer zuegeordent/Pfi Georgin Rämen-
+schißl als wegweiser am 27tag vertritten.
+" -
 
-
-
- 
-
-unden in Polln 
-fertigt woden
+-
+-
+- - - - -
+-
+unden in Polln -
+fertigt woden.
 aabge
-7 
-
+7. -
+-
 unig Sigm
-K
+Kß
 u
- 
+- -
 s
 follicher Khladung bin
 5 1
 1
-Grofurtmndie Mo
+Großfurtmündie Mo
 Puddem
-r3 In
-
-
- 
+r,3 In
+-
+-–
+- –-–
 F
 V
-
+---
 S
-
-
- 
-
-
-
-
- 
-
-
- 
+---
+---
+- -
+-
+---
+---
+---
+- -
+-
+-
+- -
 ZFS
-
-RSS
-S 
-
-
-
-
-
- 
- T
- 
- F
-F NASFW ZiAZ 
-SSSS 
-A S 
- 
- 
-SES 
-N
- ASH
-zSN 
-ASw 
-S
-WS
-I dS 
-isR 
-V KS
-
-s 
-a
+----------------
+RSS-
+S -----------
+-
+---
+---
+---
+--
+--- - --- --------
+------------- T-
+- -- ----- - - - --
+-------- -=F
+F NASFW Z-iAZ- - - ------- --------- - -
+S-SSS# ===
+=--A- -S- -
+– ---------- -
+- - - – - - -
+SESº- -#
+-N--
+-- AS---H
+zSN\---- --
+ASw -
+-S\
+-WS/=
+I- d------S§- -- -
+isR -- - --
+--V- -KS-
+--
+#s -
+a)
 T
-
+---
 al
-A 
+A \\
 I
-V
-
- 
-
-WWW IV 
-WS 
-W S 
-SMSSSSF
+V-
+------------
+–--- - -
+-
+WWW -IV-->- -*-- --
+W\\S -----
+W -- -- ----- --S -
+SMSSSSF–
 F
-S
- NF
-N rS
-SSS
-S
-
- 
+-S'-
+- -N-'-F
+N--- r-S
+SSS-
+-S
+---------
+- - _--
 r
 r
 E
 F
-
-
- TA
-
-
-
- 
+,----
+---
+- -TA-
+-
+-
+-
+- - -
 i
 
 
 
- 5 1 s 
-Den Rnigeraiche ich zu der Wildin ihnenden nach Polongkhoda
-bin ich auf der Duma vielmeil am Ey mit groer gener geformt Damgen
-Groneugartn khomen Dein schlittenfoich von Augspurg Stacht den Teu
-tschen Rhauffleuten auffjrbit geben Ich bin anderpoffe in die Dosquage
-rait an dem namhaffen waffer Rhades SyWolga nennen gefmrn Dein
-mitverordenter Peter Orawitistehe ich zu im khomengestoen vier Veit
+. . . . . . - - - - . . . - 5. 1 s - -
+Den Rünigeraiche ich zu der Wildin ihnenden nach Polongkhoda-
+bin ich auf der Duma vielmeil am Eyß mit großer gener geformt. Damgen
+Großneugartn khomen (Dein schlittenfoich von Augspurg Stacht, den Teu-
+tschen Rhauffleuten auffjrbit geben. Ich bin anderpoffe in die Dosquage-
+raißt, an dem namhaffen waffer Rhades Sy"Wolga nennen, gefmrn Dein
+mitverordenter Peter Orawitistehe ich zu im khomengestoßen vier Veit
 Strein an ein Stadtverordenterkranckt dan Fridrich Straffaur kam auch
-mit habs allein verzicht
-In der ha ich nicht verzichte dann der 2Knigin Pollnfhick he
-fein Kriegsvolck fur das Schlo Opoczkha khundt das mit gewinnen Win
-tershalben mitlenger im veldt bleiben Der halben wolle der Grofiirft
+mit habs allein verzicht.
+In der '' haß ich nicht verzichte dann der 2Künigin Pollnfähick he
+fein Kriegsvolck fur das Schloß Opoczkha khundt das mit gewinnen. Win-
+tershalben mitlenger im veldt bleiben. Der halben wolle der Großfiirft,
 obgleich die Littichen Petin auf das Glaidro ich jnen zugeschickt
-bet darkhammenkain anftandrannemenbin einunddreiig
-wochendaselbsten gelegen Dein Rai heraus auf Do
-fiscoWiesina DzohowufhSchmolengkho
-Dobrowna Osagen der Wildgens
-men meine Pherdtfeindurch
+bet darkhammenkain anftandrannemen/bin einunddreißig
+wochendaselbsten gelegen (Dein Raiß heraus auf (Do-
+fisco/Wiesina Dzohowufh/Schmolengkho,
+Dobrowna Osagen der Wildgens-
+men, meine Pherdtfeindurch
 Leifflandt wider zu
+-
+mirkhumen.
 
-mirkhumen
-
- Z 
- 
-
- 
-
- HZ
-
-i S ES
-SEEFH
-
-N H H
- 
-erRath
+------- Z - - - - -
+------- - - - - - - - -
+%-
+- -
+||-----
+-- ----HZ
+-
+i S- -ES
+SE----E-FH-
+--
+N--- --H--- - - ---H--
+----- -
+er-Rath.
 Z
-
+#
 tt
- 
- 
- 
- E
-n Moscouter also geclaidt 
+------- --------
+- --
+- - -
+- -E-------
+n Moscouter also geclaidt. –
 in R
-tschfftvo
+tschäfftvo
 Herbertal
 6
 N
 ia
 mil
 igmundt vo
-S
-T
-w
- SSS
-
+S-
+T-
+w-
+-- -SSS
+§
 n
-
-wwwwwwwwww
+§
+wwwwwwwwww.
 Mar
 S
-
+-
 V
 S
 Khapfer
-NNNY NW
- NN
-NNONN
+NNNY - NW
+------- -- N-N
+-N-NONN
 
 
-1 5 1 8 
+1 5 1 8. -
 Gen Jinpeng bin ich zu dem Rhayser kommenden zwemvndzwanzigisten
-tag DartjDerzeit zoche die Bona durch Osterzeichzujhtm gemahl Rhi
-nig Sigmunden in Poln
+tag (Dartj/Derzeit zoche die Bona durch Osterzeichzujhtm gemahl Rhi-
+nig Sigmunden in Poln.
 Von Inspeug fuerich mit den COoscouitern die mit mir kamen nach der
-Thuenawab gehn WiennVon dann ich aufCotschien nach Ofen zu Knig
-Ludwigen am zwainzigistemtag Aprilisverzuckhr
-Gehn Ofen zu dem Rhnig mit iDeren Weiten Strein vnnd Vlrichen
+Thuenawab gehn Wienn/Von dann ich aufCotschien nach Ofen zu Künig
+Ludwigen am zwainzigistemtag Aprilis/verzuckhr.
+Gehn Ofen zu dem Rhünig mit iDeren Weiten Strein / vnnd Vlrichen
 Bernegger neben den Polnischengesandten alsbaide Rhayser vnd ZRhinig
-zu Polln des Knig zutungern verordente vomunderaintrechtigklichen
-gehandelt Daunenjhrwil wolcemainen Gucrnator wider der Zwayer Derren
-willen setzen In den fichain Prediger Onch Niclasain geborener Schn
-Bergerau Deichfen von Bapst gesandt wunderbarlich gehalten in seiner
-ersten weiung kbndter mit besser gewnscht mgen werden derbeschlu
-aber EinsloSs werdtc Im AprilDayovnd Junio
-Den zu Ofen haen wir vil Instructionen gehabt in gemain an Rhinig
-vnind die Landtschafft Dann aine auffmich vnd Wernegger Alberaine auff
-mich allain mit dem Rhinig zuhandeln Dann aber aine auffmich allain mit
-den Cardinal von Ferrar als Bischoffen zu Erla Danna in Beuelch der
-Landrschafft in Osterreich verschreibung der heyrat halben gegeben zu vot
-dernDesBurgundischen ordens halben neben Erhaltn Salinas vnndander
-vilfachener mithin vmd widerfhzeibnSeind schwr handlun
-Set geweft 
-Die Lanndtschafft in Steyr bemente mich in jhtem nammenainen hoff
-rath am Rhayserlichen iOoffinhalt des Libel des Bewilligt der Rhayserain
-Landrschafft bittmich das anzunemen Dittwoch nach Lucie Jch Beschwr
-te mich das ich mit folrin des Rhaysers dienst Seleien des erklrte mir der
-ZKbayser mit seiner Otbeuelcy den neundrentag Mouembais
-In den selben Feuelch war mir auffgelegt neben des Cardinal von Gurckh
-Rthn den Erzbischoffvnd das Capitel zu Salzburg zuuergleichen als
-auch beschehen Instructionfet 16 Mouembais
-1 5 1 9
+zu Polln des Künig zutungern verordente vomunderaintrechtigklichen
+gehandelt / Daunenjhrwil wolcemainen Gußcrnator wider der Zwayer Derren
+willen setzen. In den fichain Prediger (Oünch Niclasain geborener Schön-
+Bergerauß (Deichfen. von Bapst gesandt wunderbarlich gehalten, in seiner
+ersten weißung kbündter mit besser gewünscht mügen werden derbeschluß
+aber EinsloSs werd/tc. Im April/(Dayo/vnd Junio.
+Den zu Ofen haßen wir vil Instructionen gehabt in gemain an Rhinig
+vnind die Landtschafft. Dann aine auffmich vnd Wernegger Alberaine auff
+mich allain mit dem Rhinig zuhandeln. Dann aber aine auffmich allain mit
+den Cardinal von Ferrar als Bischoffen zu Erla / Danna in Beuelch der
+Landrschafft in Osterreich verschreibung der heyrat halben gegeben zu vot-
+dern/DesBurgundischen ordens halben neben Erhaltn Salinas vnndander
+vilfachener mithin vmd widerfähzeibn/Seind schwär handlun-
+Set geweft, - -
+Die Lanndtschafft in Steyr bemente mich in jhtem nammen-ainen hoff-
+rath am Rhayserlichen iOoffinhalt des Libel des Bewilligt der Rhayser/ain
+Landrschafft bittmich das anzunemen (Dittwoch nach Lucie Jch Beschwär-
+te mich das ich mit folrin des Rhaysers dienst. Seleißen des erklärte mir der
+ZKbayser mit seiner (Ot:beuel.cy den neundrentag Mouembais.
+In den selben Feuelch war mir auffgelegt, neben des Cardinal von Gurckh
+Räthn den Erzbischoffvnd das Capitel zu Salzburg zuuergleichen, als
+auch beschehen Instructionfet 16. Mouembais.
+1 5 1 9.
 Der Khayferkhangen Wels dahin war den auch alle die in den Noffradt
-feinflln eruordertvnd vondangen Linz beschaidn von Linz war dich wi
-der Gerueff von wegen beratschlagung der abuertigung Bischoff 
-zu Laybachgem Polln In dem so erkranckht der Rhayser am sechsten den
-neundten verfahe sich mit dem Sacrament am zwlften vmbdzeyvh vor
-tags in Gott verschieden An sechzehenden Januarin hab ich Gottwai mit
-Beschwertenleibaber will mit Beschwerlichern vnd bekmmerlichermherzen wir
-gmuet den frummen Khayser auf meinen achseln geholffen in die Rhirchen
-Zutragen der Scel der Allmechtige Barmherzig sein wlle
-Nach solchem todteruolgte das jeglichs Land fr fich selbsordnung fr na
-me die von Steyr 8escheiben die andere Landt damit ain verainigung vnnd
-verfandt gemacht wrde allain wie die Land mit riestigung vnnd gegen
-mennigklichen in abwesender Dernin weerfich enthalten mchten D
+feinfölln eruordert/vnd vondangen Linz beschaidn von Linz war dich wi-
+der Gerueff, von wegen beratschlagung der abuertigung Bischoff #
+zu Laybachgem Polln. In dem so erkranckht der Rhayser am sechsten den
+neundten verfahe sich mit dem Sacrament am zwölften vmbºdzeyvh vor
+tags in Gott verschieden. An sechzehenden Januarin hab ich Gottwaiß mit
+Beschwertenleib/aber will mit Beschwerlichern vnd bekümmerlichermherzen wir
+gmuet, den frummen Khayser auf meinen achseln geholffen in die Rhirchen
+Zutragen, der Scel der Allmechtige Barmherzig sein wölle.
+Nach solchem todteruolgte das jeglichs Land für fich selbsordnung für na
+me, die von Steyr 8escheiben die andere Landt damit ain verainigung vnnd
+verfandt gemacht würde allain wie die Land mit riestigung vnnd gegen
+mennigklichen in abwesender Dernin weerfich enthalten möchten, D
 Wazir
 
-
+-
 wardaingemainertag gen Penckh an der Otter benennt auffmentag nach
-Jmocauitt dahin die Widersterreichische Landtauch Tyrollvnd dann von 
-dem Nidersterreichischen Regiment vides Raysers Testamentarien durch
-jhre gesamttinkhamen von Steyr wegen Bin ich auch verordnt vnd dahinter
-uordert am montag Sand Valentinstag den 14 Hoenungs
+Jmocauitt dahin die Widerösterreichische Landtauch Tyrollvnd dann von …
+dem Niderösterreichischen Regiment vides Raysers Testamentarien durch
+jhre gesamttinkhamen, von Steyr wegen Bin ich auch verordnt vnd dahinter»
+uordert am montag Sand Valentinstag, den 14 Hoenungs.
 Dazumalwardt auch Beschloffen Pott schaffen von den Landen zu baydn
-Jungent Dern zu schickhen Intifpanien wardnich vndt Meridanstoff
-man aus Steyrfur genomen der Credenzbrieffan Rhnig des Phinztags
+Jungent Dern zu schickhen Intifpanien wardnich vndt Meridanstoff-
+man aus Steyrfur genomen der Credenzbrieffan Rhünig des Phinztags
 Sand Scolasticatag ist der sechzehentiDotmungsgestellt
-Wir fein zu Villach aus am fnffondzwanzigisten Juni verzuckhtynach
-VenedigRhomNeapolisvnnddaselbfin zu Schiff am ersten Septembris
-nach Sardiniamvon damvngewitters halben an Dinoricadaselbfinnahmt
-des Lebens verwegen anainen Velsen bangendrVondanimain Poet Alcu
-di in der Insel Oaiorica aus dem widergedrungen nach Ibiza der Inflfr
-au dem weg von danwider geflohen in die Hauptfat Daioricadaselsten
-etliche tagaugerast vnd dann am drittin tag MouemBis zu Bartolomain 
-Cathalonialanthumen
-Der 2Rhnig war auff anderthalbemeildauonferens halben Anfol
-cber Rai zu Venedig vor dem Herzogen Lauredanovnd feinen Rath Zu
+Wir fein zu Villach aus am fünffondzwanzigisten Juni verzuckhtynach
+Venedig/Rhom/Neapolis/vnnddaselbfin zu Schiff am ersten Septembris,
+nach Sardiniam/von damvngewitters halben an (Dinorica/daselbfinnahmt
+des Lebens verwegen anainen Velsen bangendr/Vondanimain Poet Alcu-
+di in der Insel Oaiorica aus dem widergedrungen nach Ibiza der Inflfür
+auß dem weg von danwider geflohen in die Hauptfat (Daiorica/daselsten
+etliche tagaußgerast vnd dann am drittin tag MouemBis zu Bartolomain .
+Cathalonialanthumen,
+Der 2Rhünig war auff anderthalbemeildauonferßens halben Anfol-
+cber Raiß zu Venedig vor dem Herzogen. Lauredanovnd feinen Rath. Zu
 Rhon vor dem BabfLeo in Beysein ettlicher Cardinaln offinlich ich vner
-fnff LandthalenDann auch zu Neaplis vor den Reymundo von Cordona
-vndin SardiniatDeren Anzolo de Villa noua den paidn Vice revnnd zu
-GDaiotica als die Regenten vnnd Rate in vnfer herberge Besuechtngerede
-vnd gehandlt
- Als wir gen Oolinde Re zu dem 2Rhinigkamen haen die der andern
-Land gesamtnDoctor Oerten Subenburger Burger zu Wien der auch
-von Osterreich gesandt der Landtalerhalsen die rede vor
-dem Kayser zur huenvnd mir niekain wort angezaigt noch wissen laffen wie
-vwas der red wrde Er hat dermaen gereddcsy eingerauenemphang
-Derzeit wirbey dem Rhinig warnt brachte Herzog Fridrich Phaltz
-graff am Rhein die wahl des man ain Decret nennt das der zu Rmischen
-ZRnig vnd khnftigem Rhayser erwelt wardt
-Dererwelte R 2Rhinig vertigtvns an Sibenzebenden Decembris
-vnd sprach vns Teutsch zue das vbige durch den gros Cantzler Lateinisch
-Beuolhen Dazumalpatn mich meine mittgesandten dem Rhayferantwurc
-zugeben des ich mich lang verwiderte des auch der 2Khayserfahe also patin
-Symichvnndfonderlich mit Derek Hans von Silberbergvm 8 Gottes willen
-das ich sangenommen vndalso Teutsch vnd Lateinisch verzicht habGottfy
-gelotder 2Khinig was an dem vialen deren von Steyrhandlungen durch
-vns verzichtwol zufriden 
- 1 5 2 O
-Die RaisaustMispanien haben wir erstlichen genommen durch Parpini
-an Sales darnach in Franckh reich gehn MTarona vndfurthin gehn Auini
-on am Rannen dem Waffer den Babfin oder Semel zu Rhom zuegehrig
-vnd aber frau vnd vber den Perg Jeneuer in das Pyomont gehn Susa
-Turin Naylandt fr Breff der Venediger Landtgen Vincenz Citadel de
-Bolunauffgros Teruisvi durch Friaullwider zu Villach am vierten Hor
-nung ankhumen gemainer Landeschafft die sachen auch gefielen verzicht 
+fünff Landthalen/Dann auch zu Neaplis vor den Reymundo von Cordona
+vndin Sardiniat-Deren Anzolo de Villa noua den paidn 'Vice revnnd zu
+GDaiotica als die Regenten vnnd Rate in vnfer herberge Besuechtn/gerede
+vnd gehandlt.
+- Als wir gen (Oolinde Re zu dem 2Rhinigkamen haßen die der andern
+Land gesamtn/Doctor Oerten Subenburger Burger zu Wien, der auch
+von Osterreich gesandt ' der Landtalerhalsen die rede vor
+dem Kayser zur huen/vnd mir niekain wort angezaigt noch wissen laffen wie
+vñwas der redé würde. Er hat dermaßen gered/dcsy eingerauenemphangé
+Derzeit wirbey dem Rhinig warnt brachte Herzog Fridrich Phaltz-
+graff am Rhein die wahl des man ain Decret nennt das der zu Römischen
+ZRünig vnd khünftigem Rhayser erwelt wardt.
+Dererwelte Rö: 2Rhinig vertigtvns an Sibenzebenden Decembris
+vnd sprach vns Teutsch zue, das vbige durch den gros Cantzler Lateinisch
+Beuolhen. Dazumalpatn mich meine mittgesandten dem Rhayferantwurc
+zugeben, des ich mich lang verwiderte des auch der 2Khayserfahe / also patin
+Symich/vnndfonderlich mit Derek Hans von Silberberg/vm 8 Gottes willen
+das ich sangenommen, vndalso Teutsch vnd Lateinisch verzicht hab/Gottfy
+geloßt/der 2Khinig was an dem vialen deren von Steyrhandlungen durch
+vns verzichtwol zufriden. .
+>- 1 5 2. O-
+Die Raisaust-Mispanien haben wir erstlichen genommen durch Parpini-
+an Sales darnach in Franckh reich gehn MTarßona / vndfurthin gehn Auini-
+on am Rannen dem Waffer den Babfin oder Semel zu Rhom zuegehörig
+vnd aber fürauß vnd vber den Perg Jeneuer, in das Pyomont gehn Susa/
+Turin (Naylandt für Breff der Venediger Landtgen Vincenz Citadel de
+Bolunauffgros Teruisvi durch Friaullwider zu Villach am vierten Hor-
+nung ankhumen gemainer Landeschafft die sachen auch gefielen verzicht. -
 ZKhimig
+-
+- -
+-
 
- 
-
-
-Rhnig Ludwig zu tun gern begere an das Oberste des Rmischen
-Rhnigs Regimentertliche Rache zu schicken Behamische handelungen zu
-Berathschlagen Datum am ainundzwanzigisten Day So waren auch an
-der fachen zuhandlinDarumb Bin ich neendem Nidersterreichischen Cang
-lertolerant Nansen Schnaepekhndarzueverodent Jch bin aber allainges
-genHernach wardt Merz Jan Darawi mir zuegeordent Bin von ersten Juni
-hinzr im September bey dem Rhinig zu Preburg beliben in der zeitward
-2Khnig Sigmund Augnfusin Polln am Ersten Augustigedoen
-Der Rhmisch Rnig hielt in Ofterteich einen Landtag zu Cstemen
-Surg Dann Wienn was in vngnadn auf den Neunundzwainzigistentag
-Septembeis darauf sein Commiffarien Graff Sigmundt von Hag hoer
-Wilhalm Schottonnd ich verordnt worden
-Nach verzichtung des Landtags bin ich wider im October zu dem Rh
-nigin iDungern neenteren Namen Geyman Dochmayfer fand Georgens
-orden vndt Herrn Georgen von Puech am Freyhern zu Kaps vmd ZRheump
-pach von wegen der frawen von Weipriach die Jurfickh Ternico in Ofter
-seich gefangen vnd gen Hungern gefiert geschickht worden
- 5 2 1 
-Herr Carl der Rhmisch vndi Nispanisch Rnig hielt den Ersten Reichs
-tag3n Wurms dahin war dich auff fand GDathias tag berueff von wegen
-veranderung GrtzTybein Ditterburg3ndemol Drnfels vner Schlo
-mit auwewl von wns genommen sein worden Bin zubefitzen des Reichs Ca
-mergericht dafelbfin veroident hab das lang ich da selbsten beliben besessen
+Rhünig Ludwig zu tun gern begere an das Oberste des Römischen
+Rhünigs Regimentertliche Rache zu schicken Behamische handelungen zu
+Berathschlagen Datum am ainundzwanzigisten (Day. So waren auch an-
+der fachen zuhandlin/Darumb Bin ich neßendem Niderösterreichischen Cang-
+lertolerant Nansen Schnaepekhndarzueverodent Jch bin aber allainges-
+gen/Hernach wardt Merz Jan Darawi mir zuegeordent: Bin von ersten Juni
+hinzr im September bey dem Rhinig zu Preßburg beliben in der zeitward
+2Khünig Sigmund Augnfusin Polln am Ersten Augustigedoen.
+Der Rhömisch Rünig hielt in Ofterteich einen Landtag zu Cstemen
+Surg (Dann Wienn was in vngnadn) auf den Neunundzwainzigistentag
+Septembeis darauf sein Commiffarien, Graff Sigmundt von Hag hoer
+Wilhalm Schott/onnd ich verordnt worden.
+Nach verzichtung des Landtags bin ich wider im October zu dem Rhü-
+nigin iDungern neßenteren Namen Geyman Dochmayfer fand Georgens
+orden vndt Herrn Georgen von Puech am Freyhern zu Kaps vmd ZRheump-
+pach von wegen der frawen von Weißpriach die Jurfickh Ternico in Ofter-
+seich gefangen vnd gen Hungern gefiert geschickht worden.
+- 5 2 1. -
+Herr Carl der Rhömisch vndi Nispanisch Rünig hielt den Ersten Reichs-
+tag3n Wurmßs dahin war dich auff fand GDathias tag berueff, von wegen
+veranderung Görtz/Tybein (Ditterburg/3ndemol Därnfels vner Schloß
+mit außwewl von wns genommen sein worden. Bin zubefitzen des Reichs Ca-
+mergericht dafelbfin veroident hab das# lang ich da selbsten beliben besessen
 mich da bin erhebt am aimunddreyfigisten tag Jamnarij
-Daselbstmbarder RhmischRhingmich zu Landerathin Steyr fr
-genomen vmdbestelt am Neumundzwanzigistentag WOartis
-Darchin Luther ist dazumal gehn Woembskhomenvnd fr den Rhay
-fer Chur vnd Frfen gebrachtain wunderbarlichsgeleuffvnd gedengwas
-davon allermenigclichenden menschen zu sehen
-Seidt Erzherzog Ferdinand in die Nidersterreichische Land
-Ehomen vnd dieselben eingenommen hat
-M 5 2 1
+Daselbstmbarder Rhömisch-Rhingmich zu Landerathin Steyr für
+genomen vmdbestelt am Neumundzwanzigistentag WOartis.
+Darchin Luther ist dazumal gehn Woembskhomenvnd für den Rhay-
+fer Chur vnd Fürfen gebracht./ain wunderbarlichsgeleuffvnd gedengwas
+davon allermenigclichenden menschen zu sehen.
+Seidt Erzherzog Ferdinand in die Niderösterreichische Land
+Ehomen/ vnd dieselben eingenommen hat.
+M 5 2 1.
 Erzherzog Ferdinand ist zu Linz ankhomen vmddieboch zeitliche
-freide mit Anna ZRhiuig Olafla zu Hungern vnd Behamtochter vollstache
-am Suntag der heyligen Dyfaltigkhait der was am Sechund zwainzig
-ftentag Day darey ich auch Bingewelt 
+freide mit Anna ZRhiuig“ Olafla zu Hungern vnd Behamtochter vollstache
+am Suntag der heyligen Dyfaltigkhait der was am Sechßund zwainzig-
+ftentag (Day darßey ich auch Bingewelt. -
 Defelsen Jarsiksaden Landemostereich vnd ob der Eisder Land
-taggenpersenpeug augescheien vnd gehalten worden
-VOndals der Landtag in Steyr zu Grtz gehalten ward haben die Lande
-fchafft offentlich den Bericht ihrer handlung nach absterben 2Rhayser Dawi
-milianswind in der Landesfrsten awesen durch mich Lateinisch offenlich
-frtragen laffen Tach
+taggenpersenpeug außgescheißen vnd gehalten worden.
+VOndals der Landtag in Steyr zu Grätz gehalten ward haben die Lande-
+fchafft offentlich den Bericht ihrer handlung nach absterben 2Rhayser (Dawi-
+milianswind in der Landesfürsten aßwesen durch mich Lateinisch offenlich
+fürtragen laffen. Tach
 R
 
-Nach solchem Landtag hat die Frstliche Durchleuchtigkhait durch ihren
-Obristen Camerer oder wie man nach Niderlendischerart OStiffen Simolier
-nentiXertin Anthoni von CroyiPern von Simpy vnd den Obristen Rath
-wnd Secretarj Deren Gabrielin Sallomanca Hernach Graffen zu Oetten
-burg an mich begerenlaffen seiner Durchleuchtigkhairindas Mderlande zu
-2Kayserlicher Dayefarzudienende sich bewilligt Vnd dafi mit geraist am
-18 Octotis
-1 5 2 2 
-AuBrlin Baandt hat sein Frstliche Durchleuchtigkhairmlich gen
-Nrnberg auffden augescheienen Reichtag verordentvnndgeschickt da
-ich des Haus Ofterteich Platz oder Session vnd Star gehalten hab au
-ge3ogen am achtundzwainzigisten tag Darri
-Sein Durchleuchtigkhaiekhamen auch dahinvmd von Nrnberg nach
-Wirtenberg gen Stuergarten von dannen Bin ich zu der toerzogin von Wir
-tenberg gen Aurach worden am andern Juni
-Aus der Newfikat in Ofterreich schickht mich auffCotfhien nach Prag
-in Behaim zu Rhnig Ludwigen am achtzehenden tag Juni
-Als nach Rhayser Davimilian tode etliche Landtleitvnnd Stadtleite
-wider des ZKaysers Testament die Regierung vnd Amptleit entsetzten vnd
+Nach solchem Landtag hat die Fürstliche Durchleuchtigkhait durch ihren
+Obristen Camerer oder wie man nach Niderlendischerart O'Stiffen Simolier
+nent/iXertin Anthoni von Croy/iPern von Simpy vnd den Obristen Rath
+wnd Secretarj Deren Gabrielin Sallomanca Hernach Graffen zu Oetten-
+burg an mich begerenlaffen seiner Durchleuchtigkhairindas Mäderlande zu
+2Kayserlicher Dayefarzudienende sich bewilligt. Vnd dafi mit geraist am
+18. Octoßtis.
+1 - 5 2 2. .
+Auß-Brüßlin Baßandt hat sein Fürstliche Durchleuchtigkhairmlich gen
+Nürnberg auffden außgescheißenen Reichßtag verordentvnndgeschickt, da
+ich des Haus Ofterteich Platz oder Session vnd Star gehalten hab auß-
+ge3ogen am achtundzwainzigisten tag (Darri.
+Sein Durchleuchtigkhaiekhamen auch dahinvmd von Nürnberg nach
+Wirtenberg gen Stuergarten von dannen. Bin ich zu der toerzogin von Wir-
+tenberg gen Aurach ' worden am andern Juni.
+Aus der Newfikat in Ofterreich schickht mich auffCotfähien nach Prag
+in Behaim zu Rhünig Ludwigen am achtzehenden tag Juni.
+Als nach Rhayser (Davimilian tode etliche Landtleitvnnd Stadtleite
+wider des ZKaysers Testament die Regierung vnd Amptleit entsetzten, vnd
 auffbobes anhaltnbaider Partheyenvifonderlich in der vngehorsamen ward
-ain Gericht in der Neustadt durch die Frstlich Durchleichtigkair mit au
-lendischen vnpartheischenpersonen besetzt Vnd die da Regiment vnd ande
+ain Gericht in der Neustadt durch die Fürstlich Durchleichtigkair mit auß-
+lendischen vnpartheischenpersonen besetzt. Vnd die daß Regiment vnd ande-
 re Ambter entsetzt vnd merers gehandlt verurthailt vnd zwen gesornetHerrn
-auch namhaffte Burger zu Wien enthaupt
-Jch bin am 3ehenden Augusti widernach Prag geschickt An derselben
-Rai hab ich den rechten arm mahnt bey dem Stati Polln augefallen
-Don ich den weg nach Linz zu seiner Durchleuchtigkeit von
-Linz nach Mrlingen auf den Puntstag auff Egid augescheiben ver
-ruckht am meiindntag Septembis
-Zu der seie in die Nidersterreichische Regierung verordent vnd in densel
-bendienst eingetretten am zwemund zwinzigisten tag Septembris
- 2 3
-Die kolungern hettenainen Rag kusch oder in abwesen jhtes
-2Rhnigsgen Ofen beschrieben auf der heyligen dreyer Rhinig das ist der
-fewte rag Jenners darauf ich gesund worden am Ditwochen nach Da
-chieden fnfundzwinzigistentag Dornungs wardt nichts gehandlt bin
-bald wider khomen
-Der Rhnig kham dann gehnt Dungern Bin neben des ZKhayserlichen
-Oatort Mertin Andreende Burgohina 8 veroident Dnd vomfi Benundzwain
-fentag Aprilis hintz auf den zwemundswainzigistentag WOay ausge
-WEIL
-Darnach kahm Rnig Ludwig gen Oldenburg dahin auch die Frstlich
-Durchleuchtigkait mit seinem gemahl des ZRhinigs Schweffer im Se
-TO 2 ptember
+auch namhaffte Burger zu Wien enthaupt.
+Jch bin am 3ehenden Augusti widernach Prag geschickt. An derselben
+Raiß hab ich den rechten arm mahnt bey dem Stati Polln außgefallen.
+"Don '' ich den weg nach Linz zu seiner Durchleuchtigkeit von
+Linz nach Mörlingen auf den Puntstag auff. Egid, außgescheiben ver-
+ruckht am meiindntag Septembis.
+Zu der seie in die Niderösterreichische Regierung verordent/ vnd in densel-
+bendienst eingetretten am zwemund zwinzigisten tag Septembris.
+- § 2 3.
+Die kolungern hettenainen Rag kusch oder “ in abwesen: jhtes
+2Rhünigsgen Ofen beschrieben auf der heyligen dreyer Rhinig (das ist der
+fewte) rag Jenners darauf ich gesund worden, am Ditwochen nach Da-
+chieden fünfundzwinzigistentag Dornungs - wardt nichts gehandlt, bin
+bald wider khomen.
+Der Rhünig kham dann gehnt Dungern. Bin neben des ZKhayserlichen
+Oatort Mertin Andreende Burgohina 8 veroident. "Dnd vomfi Benundzwain-
+"#fentag Aprilis hintz auf den zwemundswainzigistentag WOay ausge-
+WEIL,
+Darnach kahm Rünig Ludwig gen Oldenburg dahin auch die Fürstlich
+Durchleuchtigkait mit seinem gemahl des ZRhinigs Schweffer im Se-
+TO 2 ptember,
 
-ptember der Rhingssche auch nie in die rentabel Ich habvlReitter
-vndarait der halben vollbracht
-1 2 4
-NDneffe ich eilendes gehn ital in Sachsen zu dem Churfrstin von
-aein beger vierundzwainzigisten Octobtis
-1 S 2 S
-Aber gehnt Nungern von wegen Franzofischer Practikhn durch Fridlichen
-Gonaga vnd Graff Christoffen von Frangepan den dritten tag Darcis
-Wider gehn hungern der selben Practikhen vnd andererfachenhalsen
+ptember, der Rhingssche auch nie in die rentabel. Ich habvl-Reitter-
+vndarßait der halben vollbracht.
+1 $ 2 4.
+(NDneffe ich eilendes gehn ital in Sachsen zu dem Churfürstin von
+a“ein beger ' vierundzwainzigisten Octobtis.
+1 S. 2 S.
+Aber gehnt. Nungern von wegen Franzofischer Practikhn durch Fridlichen
+Gonaga vnd Graff Christoffen von Frangepan, den dritten tag (Darcis.
+Wider gehn hungern der selben Practikhen vnd andererfachenhalsen,
 neben den Rhayserischen Oratorieren kannten Schmaypeckhenvidern zu
- verordnt am fnften tag Aprilis ich augezogen Er aber
-II131 ML 
-Aergehnt Dungern Steffan Pempflinger neben mir des Fugger vnund
-Herin AleviT halden den uli
-Noch gehn Dungern vmb Befrderung an Rbmig zu Polln mit GDosco
-miternfridens halten zuhandlen mit GraffLeonharten Mugarolis Rhay
-ferlichen Oratorden zweinundzwanzigistentag Decembris
-1 5 2 6
-Bin in die Nidersterreichische Cameramaindleffen Jenners veroident
+“ verordnt am fünften tag Aprilis ich außgezogen. Er aber
+II131 ML, -
+Aßergehnt. Dungern Steffan Pempflinger neben mir des Fugger / vnund
+Herin Alevi'T ' '' ' halden, den 'uli.
+Noch gehn Dungern vmb Befürderung an Rbümig zu Polln mit GDosco-
+miternfridens halten zuhandlen mit Graff-Leonharten Mugarolis Rhay-
+ferlichen Orator/den zweinundzwanzigistentag Decembris.
+1 5 2 6.
+Bin in die Niderösterreichische Cameramaindleffen Jenners veroident.
 
-
- 
-
- 
-
-
+:
+- -
+–
+- -
+-
+-
 A
-
-
-
-
+---
+-
+|
+-
 gem
-
+-
 filio
 Sigmund
 stain vndvilporscha
-darin verzicht
+darin verzicht.
 Qunft
 ffen
 ig vnd
- Ond hieus von Ba
-
+. "Ond hieus von Ba
+-=
 Kun
-
+-
 a die Zobl bracht
 spanien
-
-
-
-
-
-
+|
+|
+|
+|
+|
+|
 l
-
+|
 I
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+Ö
++
 lelt
-
-l
+#
+l#
 F
 l
 F
 C
-
+#
 lV
-
+--------
 FlIIIIIIIIIIIIIIIIIIIIIIIIIlllllllllllllllllllllllllllllll
-
-
-
-
-
+|
+|
+|
+|
+|
 IIIIIIIIIII
-
-l
+---
+l/
 L
 fi
-
-
-E 
-
- 
-
-
- 
+----|
+|
+-E-- --
+|
+- -|--
+--
+|-
+| |-
 m
-
-
+-
+-
 Z
-
-
-
-
-
-H
-
-
-
-
-
-
- 
-
+-
+|-
+-
+---
+|
+H-
+-
+-
+-
+--
+----
+|
+- -
+-
 E
-L
-
-
-
-
-
-
-
-
-
-
-
- TV NNNNNNNNNNNNNNN NONSINNNANNWM
-
-
+L--
+-
+-
+-
+=-
+-|=
+-
+-
+-
+-
+|
+|
+- TV - NNNNNNNNNNNNNNN - NO-NSINNN-ANN-WM"
+=
+|
 E
-
-
-
-
-
+|
+-
+-
+-
+|
 SN
 E
-
+|
 r
-E
-
- N
- 
-sNNA
-z
-
-E
-
-7
-
-Z
-E
+E=
+---
+- N
+-§ -
+s/NNA
+-z
+-
+|E
+-
+7-
+---
+Z-
+-|E---
 r
-
-
-
-N 
-Z
-
-
-H
-g
-
-
- 
-
-Ewe
-NYM
-
-NN 
-SK 
+-
+-
+--
+N-- - -| |
+Z»
+-
+--
+H-
+g---
+|=
+&-
+- --
+=
+-Ewe-
+NYM-
+--
+NN-- -
+SK| |-|
 V
-
+-
 S
 N
-
-
-S
-E 
-
-
-
-
+=
+=
+S-
+---E- -
+-
+-
+|-
+---
 Tr
-
- 
-
- 
-
- 
+-
+- - - -
+-
+- -
+-----
+- - - -
 r
 E
-
+-
 Z
-
-
+-
+=
 S
-
-
-
+---
+-
+'-
 E
- E
-
-
-
- S
+- - -E
+-
+-
+|
+| S.,
 T
 S
- 
- 
-
-
-
-
-
-
-vor 
- 
-
-
-
-
-
-
-
+- - - - - - - -
+- -
+-
+-
+-
+-
+-
+-
+vor -
+- -
 
 
 
@@ -1641,342 +1634,349 @@ vor
 
 
 
- In Polln zu den Ring auch in die MDosquat zu dem Grofrstin Bafi
-lio am zwelffen Jenners aus Wien verzuckht Mugarolis
-vom Rmischen Khayfer CarlnWmdich vom jetziger Rmischer Rhayferli
-cher Dayt derzeit noch mit 2Khnig gesamte dann der Grofrstcherte sei
-negesandten in Dispanien Die aber zu Frstlicher durchleuchtigkairabzufer
-tigen Beschieden worden die zogen also mitvms
+
+
+
+
+
+
+
+- In Polln zu den Ring auch in die MDosquat zu dem Großfürstin Bafi-
+lio am zwelffen Jenners aus Wien verzuckht, '' Mugarolis
+vom Römischen Khayfer Carln/Wmdich vom jetziger Römischer Rhayferli-
+cher (Dayt, derzeit noch mit 2Khünig gesamte dann der Großfürstcherte sei-
+negesandten in Dispanien. Die aber zu Fürstlicher durchleuchtigkairabzufer-
+tigen Beschieden worden, die zogen also mitvms.
 Zu Craccau was der Rhinig vnd wir nie wieder pauch da selbst mit den
-andern February emphangenvmsnyembtentgegengeschickhtkhain herberg
-noch vnderhalt geben sonder zweifi aines verdachts vmb der mitraesenden
-willen Als wir aber verhotvnndvnserer tMeringemiet verstanden worden
-gewanesain Beffere gestalt vndfin also durch Lithn zu Biciste nach Came
-netz Dienfo Borisow Offa vnd Do8owna von dannen auf des GOosco
-mitergebiet vnd gen Smolenfo den fnffvndzwainzigisten Dartij Dro
-bowuschWiesinaOosaiscovnd in die Hofquadenfechvnd zwainzigisten
-Apriliskonnen mit groffen Ehen vor der Statemphangenvnd mit Pherden
-verehzt auch also darauffin die Stadt beglaidt vnd gefiert worden da selbstn
+andern February emphangen/vmsnyembtentgegengeschickht/khain herberg
+noch vnderhalt geben, sonder zweifi aines verdachts vmb der mitraesenden
+willen. Als wir aber verho:tvnndvnserer tMeringemiet verstanden worden
+gewanesain Beffere gestalt vndfin also durch Lithn zu Biciste nach Came-
+netz (Dienfo Borisow Offa vnd Do8owna, von dannen auf des GOosco-
+mitergebiet vnd gen Smolenfo den fünffvndzwainzigisten (Dartij/ Dro-
+bowusch/Wiesina/Oosaiscovnd in die Hofquadenfechßvnd zwainzigisten
+Apriliskonnen mit groffen Ehen vor der Statemphangen/vnd mit Pherden
+verehzt auch also darauffin die Stadt beglaidt vnd gefiert worden, da selbstn
 den anfandr gehandlr vnd dann zu Hosaisco am aindleffen Nouembris
-verricht vnd abgeuertigt
+verricht vnd abgeuertigt,
 An der Rays feint Mer Ruepecht Freyher zu kerkertain wind Franz Fi
-zien mit mir vnd Der Gnther Ruepechts Bieder mit dem Grauen Mini
-garolis geraist
-Als wir abgeuertigt waren lies der Grofrstvns fragen welchen weg wir
-anhamis nennen wollen Damnjme warm von feinen Granitznkunde schaffen
-khnment wie der Trck zu Ofen gewest Wife aber nicht was der augericht
-bettet damit wir vns darnach zu richten wifen
-Wie wir das Litticheraichen haben wir des Rhinig Ludwigsintun
-F abbleien vernomen Balderinderten wir meines Heran erwellung zu
-hinigen in Behaim
-So wife ich auch das mein Herz rechtlichen gen Hungern zu Rhiniger
-welt sollte werden Darumb ich wolbedachte was Bey dem 2Knig zu Polln
-der halben zuhandln wre desich dann gehandltha So khumbt meines
-tDeren Pot schafft zudem Kniggen Craccauter Jan Drawi mit etlichen
-Beuelchen zuhandlnderenfachen etliche ich zuuo gehandlthette
+zien mit mir vnd Der Günther Ruepechts Bieder mit dem Grauen Mini-
+garolis geraist.
+Als wir abgeuertigt waren, lies der Großfürstvns fragen, welchen weg wir
+anhamis nennen wollen / Damnjme warm von feinen Granitznkunde schaffen
+khnment wie der Türck zu Ofen gewest Wife aber nicht was der außgericht
+bettet, damit wir vns darnach zu richten wifen.
+Wie wir das Litticheraichen, haben wir des Rhinig Ludwigsint)un-
+F" abbleißen vernomen / Balderinderten wir meines Heran erwellung zu
+hinigen in Behaim.
+So wife ich auch das mein Herz rechtlichen gen Hungern zu Rhiniger-
+welt sollte werden / Darumb ich wolbedachte was Bey dem 2Künig zu Polln
+der halben zuhandln wäre, desich dann gehandlthaß / So khumbt meines
+tDeren Pot schafft zudem Küniggen Craccauter Jan Drawi mit etlichen
+Beuelchen zuhandln/derenfachen etliche ich zuuo gehandlthette.
 In Craccau als wir aus der GOosqua khomen warn anders weder am
-Erstnjagar wolgehalten dann ansvner handlung Befunde sich die Bestn
-digkhaitvnndtrewe freunde schafftvnserer toleran
+Erstnjagar wolgehalten, dann ansvner handlung Befunde sich die Bestän-
+digkhaitvnndtrewe freunde schafftvnserer toleran.
 Nach
+---
+
+Sigmund Freiherr zu Herber-
+T statn in KOoscoutischem verehrtem flaidt.
+M. Dass er
 
 
-Sigmund Freiherr zu Herber
-T statn in KOoscoutischem verehrtem flaidt
-M Dass er
-
-
-Nach dem der Rnigin Borna Duetter mit Tausent Gulden durch
-fhiffen bewilligt das ich defovleissigerjrertochter heyrat nach den Khay
-ferlichen benelchin handln folt die Begert ich in erster ankhunft ward mir
-durch meine bekhandten geraten das ich denselbenbrief dem Rhnig geen
-vnd vertrawen soll als ich widerkham hat mir die tausentglden geben lassen
-1 5 2 7 
-Von der Rais aus der Dosquavnnd Polln Bin ich gehn Ptag in Be
-bafmamdeyzehenden tag Febuarijkhomen die Cromung was am vierund
-3wainzigistentag des Monungs 
-Als ich da zu Prag mein aurichtung fr Frachter ward beratschlagt micb
+Nach dem der Rünigin Borna (Duetter mit Tausent Gulden durch
+fähiffen bewilligt, das ich defovleissigerjrertochter heyrat nach den Khay-
+ferlichen benelchin handln folt, die Begert ich in erster ankhunft ward mir
+durch meine bekhandten geraten, das ich denselbenbrief dem Rhünig geßen
+vnd vertrawen soll, als ich widerkham hat mir die tausentgülden geben lassen.
+1 5 2 7. -
+Von der Rais aus der Dosquavnnd Polln, Bin ich gehn Ptag in Be-
+bafmamdeyzehenden tag Febuarijkhomen die Cromung, was am vierund-
+3wainzigistentag des Monungs. -
+Als ich da zu Prag mein außrichtung für Frachter ward beratschlagt micb
 wider in Poln zuschickhndec ich mich bewilligte aber zweifachen warumb das
-mit sein wardt geuolgt darber gab mein genedig ister Rbis
-nig mirdeydenkhvmb das ich seiner Durchleuchtigkhait beuelch wolver
-richt Dann vmb das ich fr mich vor betrachtvnndon Beuelch feiner Ot zu
-nutz gehandlt das ich mich anch gewilligthettewovonnten wider 3uray
-fen
-Als der Behamisch Rhnig mein genedig ist er 3er in Mungern erwelt
-wmd gekrnt widergen Grankommen was Bin ich da selbfinhin antoffer
+mit sein '' wardt geuolgt darüber gab mein genedig ister Rbis
+nig mirdeydenkh/vmb das ich seiner Durchleuchtigkhait beuel.ch wolver-
+richt. Dann vmbº das ich für mich vor betrachtvnndon Beuelch feiner (Ot: zu
+nutz gehandlt, das ich mich anch gewilligthette/wovonnöten wider 3uray-
+fen.
+Als der Behamisch Rhünig mein genedig ist er 3er in Mungern erwelt
+wmd gekrönt widergen Grankommen was Bin ich da selbfinhin ant)offer-
 nordert der GOoscouitischen handlung halten am Sibenundzwainzigisten
-tag Nouembris 
-Daselbst zu Gram in Poln abgefertigt nach Petterkhawvon Wien
-auJezogen den Sechsundzwainzigistentag Decembis
-
-1 5 2 8 
-Zu Petterkhaw ankommen am aindleffen tag Januarijdahin dan auch
-des eingedrungen Knig Hansen zu iOungern gefundte kamen meine mit
-Commiffrien warnt der Lorenz Bobst zu Weiffenburg vndter Georg
-Logkh schon weil ich ain sondere geheime Instruction zu dem ZRhnig in
-Polln gehatdes haben sich die andern zween vnind sonderlichen der Bobst
-seer Beschwrt Amainundzwanzigistentag Feuarijvon dannen verzuckht
-Ist mir von Niclafen Zple vmbderhandlung willen in Drherman mei
+tag Nouembris - -
+Daselbst zu Gram in Poln abgefertigt nach Petterkhaw/von Wien
+außJezogen den Sechsundzwainzigistentag Decembºis.
+/
+1 5 2 8. -
+Zu Petterkhaw ankommen am aindleffen tag Januarij/dahin dan auch
+des eingedrungen Künig Hansen zu iOungern gefundte kamen meine mit
+Commiffrien warnt der Lorenz Bobst zu Weiffenburg/ vndter Georg
+Logkh schon weil ich ain sondere geheime Instruction zu dem ZRhünig in
+Polln gehaßt/des haben sich die andern zween vnind sonderlichen der Bobst
+seer Beschwärt Amainundzwanzigistentag Feßuarijvon dannen verzuckht
+Ist mir von Niclafen Zäple vmbderhandlung willen in Därherman mei-
 ner Ersten aus der Dosqua widerzugfich zugetragen ainhalt gefoffen aber
-vnwiffender ein andere fraffen nach Cracca gerayst vnd zu Wiennankho
-menden aindleffen tag Darty
-Eilendt in Litten zu dem Rhnig Nachdem der Tirckhperfondlich im
-Anzug wider Offerteich was von Wienn vermuckht den drittntag Februar mit
-In der Wildankhomen am zwainzigisten tag Oartij widergehn Wiennam
-sechswndswainzigistentag Day khomen
-Von Wien gehn Linz antoff eruordert am anderntag Juni daselbstin
-abgeuertigt nach PollnZn Wiennankhomen den aimvndswainzigistentag
-JuniGen Craccawam sehenden tag Juli der Tirckhnam Ofen den Rhi
-nig clichen Stuelint Dungern verptent die Stadt das Schlos vnuersert ver
-laffen Wnd Berent Wiennamainundzwanzigisten tag Septembeis Bele
-gertamdeyvndzwainzigistenvmnd wider am dreyzehenden tags
-Octobis Jch mneft zu Traccawbleiben hinzt den zwlftentag Detobt ist
-Bin ich abgenodert vnndwidergen Linz komenamf st
-
-tag Tonemis
+vnwiffender ein andere fraffen nach Cracca gerayst/ vnd zu Wiennankho-
+menden aindleffen tag (Darty.
+Eilendt in Litten zu dem Rhünig. Nachdem der Tirckhperfondlich im
+Anzug wider Offerteich was von Wienn vermuckht, den drittntag Februar mit
+In der Wildankhomen am zwainzigisten tag (Oartij widergehn Wiennam
+sechswndswainzigistentag (Day khomen.
+Von Wien gehn Linz ant)off eruordert am anderntag Juni daselbstin
+abgeuertigt nach Polln/Zn Wiennankhomen den aimvndswainzigistentag
+Juni/Gen Craccawam sehenden tag Juli der Tirckhnam Ofen den Rhi
+nig clichen Stuelint Dungern verptent die Stadt das Schlos vnuersert ver-
+laffen Wnd Berent Wiennamainundzwanzigisten tag Septembeis / Bele-
+gertamdeyvndzwainzigisten/vmnd wider ä am dreyzehenden tags
+Octobis Jch mneft zu Traccawbleiben hinzt den zwölftentag Detobt ist
+Bin ich abgenodert vnndwidergen Linz komenamfü st
+.
+tag Tonemis.
 
 In Osterreich Befindlichaingroffeverenderung die Vorstede zu Wien
-alabgethon das Landtvberlegt mit LeychenRoffen Rindern vmd
-Scheinen Erbarmkhlich anzusehen
-1 3 O
+alabgethon das Landtvberlegt mit ' Leychen/Roffen, Rindern vmd.
+Scheinen. Erbarmkhlich anzusehen.
+1 $ 3 O.
 Durch mittlPersonen wardtain tag zu guetlicher handlung zwischen
-ZRhii GLOt vnd 2RbnigiNanfangen PrelawfiirgenomenDahin ich auch
-verordentvmnd zu Wien augeraist am fibenden tagAugusti Von Pre
-law widerverzuckht dena inundzwanzigistentag desselben
-Nachdem zu Prelaw nichts gehandltvndauff Rhnigs zu Pollnbe
-gerndertag gen Ooningros Polln gesetzt Bin dahin veroident zu Wien
-verzuckht den vierzehenden tag SeptembisGen Ponkhomen den vierdten
-tag Octotisdaselfn neben Bischoff Jacom zu Prelavmd Doctor
-Beattin Widman die Deyrat zwischen Khnig Sigmund Augustus vmd
-AElisabeth des Rm Rhinigstochter abgeredt feidens halben aber nichts
-von Ponverzuckhtamaindleffen tag Nouem bis zu Wiennwiderankho
-menden dreiffigistentag desselben
-In dem Jar ist der Dumgerisch vnd Behamisch zu Rmischen Khnig
-Erwelt vnd gekhnt worden
- 1 5 3 1
-Gehn Prin anhoff ermordert von Wiennerhebt den fnffondswaintzi
-giftentag Darcy widergehn Wiemkhomenden viertn Aprilis
-Dazu Prin nach Polmagenertigt zu Wien vertrittnam fnffzehen
-den tag Aprilis hingegen Freystatt in der Schlesien khomen Bin abgeno
-dert worden amainundzwanzigisten tag 
-Der beuelch gar Ernstlich vnd genediglich das ich mittleren Wilhal
-men von Rogendoff oitem Hoffmaister vnd Veldhauptmangemplinttn
-purg Raysen den Fridlichen anstandt handlen soll Ist mir zwischen Meudoff
-vnnd Sttz in Ofterzeichzuekhomen den sechs vnd zwaintzigisten tag Apri
-lisZu Plinttimpurg ankomen am sechsten tag Day den anstandt neben dem
+ZRhii: GLOt: vnd 2RbünigiNanfangen. Preßlawfiirgenomen/Dahin ich auch
+verordentvmnd zu Wien außgeraist am fibenden tag-Augusti Von Preß-
+law widerverzuckht dena inundzwanzigistentag desselben.
+Nachdem zu Preßlaw nichts gehandltvndauff Rhünigs zu Pollnbe-
+gern/dertag gen Ooßningros Polln gesetzt. Bin dahin veroident zu Wien
+verzuckht den vierzehenden tag Septembºis/Gen Poßnkhomen den vierdten
+tag Octoßtis/daselºfn neben Bischoff Jacoßm zu Preßla/vmd. Doctor
+Beattin Widman die Deyrat zwischen Khünig Sigmund Augustus vmd
+AElisabeth des Röm: Rhinigstochter abgeredt feidens halben aber nichts,
+von Poßnverzuckht/amaindleffen tag Nouem bis zu Wiennwiderankho-
+menden dreiffigistentag desselben.
+In dem Jar ist der Dumgerisch vnd Behamisch zu Römischen Khünig
+Erwelt vnd gekhönt worden.
+- 1 5 3 1.
+Gehn Prin anhoff ermordert von Wiennerhebt den fünffondswaintzi-
+giftentag (Darcy widergehn Wiemkhomenden viertn Aprilis.
+Dazu Prin nach Polmaßgenertigt zu Wien vertrittnam fünffzehen-
+den tag Aprilis hingegen Freystatt in der Schlesien khomen, Bin abgeno-
+dert worden amainundzwanzigisten tag. -
+Der beuelch gar Ernstlich vnd genediglich das ich mittleren Wilhal-
+men von Rogendoff oßitem Hoffmaister vnd Veldhauptmangemplinttn-
+purg Raysen den Fridlichen anstandt handlen soll. Ist mir zwischen Meudoff
+vnnd Stätz in Ofterzeichzuekhomen, den sechs vnd zwaintzigisten tag Apri-
+lis/Zu Plinttimpurg ankomen am sechsten tag Day den anstandt neben dem
 von Rogendoff vnd Herrn Leonhartin von Velstoffmarschalich mit des
-gegentails gesamten Deren Franzen Erzbisch offen zu Collitzan Jeroni
-mufin Lakhy vnd Casparn RakhayBeschloffen
- Binwiderin Polln verodentan fnfundzwainzigisten GWDay der
-articlvndbeuestigungen halben im anstandt an Rnig zu Pollnvnd Oer
-zog Georgen zu Saynangestellt zu Wien verlitten am sechsten tag Juni
- Von Craccaw mit tMeren Jeronimuffen Lakhy nach Budweis zu
-2Rhi Dt komenden vierwindzwainzigistentag Juli
-Er Lakhy ist mit mir widerumbgen Wien ankhomen Wind von dann
-nach Ofen verzuckht am fnften Augusti
-Gehn Inpeugant offeruordert zu Wien mich erhebt den achtzehen
+gegentails gesamten / Deren Franzen Erzbisch offen zu Collitzan / Jeroni-
+mufin Laßkhy vnd Casparn Raßkhay/Beschloffen.
+- Binwiderin Polln verodentan fünfundzwainzigisten GWDay der
+articlvndbeuestigungen halben im anstandt an Rünig zu Polln/vnd Oer-
+zog Georgen zu Saynangestellt, zu Wien verlitten am sechsten tag Juni
+- - Von Craccaw mit tMeren Jeronimuffen Laßkhy nach Budweis zu
+2Rhi: (Dt: komenden vierwindzwainzigistentag Juli.
+Er Laßkhy ist mit mir widerumbgen Wien ankhomen Wind von dann
+nach Ofen verzuckht am fünften Augusti.
+Gehn Inßpeugant offeruordert zu Wien mich erhebt den achtzehen-
 den tag Mouenbis vnd zu Inspeug ankommenden Silbenundzwainzigistets
-tag desselben von damabgeufertigt am fiSenden tag Decembtis
- 1 5 3 2
-Die toungern 8a der Parthey herten sich entschlossen in
+tag desselben von damabgeufertigt am fiSenden tag Decembtis.
+- 1 5 3 2-
+Die toungern 8a der Parthey herten sich entschlossen in##'
 
-kamen zukhurnenvmd zuberahtenwief bleiben mchten Darum 8ward
-des Babfs Munctiusi Hert Vincentius Pimpinellavnd des ZKhaysers Ota
+kamen zukhurnen/vmd zuberahtenwief bleiben möchten. Darum 8ward
+des Babfs Munctiusi Hert. Vincentius Pimpinella/vnd des ZKhaysers Ota-
 totyGraff Wolff von AOontfort Jchvnndter GDario Bokh Vitzthomb in
-Offerteich zu Derent Hansen Khazianer als Obristem vnd andern iOunge
-rischen Rthn verordent bin am anderntag Jamnari 3u Preburg ankho
-men von dan sein wir allgenidungerischen Altmburg geraist da vernomern
-das aus solcher zusamenkhunft der Hungern nichts worden Bin wider zu
-Wiennankhomenden zehenden tag Januari
-Ehewan ich gehn Wiemkhomenfeind mirdey beuelchverantwortet
-mich eilendtsgen Paffaw zuuerfuegen danda kam der Bischoff zu Speyr
-iOert Philips von Flerham von des Rhaysers wegen tert Julius Plneg
-Georg Tunerstadt Doctot vnund Christoff von Kharlowitz 7 von iDerzog
+Offerteich zu Derent Hansen Khazianer als Obristem vnd andern iOunge-
+rischen Räthn verordent/ bin am anderntag Jamnari 3u Preßburg ankho-
+men, von dan sein wir allgenidungerischen Altmburg geraist, da vernomern
+das aus solcher zusamenkhunft der Hungern nichts worden. Bin wider zu
+Wiennankhomenden zehenden tag Januari.
+Ehewan ich gehn Wiemkhomen/feind mirdey beuelchvßerantwortet
+mich eilendtsgen Paffaw zuuerfuegen, danda kam der Bischoff zu Speyr
+iOert Philips von Flerßham von des Rhaysers wegen tert Julius Plneg/
+Georg Tunerstadt Doctot / vnund Christoff von Kharlowitz 7 von iDerzog
 Georgns von Sachiffen wegen aber des Rhinig zu Polln mitler kamen mit
-haben den ganzen GDonat des Bonungsdaselbsten gewardt Dan der Trck
-wardinanzug der mainung fr Wienn Er 3ohe aber fr Gunst Darumb
-Eham Rhayser Carl mit seinem hrgen Wienn
-Der Trck zohevon Guns afur die Eyfine Stat vnd neben der Neu
-stadthin vber den Narrperg dem ist Herr Mans Catzianer ver den Seme
-ringauff Grtz zugezogendan jederman auf Wiem verzuckht vnd weil der
-Trckdaselbfin hinein wegnam sorgten wrde Grtz als vnbesetzt
-TEN mit geraist wir fingen Grtz einkhomenden zwelffenstag Se
-ptembris 
-Zu Grtzmoegensgefiiertertvnndwideraugezogen ettliche Phrde
-an die Weindt zu Ratznverordent vnd wir in der halt gewart aberkainer
-fich Bewegen laffenamtzanstieg vnder Leibnizettlich im nachzug durch die
-Dufarn erlegt worden
-1 5 3 3
-An Hofferu odert nach Inspeug mit zwarfen Ernstlichen bemelhenmie
-dem dritten mich gehn Salzburg beschieden seiner De daselbstnerwarten
-dahin kham sein Oe am ersten tag Feuari
-Des anderntags darnacht Deren Sigmunden von Dietrichstain vnd
-mich geht Dungern agenertigt dahin auch Behamisch vnnd GOrherisch
-neben den iOungerischen Rthnvnd dem orifmit Herentanen Rhagianer
-werodent warnt danes was der fiSendetag Benentgehnt Dumgerischen Alten
-Burgfridens halben zuhandln der Sterbverhindert solchen Platz der mit
-langermhegehn Preburg gelegt vnund die Rhinigt Nansens auffgelaide
-darkhomen
-Sokumbt Jeronimuffin de Sarasch reien aus der Trckheydaserain
-friden erlangthettevber das wollt der gegenthail nichts weiters handlen
-wir vertuckhten am 3ehenden tag Darti
-GOit Rhii GOt von Wien nach Prag geraist die Babmbergerische 
+haben den ganzen GDonat des Bonungsdaselbsten gewardt, Dan der Türck
+wardinanzug der mainung für Wienn, Er 3ohe aber für Gunst. Darumb
+Eham Rhayser Carl mit seinem hörgen Wienn.
+Der Türck zohevon Guns aßfur die Eyfine Stat/ vnd neben der Neu-
+stadthin vber den Narrperg, dem ist Herr Mans Catzianer vßer den Seme-
+ringauff Grätz zugezogen/dan jederman auf Wiem verzuckht vnd weil der
+Türck.daselbfin hinein wegnam sorgten, würde Grätz als vnbesetzt
+TEN ' mit geraist, wir fingen Grätz einkhomenden zwelffenstag. Se-
+ptembris. -
+Zu Grätzmoegensgefiiertert/vnndwideraußgezogen ettliche Phärde
+an die Weindt zu Ratznverordent/ vnd wir in der halt gewart aberkainer
+fich Bewegen laffen./amtzanstieg vnder Leibnizettlich im nachzug durch die
+Dufarn erlegt worden.
+1 5 : 3 3.
+An Hofferu odert nach Inspeug mit zwarfen. Ernstlichen bemelhen/mie
+dem dritten mich gehn Salzburg beschieden seiner (De: daselbstnerwarten
+dahin kham sein Oe: am ersten tag Feßuari.
+Des anderntags darnacht Deren Sigmunden von Dietrichstain/ vnd
+mich geht. Dungern aßgenertigt / dahin auch Behamisch vnnd GOärherisch
+neben den iOungerischen Räthn/vnd dem oßrifmit Herentanen Rhagianer
+werodent warnt danes was der fiSendetag Benentgehnt Dumgerischen Alten-
+Burgfridens halben zuhandln der Sterbverhindert solchen Platz, der mit
+langermühegehn Preßburg gelegt, vnund die Rhinigt Nansens auffgelaide
+darkhomen.
+Sokumbt Jeronimuffin de Sarasch reißen aus der Türckhey/daserain
+friden erlangthette/vber das wollt der gegenthail nichts weiters handlen
+wir vertuckhten am 3ehenden tag (Darti.
+GOit Rhii: GOt: von Wien nach Prag geraist, die Babmbergerische ,
 handlung verglichen amainvndswainzigistentag Mouembris von Wienn
-verzuckht
-5 3 4
+verzuckht.
+5 3 4.
 Dafl8sten zu Prag ich neben andern sollen alle Stadt des Noffs vnnd
-aller Regierungen auch auaben Refoemirn mich daneben in andermvilfa
-chen gebraucht 
- Vors
+aller Regierungen auch außaben Refoemirn mich daneben in andermvilfa-
+chen gebraucht. - -
+- Vors
 
-Von Prag gen Linz auf den Landtag neben andern Comiffarienge
- vnind vertritten am aimund zwainzigisten tag February widergehns
-iennikhomen am viertentag Darti
-Wider gen Prag ermordert zu Wiennvertiten am dreifigentag MDar
-tijamfechtzehenden Aprilis mir wider erlaut vnd zu Wiennamkhumen am
-ainundzwanzigisten tag Aprilis
+"Von Prag gen Linz auf den Landtag neben andern Comiffarienge-
+' / vnind vertritten am aimund zwainzigisten tag February widergehns
+iennikhomen am viertentag (Darti.
+Wider gen Prag ermordert zu Wiennvertiten am dreifigentag (MDar-
+tij"amfechtzehenden Aprilis mir wider erlaußt vnd zu Wiennamkhumen am
+ainundzwanzigisten tag Aprilis.
 A8er gehn Ptag eruordert am achtundzwanzigisten tag Aprilis mit
-Deren PhilippenPteiner von Wien vertritten Vnnd die Tyrolischen R
-the am weg erritten
-Gen Gailhaufen Joachim von Talham mit mir zu der Churfrstenge
-fanten dann die R WOt mit denen sich destags montags nach Evaudiol
-cher Zusamenkunft verainigthettenden zehenden tag Oay vertritten Wind
-widergen Prag am Ersten Juniainfogclicberais 7 Aber weil alle Reitte
-rey derzeit in Wirtnberg was mit dem Landgrauen von Hefn daffelbein
-genomen gabvns ficher hait
-Auff Sande Amapergampe herantanen Phlueg Behamischen
-Cantzler dem Churfrsten von Onzvnd iNerzog Georgen von Sachs
-F alsvnderhandler Wirttemberg halben verzuckt von Prag am fnftentag
-unzu
-Gehn Rhadn von Sandt Annaperg zu 2Rhi De khomen am Sie
-Benzehenden rag Junijdeffelben tags wider von dannen verzittenvnd wider
-auff Sandt Annapergkhomen am achtzehenden tag Juni
-Aber tagg wider nach Rhadn verzuckhtvnd am Meinzehen
-den tagfeind NOnzvnndt Derzog Georg auch darkhomen am Sibenwind
-3wainzigistenkunst auch Churfrst zu SachffentDerzogtManns Fridrich
-da was Wirttenberghalsen vnnd der zwisch mit Churfrsten zu Sachsen
-vertragnDen anderntag Julikham ich wider gehn PragVnd zu Wients
-einkomenden fnffgehenden Juli 
-Gehn Schimeta zu dem Stadthalterint ungern von Wiemaman
-den tag September vndamviertentag wider khomen
-5 3 5
-tathMertzog Vlrich das FrstenthumbWiertenerg von 2Rhnig Fer
-dinando als Erzherzogen zu Osterreich laut des vertrags zu Khadnbe
-schloffen Emphangen vndphlichtgethon 
- 
- 1 5 3 6 
-Gehn Jnpengeruordert von Wien vertritten den fechfenstag Oartis
-dahin auch mer Rthe von Landenbeschieden vndvilgebandlt darnach ist
-die Rbi Ot nach Trient verlitten dahin komen den zwlften tag Se
-ptembis zu Sandr Veit in Rhrmten Landtag gehalten den meintentag
-Octobeis Zu Grtz auch Lanndtag gehalten am fnffzehendentag Octo
-Von danbin Jch widerum Bengen Wiennikhomen am fnftentag No
-Ueltzbri8 
- 3 7
-Zu dem Stadthalter vnd hingerissen Rthn die zusammenzubringen
-geschickht Dan Stadthalter wollte dem Erzbischoffe vnd der Erzbischoff
-dem Stadthalter mit nachziehen am fnffvndzwainzigisten Day
- LE iz Abermals
+Deren PhilippenPteiner von Wien vertritten Vnnd die Tyrolischen Rä-
+the am weg erritten.
+Gen Gailhaufen Joachim von Talham mit mir zu der Churfürstenge-
+fanten dann die Rü: WOt: mit denen sich destags montags nach Evaudiol-
+cher Zusamenkunft verainigthettenden zehenden tag (Oay vertritten Wind
+widergen Prag am Ersten Juniainfo.gclicberais 7 Aber weil alle Reitte-
+rey derzeit in Wirtnberg was mit dem Landgrauen von Hefn daffelbein-
+genomen gabvns ficher hait,
+Auff Sande Amapergampe herantanen Phlueg, Behamischen
+Cantzler ' dem Churfürsten von Oänzvnd iNerzog Georgen von Sachs
+F alsvnderhandler Wirttemberg halben verzuckt von Prag am fünftentag
+unzu.
+Gehn Rhadn von Sandt Annaperg zu 2Rhi: De: khomen am Sie
+Benzehenden rag Junij/deffelben tags wider von dannen verzitten/vnd wider
+auff Sandt Annapergkhomen am achtzehenden tag Juni.
+Aber tagg wider nach Rhadn verzuckht/vnd am Meinzehen-
+den tagfeind NOänzvnndt. Derzog Georg auch darkhomen am Sibenwind-
+3wainzigistenkunst auch Churfürst zu SachffentDerzogt-Manns Fridrich/
+da was Wirttenberghalsen/ vnnd der zwisch mit Churfürsten zu Sachsen
+vertragn/Den anderntag Julikham ich wider gehn Prag/Vnd zu Wients
+einkomenden fünffgehenden Juli. - - - -
+Gehn Schimeta zu dem Stadthalterint ungern von Wiemaman-
+den tag September vndamviertentag wider khomen,
+5 3 5.
+tath-Mertzog Vlrich das Fürstenthumb"Wiertenßerg von 2Rhünig Fer-
+dinando als Erzherzogen zu Osterreich (laut des vertrags zu Khadnbe-
+schloffen) Emphangen vndphlichtgethon. -
+- ", -
+- - - - - - - - - - - 1 5 3 - 6. - -
+Gehn Jnßpengeruordert von Wien vertritten den fechfenstag (Oartis
+dahin auch mer Räthe von Landenbeschieden vndvilgebandlt, darnach ist
+die Rbi: &Ot: nach Trient verlitten dahin komen den zwölften tag Se-
+ptembis zu Sandr Veit in Rhärmten Landtag gehalten den meintentag
+Octobeis / Zu Grätz auch Lanndtag gehalten am fünffzehendentag Octo-
+“Von danbin Jch widerum Bengen Wiennikhomen am fünftentag No-
+Ueltzbri8. - -
+- - 3 7.
+Zu dem Stadthalter vnd hingerissen Räthn die zusammenzubringen
+geschickht. Dan Stadthalter wollte dem Erzbischoffe vnd der Erzbischoff
+dem Stadthalter mit nachziehen am fünffvndzwainzigisten Day.
+- LE. iz Abermals
+/
 
-
-
-Abermals gen Preburg von Wienn geraist vnundvilhandlungen mie
-den idungrischen Rtn zu Pofingvnnd zu Sandt Georgen gehabt amain
-dleffen tag Juli
-Indien Jar ist das Christenlich hoerin windischen Lande zwischen
-der Tragrind Sawimazug hungers halben in ain fluchekomen groffen
-chadingenomen der oberste Herzt Hans Rhazianer der vilglckhlichervind
+/
+Abermals gen Preßburg von Wienn geraist vnundvilhandlungen mie
+den idungrischen Rätn zu Pofingvnnd zu Sandt. Georgen gehabt amain-
+dleffen tag Juli.
+Indien, Jar ist das Christenlich hoerin windischen Lande zwischen
+der Tragrind Sawimaßzug hungers halben in ain fluchekomen groffen
+chadingenomen der oberste Herzt Hans Rhazianer der vilglückhlichervind
 itterlicher thatn hievo vol8 acht ward der fachen halbenflirgenomengen
-2RhembsDie R CDr bemalchen mir jmeeyfandr ZuthuenJchfragro
-iOert Dans verdcherey oder vntrewbezig wre Woltichjmenit Beyfeen
-Sagt die K Dr deren khains das witfein WOt wol
-1 5 3 8
-Auff der t ungern zusammenkhunfton bewilligung der 2Rh WOe zu
-Schiele dahin ich veroident am Sechzehenden tag Junijwiderkomen am
-swenundzwanzigsten tagAugusti
- 5 3 9 
-In Pollmgeschickht von wegen das RhnigiNans den anfandenie
-offen wartevnind auch mithielte augezogen am zwenwindswainzigistentag
-Augustiwiderkomentan zwainzigistentag Septembis
-In meinem abwesen die Rhi COt mich in der Nidersterreichischen
-Camer zu Presidenten veroident den ersten tag Septembris
- 5 4 o
-Zu den Stadthalterin bungen efcbickht von wegen iHerrn Jeroni
-muffi Lakhy zwayer Dfferhalen Jim Dayo
-WiderintDungern zu dem Stadthalter vmnd Rthn von wegen der
-Doyuodnin Sibenbrgenvnd Peremy Pettershalben verteuckt den achtze
- tag Junijwidergen Wiennkhomen den dreyundzwainzigistentag
-Utl 
-In Polln vnd Littnvnb das nach 2Rhnighanenstadt Brueder
-Georg Dmichvmd Tereckh Vallentdenfridt mithielten am ersten tag Se
-ptembtis augezogen widergehn Wienkhomen am achtundzwanzigisten
-tagOctobris 
-Denselbentag zu der Rhii Ottgen der Neustadt vertuckheyvnd nach
-er 3elung meiner verzichtung wider gehn Wien 
-Bin in die Neustadt zu Rhi De eruordert vnd beyder macht dahin
-Ehomenden dreyzehenden Decembris
-Dafelbfin abgenertigt den vierzehenden tag Decembeis Omnd nach
-Raab zudem OristentSeren Lienhardtn von Vels der Rhanckh was ge
-schickht den Meingehenden tagDecembris widerkhomen
-5 4 
-In die Neustadt ant Doffern oder Salzstaigerung haben den drey
-schenden tag Januari
-Gen Comon zu Herrn Wilhalmen von Rogendoff als Orifm Velde
+2Rhembs/Die Rü: CDr: bemalchen mir jmeßeyfandr Zuthuen/Jchfragroß
+iOert. Dans verdächerey oder vntrewbezigé wäre Woltichjmenit Beyfeen
+Sagt die Kü: Dr: deren khains, das witfein WOt: wol.
+1 5 3 8.
+Auff der t) ungern zusammenkhunfton bewilligung der 2Rhü: WOe: zu
+Schiele dahin ich veroident am Sechzehenden tag Junij/widerkomen am
+swenundzwanzigsten tag-Augusti.
+- 5 3 9- -
+In Pollmgeschickht, von wegen das RhünigiNans den anfandenie
+offen wartevnind auch mithielte außgezogen am zwenwindswainzigistentag
+Augusti/widerkomentan zwainzigistentag Septembis.
+In meinem abwesen die Rhi: COt: mich in der Niderösterreichischen
+Camer zu Presidenten veroident den ersten tag Septembris.
+- 5 4 o.
+Zu den Stadthalterin bungen efcbickht, von wegen iHerrn Jeroni-
+muffi Laßkhy zwayer Döfferhalßen Jim (Dayo.
+WiderintDungern zu dem Stadthalter vmnd Räthn von wegen der
+Doyuodnin Sibenbürgen/vnd Peremy Pettershalben verteuckt den achtze-
+: tag. Junij/widergen. Wiennkhomen den dreyundzwainzigistentag
+Utl. -
+In Polln vnd Littnvnb das nach 2Rhünighanenstadt, Brueder
+Georg Dümich/vmd Tereckh Vallentdenfridt mithielten am ersten tag Se-
+ptembºtis außgezogen widergehn Wienkhomen am achtundzwanzigisten
+tag-Octobris. - - - -
+Denselbentag zu der Rhii: (Ottgen der Neustadt vertuckheyvnd nach
+er 3elung meiner verzichtung wider gehn Wien. - -
+Bin in die Neustadt zu Rhi: De: eruordert vnd beyder macht dahin
+Ehomenden dreyzehenden Decembris.
+Dafelbfin abgenertigt den vierzehenden tag Decembeis "Omnd nach
+Raab zudem OßristentSeren Lienhardtn von Vels der Rhanckh was ge-
+schickht, den Meingehenden tag?Decembris widerkhomen.
+5 4 -
+In die Neustadt ant. Doffern oder Salzstaigerung haben den drey-
+schenden tag Januari.
+Gen Comon zu Herrn Wilhalmen von Rogendoff als Oßrifm Velde-
 hauptman
 
 W
-hamptman der 3aige mir daselfn anfeinmengl vndvngnugfamhait wie er
-auch Ehniend vmberlafiung des ambts gebetten Batte mich solle noch dar
-um 8Bitten Er wollte mir aus dem Veld sonder ainemyeglichen gehorsam
-laistnalla in dem Niclas Jurischitz mit mit dem Ernichts zuthuen woltha
-ben sagt mir desselben vntugendt zu Wiennau geraist am achtundzwain
-zigistentag Februarijwiderkhomen am fibendtntag Dartij
-Oit Graff Niclafen von Salm aus Beuelch der 2Rhii Dt zu dem Tur
-folgen Schinca augeraistamdeyvndzwanzigistentag Aprilis
-In das Veldeleger vnder Ofen im Chonveld vmdauffSandr Got
-hardts Pergfampt dem Rhayserischen OratoriXerin Johann Thomas Pi
-cmsGraff von G Dirandulamit 2KnigiNansenswitwen vnd Kthn auf all
-Erlichevnd leidliche mitlzuhandlen weil der Trckh zwen Waschanumals
-vorher geschickhtvnnderperfondlich hernach zuge Damit Ofen in der Chi
-fenhand bleiben mchte Syhaenvns aber mitfurgclaffenvnnd mithren
-wlenBin augezogen den ersten tagAugusti
+hamptman, der 3aige mir daselºfn anfeinmengl vndvngnugfamhait, wie er
+auch Ehniend vmberlafiung des ambts gebetten Batte mich solle noch dar-
+um 8Bitten / Er wollte mir aus dem Veld, sonder ainemyeglichen gehorsam
+laistn/alla in dem Niclas Jurischitz mit mit dem Ernichts zuthuen woltha-
+ben, sagt mir desselben vntugendt/ zu Wiennauß geraist am achtundzwain-
+zigistentag Februarij/widerkhomen am fibendtntag (Dartij.
+(Oit Graff Niclafen von Salm aus Beuelch der 2Rhii: Dt zu dem Tur-
+folgen. Schinca außgeraistamdeyvndzwanzigistentag Aprilis.
+In das Veldeleger vnder Ofen im Chonveld vmdauffSandr Got-
+hardts Pergfampt dem Rhayserischen Orator/iXerin Johann Thomas Pi-
+cms/Graff von G Dirandula/mit 2KünigiNansenswitwen vnd Käthn auf all
+Erlichevnd leidliche mitlzuhandlen, weil der Türckh zwen Waschanumals
+vorher geschickhtvnnderperfondlich hernach zuge. Damit Ofen in der Chi-
+fenhand bleiben möchte / Syhaßenvns aber mitfurgclaffenvnnd mithören
+wölen/Bin außgezogen den ersten tag-Augusti.
 Dafl8fin nach aller gelegenhaiterfehn wie es lay der hernach ergangen
-Derhalbn den Erlichen trewen vnd frumeniDeren Wilhalmen von Rogen
-doffvnwiffendevnndposhaffte leut die schuld zuemeff3 vnd veractereyvn
-warhaffig bezigen er hat khainposhait begangen ob eraer mit garvolkho
-men ist darum das erain mensch gewest ist darum khain vertter
-2Als der Trckhisch Khaylerbey Ofen ankhumen das Chriftenlich hoer
-erlegt vnd Ofen eingenommen fordert mich der Khnig Beuilht mir zu dem
-Trcken zuziehen gab mir die waal Graff Miclasen von Salm oder Deren
-SDaron Beckh von Leopolddorff Osterreichischen Canzler neben mein
-Zuuerordnen
-Darber zu dem Trckhischen Rhayser in das Legerob Ofen mit Graff
-Niclasen von Salm der dazumal zu Preburg was veroident mich zu
-Schadwienageuertigt amdeyffigistentag Augusti Am sechsten tag Se
-ptembris indes Trckhen Leger Am achtm fr den 2Khayserkho
-menam zwlffin wider aus dem leger am fienzehenden
-in die Neustadt durch groen Sterb geraist
-gehn Grtz wolschwacher kommen an 
-dreyvnd zwaintzigisten 
-tag Septembris
+Derhalbn den Erlichen trewen vnd frumeniDeren Wilhalmen von Rogen-
+doffvnwiffendevnndposhaffte leut die schuld zuemeff3 vnd veractereyvn-
+warhaffig bezigen, er hat khainposhait begangen, ob eraßer mit garvolkho-
+men ist darum das erain mensch gewest ist darum khain vertäter.
+2Als der Türckhisch Khaylerbey Ofen ankhumen das Chriftenlich hoer
+erlegt vnd Ofen eingenommen", fordert mich der Khünig Beuilht mir zu dem
+Türcken zuziehen, gab mir die waal Graff Miclasen von Salm oder Deren
+SDaron Beckh von Leopoldßdorff, Osterreichischen Canzler neben mein
+Zuuerordnen,
+Darüber zu dem Türckhischen Rhayser in das Legerob Ofen mit Graff
+Niclasen von Salm , der dazumal zu Preßburg was veroident / mich zu
+Schadwien.aßgeuertigt amdeyffigistentag Augusti Am sechsten tag Se-
+ptembris indes Türckhen Leger. Am achtm für den 2Khayserkho-
+men/am zwölffin wider aus dem leger am fißenzehenden
+in die Neustadt durch großen Sterb geraist
+gehn Grätz wolschwacher kommen an -
+dreyvnd zwaintzigisten „“
+tag Septembris.
 E in Xhayser
 
- 
+- - -
 RO
-
+§
 d
 5
 O
 d
-ig
-
-mischen Khnigs Orat
-fchen Khay 154 n S
-1 55 9 Seines Alters im lowitz
-mundt Freyher zu Der 8ertain c Gedruckt
+ig-
+-
+ömischen Khünigs Orat
+fchen Khay: 154 n. S.
+1 55 9. Seines Alters im lowitz.
+mundt Freyher zu Der 8ertain c. Gedruckt
 Ker dinandte noch derzeit R
-zu Suleiman dem Trckhi
+zu Suleiman dem Türckhi
 S
-
+("
 ps
 Kha
 
@@ -1993,111 +1993,115 @@ Kha
 
 
 
- 
-
+------- ------ --
+-
 S
-s 
- 
+s- -
+- -
 ber
-SS
+|-SS--|
 SM
-S
+-S
 FFS
- 
- 
- w 
+- - - - - -
+- -
+- - - - - ------ ----------------- -w- --
 Her
 zU
 Khapst
- Fl
+. Fl,
 rvon
-
+-
 W
-U
-SFF
-SummZ
-DS
-r
-so verehrt
+U)
+S§§FF
+Summ/Z
+--------)(DS
+ür
+so verehrt.
 rey
 T
-inGesanter zu dem
+in/Gesanter zu dem
 v
-
-
-
- 
-i
-rs
+-
+-
+-----
+--- -
+---i
+rs---
 r
 m
 EW
-
-
-
- W
-
- f
-A
-
-R
-S
-r 
- rr
-r
-
-
-iM
-
- 
- 
-r 
- 
- 
- 
-
- 
-
-
-
-
-
- 
-FF
+-
+-
+--
+- ---W.
+-----
+- f---
+-A---
+----
+R-
+S--
+r-- ----
+- -rr--
+r„--
+-----
+---
+i--M
+--
+-- -
+- --
+-r-- -
+- -- --
+- ----
+---- -
+-------
+--- --
+-
+---
+---
+---
+--
+--- ----- -
+-F-F
 v
-
-
-
- 
-L
+#
+-
+#
+- -
+L-
 w
-
-
+-
+-
 N
-V
+V-
 Q
-
-
+#-
+(
 dem al
-
+-
 Undt
- 
-
+- - - - - - - - - - - - - - - - - - - -
+-
 fa
- 
-
+- -
+-
 lgIM
 NNNNNNNNNNNNNNNNNNN WWW
-
+-
+-N-
+----SN
 N
-SN
+---W
+-N
+N
 N
 W
 N
-N
-N
-W
-N
+-
+-
+-
+-
 
 
 
@@ -2120,528 +2124,524 @@ N
 
 
 
-
-
-
-
-
- Y 5 4 2
-Gehn Common Futtertians Jacoben Dedices Dargrauen zu Oa
-rignanyangeraist mittleren Orten von Tikhavndideren Blafien2Rhuen
+'-
+- Y 5 4 2.
+Gehn Common Futtertians Jacoben (Dedices (Dargrauen zu Oa-
+rignanyanßgeraist mittleren Orten von Tißkhavndideren Blafien2Rhuen
 Franziska tag wider khomen den aimunddreiffigistentag
-rei
+rei.
 In Dungern zu dem Stadthalter von wegen des Zipserhaus gehn
-Schintta am tag Aprilis g
-Nach Craccaw zu den Rhnigenfampetern Aldamen Carl Secreta
-tien den tagvnd Platz der hochzeit vndbrieffhalben zuuergleichen geschickt
-denanssisten tag Juni widergen Wiennkhomen am deyffigistentag
-julij
-5 4 3
+Schintta am ä tag, Aprilis. g
+Nach Craccaw zu den Rhünigenfampetern Aldamen Carl Secreta-
+tien den tagvnd Platz der hochzeit vndbrieffhalben zuuergleichen geschickt,
+denanssisten tag. Juni, widergen Wiennkhomen am deyffigistentag
+julij.
+5 4 - 3.
 Die Rhinigin Elisabeth in Polln zu jhten gemahl Als Hoffnaiffer
-gefiierr augezogen den aimundswainzigistentag Aprilis wider khomen
-den vierttntag Juni
-In Rheiegsrath veroident am Sibenundzwainzigistentag Junivber
- grosbitt miterlaffenamdey3ehenden tag Juli Zum andermal Genol
-EMI
-1 5 4 4
+gefiierr / außgezogen den aimundswainzigistentag Aprilis / wider khomen
+den vierttntag Juni.
+In Rheiegsrath veroident am Sibenundzwainzigistentag Juni/vber
+: grosbitt miterlaffen/amdey3ehenden tag Juli / Zum andermal Genol-
+EMI,
+1 5 4 4.
 Auf den Landtag zu Wien neben teren Daryn bekhen Cantzler
-vnd Christoffen Plde Witzthomb in Ofterteich Comiffari verordentauf
-den fnftentag Darth
-1 5 4 5
+vnd Christoffen Pölde Witzthomb in Ofterteich Comiffari verordentauf
+den fünftentag Darth.
+1 5 4 5.
 Das heyratguet hundert Tausene Gulden iHungerisch gen Craccaw
-gefiert vnd mit Doctor iBansen Langnaugezelt verrittin den dreyzehen
-den tag Febzuarij
-1 5 4 6
-Aer Comiffari in Lanndtag zu Wien am NeintnDecembris
-5 4 7
-Gehn GuffingeilendtsauffGotschien aus benelh geraist den Neunze
-hemden tag Juni
-1 4 8 
-O Comiffari im Landtag in Ofterteich zu Wien am Sibenden tag
-att 
- 1 5 5 o
-Des Trckhischen Rhayser Pottschafft Dachmut ain Tulmatz zu
-Wienneinvnndwider aus beglaidt Im MDarrio
-Als Rhnig Sigmund Augustus nach absterben Rhnigin Elisabeth
-a in Weiwider des Vatter Onetter seiner Rthevndvnterthonen willen
-genommen darumb vil seiner vnderthonen in manicherlay wegfichvngehol
-imvmd widerwertigerzaigten wiewolfichvil vermuteten die Rm ZRh
-CDr wrde aus Rach seiner liefn tochterhalb wider den Rhnig handln
-vnd Practicirn das Bedacht der Rhnig in Polln des erfich auch Besorgt
-fcbickbt zu dem Rm RhnigBatte als seinen Vattervm Rathroer nie
-Swalt wider dievngehorsame ziehen soll Daneben meldmthet ob Erinder
-wider seit GOay gehandlthetteSo war das mit ausaignen willen sonder
-durch personen die zubenenerpotnverfrt worden Batte vm 8 htung
- arber
+gefiert/ vnd mit Doctor i.Bansen Langnaußgezelt verrittin den dreyzehen-
+den tag Febzuarij.
+1 5 4 6.
+Aßer Comiffari in Lanndtag zu Wien am Neintn?Decembris.
+5 4 7-
+Gehn GuffingeilendtsauffGotschien aus benelh geraist den Neunze-
+hemden tag Juni.
+1 - 4 8. -
+(O Comiffari im Landtag in Ofterteich zu Wien am Sibenden tag
+att. -
+- 1 5 5 o.
+Des Türckhischen Rhayser Pottschafft Dachmut ain Tulmatz zu
+Wienneinvnndwider aus beglaidt. Im MDarrio.
+Als Rhünig Sigmund Augustus nach absterben Rhünigin Elisabeth
+a in Weißwider des Vatter (Onetter, seiner Räthevndvnterthonen willen
+genommen / darumb vil seiner vnderthonen in manicherlay wegfichvngehol-
+imvmd widerwertigerzaigten, wiewolfichvil vermuteten die Röm: ZRhü:
+CDr: würde aus Rach seiner ließfn tochterhalb wider den Rhünig handln
+vnd Practicirn, das Bedacht der Rhünig in Polln des erfich auch Besorgt
+fcbickbt zu dem Röm: Rhünig/Batte als seinen Vattervmß Rathroßer nie
+Swalt wider dievngehorsame ziehen soll. Daneben meldmthet, ob Erinder
+wider seit GOay: gehandlthette/So war das mit ausaignen willen, sonder
+durch personen die zubenenerpotn/verfürt worden. Batte vm 8 htung/
+- arüber
 
- 
-1
-Darber Rhi GOt feinen trewen Rath seien darine erporn sein pot schafft
-zuschickhen Auch die Rhay GOt zu vernigen derselbenpst schafftvmsne
-rer ansehen dahin zu verordnen Dahin Ich vnd Doc vom
-seiner Khi Der gesandt vnd von 2Rheiser Rharlinsenelhanvnsbdtho
-men weil der so daher veroident gewesterkranckht das wir in einer Ray
-GOt namen auch handlmflln als auch zu Petterkhawin gemainerversam
-blung beschebenvnind zu des2Rhnigs in Pollngrossin F gehandltvnnd
-verzicht Sagt der halbngroff danck mitwilerbietensAls man danfahe das
-R2Rhii GLOt mit wider den Rhnig sonder auch der Khayfer mit vndne
-Sendemfluendenhan dievngehorsame zu fundangnadgesuecht Ausgeze
- amainvnd zwainzigitntag Day zu Wiewider ankhomenden sech
-entagAugusti 7 
- Vber die Teif zu hoeren Andreen Bathotjampthoeren Thoman Ma
- jetz0 Grograffint ungern geschickht augezogen am nentntag
-patits 
- Zu dem Rhnig in Pollmgehn Petterkhaw mit Doctoiansen Lan
-go Stefischerhandlung halben verordent dahin kham auch der Bischoff zu
-Prelaw zu Wiemlich verrieten den zwanzigistentag Januari
- Von Petterkhawverzuckhtam vierten Martivnd gen Oppl am achten
-tag wie Isabella mit jhtm vRhnigt Hansens Sun Hans Sigmundenda
-hin erstlichen khomen sein die angesprochen den anderntag wider von dan
-menvnd zu Wien am sechs vndzwanzigisten Darth khomen
-Auff Rh Ot Beuelch gehn Preburg am Hoffderhandlung zube
-richten eruordert 
- Als die Rhi De zu Grtz gewes Regierung vnd Camer zu Voyt
-spergSterbs halben von Wiennverruckht Bin ich zwaymalam 3ebendtn
-vnndaer am fien 3ebenden Decembris an Hofferuordert der maimung zu
-der Rhnigin von Hungern zurayenWeil aber die Commiffarienfo bieuor
-Zu jht geschickht worden wider khamen 
- 3 5 3 
- 2Rhnigin Catharina in Polln zu toffmaister veroidentin Grtz den
-meintntag Aprilis die Rhinig in dem 2Rhnig versprochen zu Wiennam
-fnffundzwainzigistentag Juni von Wien geraist nach Polln den drey
-Zehenden tag Zu Craccarvankhumen am Meinundzwanzigisten die
-Rhinigin gekhntamdeyfigistentag der Beyschlaff am 
-gisten Juli widerauspoln Smenandreyundzwanzigsten tagAugusti
- 1 5 5 6 
-ZRhnigin Bona aus Polln gehn Wiennkhomen derselben Heyrat ich
-hieust gehandlt Jerzo wider durch Wienn in das Wlisch Lande gezogen
-Bin ich jh da alsain Bekandter zudienenveroident worden Ist zu Wienn
-verzuckht den letzten tag Februari 
- Solche raisenhas ich zum thailingroffer hitz in Wlischen Landen
-COit groffer geferlichkhaitam NOoer Auch beschwrlichekelten durchlittn
-vnd Dosqua Ingroffen Sterzuvnd vom Trckhischen Khayserver
-richt geschweigen durch das Teutsche Lannd der Reyttereybalen doch im
-allen klationen alle freinde schafftvnndgueten willen Befunden Die vbrige
-tag in meinem dienferewlichenvndvleifig verzichtGott dem Herteney
-Lob vnd danckh F Wir
+-- -
+1-
+Darüber Rhi GOt: feinen trewen Rath seien darine erporn sein pot schafft
+zuschickhen. Auch die Rhay: GOt: zu vernigen derselbenpst schafftvmsne-
+rer ansehen dahin zu verordnen. Dahin. Ich vnd Doc ' '' vom
+seiner Khi: Der gesandt vnd von 2Rheiser Rharlinsenelhanvnsbädtho-
+men (weil der so daher veroident gewesterkranckht) das wir in einer Ray:
+GOt: namen auch handlmfölln als auch zu Petterkhawin gemainerversam-
+blung bescheben/vnind zu des2Rhünigs in Pollngrossin F" gehandltvnnd
+verzicht. Sagt der halbngroff danck mitwilerbietens/Als man danfahe das
+Rö:2Rhii: GLOt: mit wider den Rhünig, sonder auch der Khayfer mit vndne-
+Sendemfluendenhaßn: dievngehorsame zu fundangnadgesuecht. Ausgeze-
+#" amainvnd zwainzigitntag Day zu Wieñwider ankhomenden sech-
+entag-Augusti. - - - - - - - - - - - - - - - - - - - - - - - -7 .
+- Vber die Teif zu hoeren Andreen Bathotjampthoeren Thoman Ma-
+'' jetz0 Großgraffint ungern geschickht außgezogen am neüntntag
+patits- - - - - - - " -- . . . . - - -
+„. . Zu dem Rhünig in Pollmgehn Petterkhaw mit Doctoiansen Lan-
+go Stefischerhandlung halben verordent/ dahin kham auch der Bischoff zu
+Preßlaw zu Wiemlich verrieten den zwanzigistentag Januari.
+… Von Petterkhawverzuckhtam vierten Marti/vnd gen Oppl am achten
+tag wie Isabella mit jhtm vñRhünigt Hansens Sun Hans Sigmundenda-
+hin erstlichen khomen sein, die angesprochen den anderntag wider von dan-
+men/vnd zu Wien am sechs vndzwanzigisten Darth khomen.
+Auff Rhü: (Ot: Beuelch gehn Preßburg am Hoffderhandlung zube-
+richten eruordert. - – – – – –
+- Als die Rhi: De: zu Grätz gewes, Regierung vnd Camer zu Voyt-
+sperg/Sterbs halben von Wiennverruckht. Bin ich zwaymalam 3ebendtn/
+vnndaßer am fißen 3ebenden Decembris an Hofferuordert - der maimung zu
+der Rhünigin von Hungern zurayen/Weil aber die Commiffarienfo bieuor
+Zu jht geschickht worden wider khamen. - " :
+- - „3 5. 3. … - - - - - -
+. . 2Rhünigin Catharina in Polln zu toffmaister veroidentin Grätz den
+meintntag Aprilis, die Rhinig in dem 2Rhünig versprochen zu Wiennam
+fünffundzwainzigistentag Juni, von Wien geraist nach Polln den drey-
+Zehenden tag ' Zu Craccarvankhumen am Meinundzwanzigisten die
+Rhinigin gekhöntamdeyfigistentag der Beyschlaff/ am '' -
+gisten Juli widerauspoln Smenandreyundzwanzigsten tag-Augusti.
+- , - - 1. - 5 . 5 6 - . . . - - - * - -
+ZRhünigin Bona aus Polln gehn Wiennkhomen derselben Heyrat ich
+hieust gehandlt, Jerzo wider durch Wienn in das Wälisch Lande gezogen
+Bin ich jh da alsain Bekandter zudienenveroident worden. Ist zu Wienn
+verzuckht den letzten tag Februari. . . - – - -
+- Solche raisenhas ich zum thailingroffer hitz in Wälischen Landen
+COit groffer geferlichkhaitam (NOoer. Auch beschwärlichekelten durchlittn/
+vnd Dosqua, Ingroffen. Sterzuvnd vom Türckhischen Khayserver-
+richt geschweigen durch das Teutsche Lannd der Reyttereybalßen, doch im
+allen klationen alle freinde schafftvnndgueten willen Befunden. Die vbrige
+tag in meinem dienferewlichenvndvleifig verzicht/Gott dem Herteney
+Lob vnd danckh. - F. Wir
 
-IRFerdinand von Gottes genaden Rmischer Kai
-mig zu allen Zeiten merer des Reichs in Germanien zu Hun
-gern BehainDalmatien Croatien vnd Slamonien achnig Infinne
-in DispanienErzherzog zu OsterreichOerzogsu Burgundi zu Brabant
-zu Steyr zu Rhrntnisn Crain zu Lutzenburg zu Wirtenberg Ober vnd
-nider Schlesien Frst zu Schwaen Darggraue des heiligen Rmischen
-Reichs zu OrhernObervndnider Lausitz gefrster Grane zu
-iPaspurg zu Tirol zu Pferdezn Kbiburg vnd zu Gtztc Lamdtgraue
-in Elsaster auffder Windischen Darch3n Poetenawvnd 3n Salintc
-Bekhennen offenlich mit disem Stiefvndthuenkhunde allermenigclich Das
-wir genediglich angesehen wargenomen vnd betracht haben die Erliche an
-fehcnlicbentzliche getrewevnndvleifgedienst So der Edlvnser lieber ge
-trewer Sigmundt von tleriertain Freyhervnfer Rath weilend vnfermlie
-bentDeren vnd Anhecn Rhayser Davimilian lblicber gedchenns Der
-gleichen der jetzigen Rmischen Rhay QDr vnfern lieben Bueder vnnd
-iHertnvns vndvnsern Llichen Haus Ofterteich gehoesamlich vmnd mit Be
-ften trewenerzaige vnd bewifen vnd fr niemlich das erficherflichen Beyer
-meltem Rhayser Davimilian in den veldezgen fojht Ahay Otinium
-gerndergleichen auch gegen den Venedigerngethan jederzeit Eierlich Rit
-erlich vnd wolgehalten7 Auch sich von ihrer Rbay KOt als derselben Hof
-rath vnddienerin ansehelichen Legationen vnd Pott schafften Zu den Khi
-nigen von toungern DenmarckhtPolln auch den in der GOos
-qua auch zu andern Churfrfen vnnd Frften des Heiligen R
+IRFerdinand von Gottes genaden Römischer Kai-
+mig zu allen Zeiten merer des Reichs in Germanien zu Hun-
+gern Behain/Dalmatien Croatien vnd Slamonien acÄhünig Infinne
+in Dispanien/Erzherzog zu Osterreich/Oerzogsu Burgundi zu Brabant
+zu Steyr zu Rhärntnisn: Crain zu Lutzenburg zu Wirtenberg, Ober vnd
+nider Schlesien. Fürst zu Schwaßen. Darggraue des heiligen Römischen
+Reichs zu ' (Oärhern/Obervndnider Lausitz gefürster Grane zu
+iPaßspurg zu Tirol zu Pferdezn Kbiburg/ vnd zu Götz/tc. Lamdtgraue
+in Elsaster auffder Windischen Darch/3n Poetenawvnd 3n Salinß/tc.
+Bekhennen offenlich mit disem Stiefvndthuenkhunde allermenigclich. Das
+wir genediglich angesehen wargenomen vnd betracht haben die Erliche an-
+fehcnlicbenützliche getrewevnndvleifgedienst. So der Edlvnser lieber ge-
+trewer Sigmundt von tºleriertain Freyhervnfer Rath weilend vnfermlie-
+bentDeren vnd Anhecn Rhayser (Davimilian löblicber gedächenns. Der-
+gleichen der jetzigen Römischen Rhay: QDr: vnfern lieben Bueder vnnd
+iHertnvns vndvnsern Lößlichen Haus Ofterteich gehoesamlich vmnd mit Be-
+ften trewenerzaige vnd bewifen vnd für niemlich das erficherflichen Beyer-
+meltem Rhayser Davimilian in den veldezügen fojht Ahay: Otinium-
+gerndergleichen auch gegen den Venedigerngethan, jederzeit Eierlich / Rit-
+erlich vnd wolgehalten,7 Auch sich von ihrer Rbay: KOt: als derselben Hof
+rath vnddienerin ansehelichen Legationen vnd Pott schafften. Zu den Khi-
+nigen von toungern Denmarckht/Polln auch den “ in der GOos
+qua/ '' auch zu andern Churfürfen vnnd Fürften des Heiligen Rö-
 mischen Reichs vnd in die Aidgnoffchafft auch anderer Ort vnd volgendts
-nach absterben vners lieben Anher ins AKhayser Davimilians neben andern
-vnserer Nidersterreichischen Landegesandten von ainer Ersamen Lannde
-fcbafftvners Frstenrhums Steyr zu obgemeltemvnfern lieen Bruedern
-vnndideren Rhayser Carln in Legation wei auch guetwilligclich schickhen
-vnd gebrauchen laffen damaln Erdan neben andern sein Rais auf Venedig
-RomNeapolisvolgendesvber GOder da Erdan nicht mit kleiner geferlich
-khaitleisvnndleens durch vmgestenig khnitt des Oers auffSardinia
-QDaioticavnnd Jbiza gewoeffenvnd von danneniniMispanien ankhomen
-Machmals wie wir vns vnserer Osterreichischen Lanndt Regierung vnder
-fangen vnd angenommen fich invnferdienst anvnfernt Doff begeben wendmie
-wnsvilanehelich Raisen in die WiderlandtBrabant vnnd Flandern Zu
-Dochgemelter Rhay Ot vmnd sonstvoltachevnd nachgeends fichvns zu
-vnderthnigem gefallen invnern Niedersterreichischen Lannden als vnfer
+nach absterben vners lieben Anher ins AKhayser (Davimilians neben andern
+vnserer Niderösterreichischen Landegesandten von ainer Ersamen Lannde-
+fcbafftvners Fürstenrhums Steyr zu obgemeltemvnfern ließen Bruedern
+vnndideren Rhayser Carln in Legation weiß auch guetwilligclich schickhen
+vnd gebrauchen laffen damaln Erdan neben andern sein Rais auf Venedig,
+Rom/Neapolis/volgendesvber GOder da. Erdan nicht mit kleiner geferlich-
+khaitleißsvnndleßens durch vmgestüenig khnitt des Oöers auffSardinia
+QDaiotica/vnnd Jbiza gewoeffen/vnd von dannenini-Mispanien ankhomen
+Machmals wie wir vns vnserer Osterreichischen Lanndt Regierung vnder-
+fangen vnd angenommen, fich invnferdienst anvnfernt. Doff begeben, wendmie
+wnsvilanehelich Raisen in die Widerlandt/Brabant / vnnd Flandern. Zu
+Dochgemelter Rhay: Ot: vmnd sonstvolßtachevnd nachgeends fichvns zu
+vnderthänigem gefallen invnern Niederösterreichischen Lannden als vnfer
 Rathbeyvnfer Regierung vnnd Camerdaselbs in vnfernhoch wichtigen vnd
-erefflichenfachen gehofamlich gebrauchen laffen auch hie zwischen anseheli
-cher vnd Legationen zu den Rhnigen intDungernBehaimPollny
-Litten Dosquat auch Churfrsten vnd Frsten des Reichs vndfirmemlich
-jngstlich im mechfuergangen aimunduierzigisten Jar Zu dem Trckhi
-fchen 2Rhayser Soleyman nach dem laidigen abzug vners Christlichen
-ZRhziegfvolkhs wie der Tirckh den Rhinig clichen Stuel Schlowind
-Stadt Ofen eingenommen an allen scheuch vorsteender gefahligkhaitgeholz
-famlich vndguetwilligclich vollzogen vnd volnacht hat vnnd noch tgliches
-chner Ond derhaben in betrachtung solcher langwierigen ften vnd getren
-wendienste So gemelter von Derberstainobangeregter mir
- P 3C
- 2
+erefflichenfachen gehofamlich gebrauchen laffen auch hie zwischen anseheli-
+cher # vnd Legationen zu den Rhünigen intDungern/Behaim/Pollny
+Litten (Dosquat auch Churfürsten vnd Fürsten des Reichs vndfirmemlich
+jüngstlich im mechfuergangen aimunduierzigisten Jar Zu dem Türckhi-
+fchen 2Rhayser Soleyman - nach dem laidigen abzug vners Christlichen
+ZRhziegfvolkhs, wie der Tirckh den Rhinig clichen Stuel/ Schloßwind
+Stadt Ofen eingenommen, an allen scheuch vorsteender gefahligkhaitgeholz-
+famlich vndguetwilligclich vollzogen vnd volßnacht hat, vnnd noch tägliches
+chner Ond derhaben in betrachtung solcher langwierigen fäten vnd getren-
+wendienste. So gemelter von Derberstainobangeregter mir:
+- - - &P 3C-
+- 2.
 
 
-
-
-erm lieben Anhern Rhayser Davimilian Dergleichen der jetzigen Rhay
-GOEvnsvndvnferm Daus Ofterreich von jugent auf ansehelichmuglich vnd
-mitgetrewen emfigenvleigethan vnund in solchen vnfernvndvnferstNaus
-Osterzeichsdiensten zu seinen erlebten tagen kommen vnd dermaendarinner
-altet das er von wegen seiner mihe arbaitvnnd schwern Raisendermaen
-niedworden das er sich feiner gedechtmusgeschichtsvnd gehts zu mermaln
-vor vnner beclage Daen wir gemeltm Sigmunden von Herberstain
-Freyhern als vnserm woluerdienten alten Rathvnnddiener genedigclich Be
-willigt zugesagt vnd versprochen Das wirjnemun hinfiiro sukainen Veld
+-
+-
+erm lieben Anhern Rhayser (Davimilian Dergleichen der jetzigen Rhay:
+GOE:/vnsvndvnferm Daus Ofterreich von jugent auf ansehelichmuglich vnd
+mitgetrewen emfigenvleißgethan / vnund in solchen vnfernvndvnferstNaus
+Osterzeichsdiensten zu seinen erlebten tagen kommen vnd dermaßendarinner-
+altet, das er von wegen seiner mihe arbaitvnnd schwern Raisendermaßen
+niedworden, das er sich feiner gedechtmusgeschichtsvnd gehöts zu mermaln
+vor vnner beclage / Daßen wir gemeltm Sigmunden von Herberstain
+Freyhern als vnserm woluerdienten alten Rathvnnddiener genedigclich Be-
+willigt zugesagt vnd versprochen. "Das wirjnemun hinfiiro sukainen Veld-
 zug noch ainichen weiten vnd schwern Raifengebrauchen sollen noch wollen
-auch jme daneben die besondergnadgerhanvnnd Freyhait gegeben Thuen
-auch solchshiemit wissentlich in Trafft die Stieffs das er nun hinfro weder
-von vns noch jemand anderumitainichen Beschwrlicheu ambtern als vollzie
-hung der gescheff vnd letzten willen Gerhabschaffen vnd dergleichenfachen
-beschwert noch bedangt werden soll Sondervon solchen beschwerden geng
-lichen enthebt vnd Ewempfin vnd wir solln vnd wllenvns nun hinfro
-anfinendiensten das er vns als vnfer Rathbeyvnser Nidersterreichischen
-Camerdienegenediglich Benuegenlaffen Vndgebieten darauffallen vndje
+auch jme daneben die besondergnadgerhanvnnd Freyhait gegeben, Thuen
+auch solchshiemit wissentlich in Trafft die Stieffs, das er nun hinfüro weder
+von vns noch jemand anderumit.ainichen Beschwärlicheu ambtern als vollzie-
+hung der gescheff vnd letzten willen, Gerhabschaffen, vnd dergleichenfachen
+beschwert noch bedangt werden soll. Sondervon solchen beschwerden geng-
+lichen enthebt vnd Ewempfin/ vnd wir solln vnd wöllenvns nun hinfüro
+anfinendiensten, das er vns als vnfer Rath/beyvnser Niderösterreichischen
+Camerdienegenediglich Benuegenlaffen Vndgebieten darauffallen vndje-
 denvnseren vnderthanen vnd getrewen Geistlichen vnd Weltlichen in waa
 wie den Stande oder weisen die fein Ernstlich vndveftigclich mit diem Brief
-vnd wllen das Sygemelten von Herberstainbey diservnfer begnadung vnd
-Eyemption beruelich bleiben laffen Jne darwider nicht dringen noch Be
-schwern noch desjemandts andern zeichnen gestatten in khain wei Alslieb
-atinem jedenfeyvner schwrevngnadvnd Straffzuuermeiden Das mainen
-wir Ernstlich Die vekhunde die brieffsbefigelt mit vnserm ZRhniglichen
-anhangenden Infigel Dergeben ist in vner Stadt Wiefi den Sechzehen
-den des WDonats Jimmi Mach Christivnsersliebenter angeburt Taufene
-der viiim zwayunduierzigisten Vnserer Reiche des Rmischen in
-zwlffentvider andern im Sechzehenden Jahren
-ferdinand
-Admandatum Domi
+vnd wöllen das Sygemelten von Herberstainbey diservnfer begnadung vnd
+Eyemption berueßlich bleiben laffen . Jne darwider nicht dringen noch Be-
+schwern noch desjemandts andern zeichnen gestatten in khain weiß Alslieb
+atinem jedenfeyvner schwärevngnadvnd Straffzuuermeiden. Das mainen
+wir Ernstlich. Die vekhunde die brieffsbefigelt mit vnserm ZRhüniglichen
+anhangenden Infigel Dergeben ist in vner Stadt Wiefi den Sechzehen-
+den des WDonats Jimmi Mach Christivnsersliebenter angeburt / Taufene
+der viiim zwayunduierzigisten Vnserer Reiche des Römischen in
+zwölffentvider andern im Sechzehenden Jahren.
+(ferdinand
+Admandatum Domi-
 niRegisproprium
-Gienger D
-
-H Weiperg
-
- 
-
- 
- 
-
-
-
- 
- 
-
-
-
- 
-
-
-
-
-
- 
-
- 
-
-A 
-
-
-
-
- 
- 
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-V 
- 
- 
-
-
-
-
-
- 
- 
- 
- 
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
- 
-
-
- 
- 
-
- 
- 
-
- 
-
- 
- 
- 
-
-
-
- 
- 
-A 
-
- 
-
-
- 
- 
-
-
-
-
- 
-
- 
-
-
- 
-
- 
- 
-
-
-
-
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
+Gienger D.
+'
+H. Weißperg
+
+- -
+-
+- - -
+- -
+-
+-
+---
+- - -
+- -
+-
+-
+-
+- - -
+-
+-
+-
+-
+-
+- - - - * -
+-
+- -
+-
+A . . . .
+-
+-
+-
+-
+- -
+- - -
+-
+-
+- - -
+-
+-
+-
+-
+. - -
+-
+-
+-
+-
+-
+V - - -
+- -
+- -
+-
+-
+-
+-
+-
+- -
+- -
+- - - -
+- -
+- - - - -
+-
+- -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - -
+-
+- -
+-
+- -
+-
+- - -
+- -
+-
+-
+- -
+- - -
+-
+- -
+- -
+-
+- -
+-
+- - - - -
+- -
+- -
+-
+-
+-
+- -
+- -
+A - -
+-
+- - -
+-
+-
+- - - -
+- -
+-
+-
+-
+-
+- - -
+-
+- -
+-
+-
+- -
+-
+- - - -
+- - -
+-
+-
+-
+-
+- - -
+-
+- -
+-
+- - - -
+- - - - -
+- -
+- -
+- - - - -
+- - -
+- -
+-
+- - - - - - - - -
+- - -
+- - - - - - - - -
+-
+- -
 1
- 
- 
+- - - - -
+- -
+-
+- - - - - - -
+- - - - - - -
+-
+- - -
+- -
+-
+-
+-
+-
+-
+-
+- -
+- -
+-
+-
+W -
+- - - - ------- -- - -
+- - - -
+-
+-
+-
+- -
+-
+-
+-
+". -
+-
+-
+-
+- - -
+-
+- -
+-
+-
+-
+-------- ------- -- - -
+-
+- - - -
+- - - - - -
+- - -
+- - - - -
+- - - - - - -
+-
+- - - - -
+--------
+-
+-
+- - - - - -
+- -
+- - „" -
+- - - - - -
+- - - - -
+-
+-
+- - - - *- -
+- - - - - - - - -
+-
+- - - - - -
+-
+- - - - - - - - -
+- - -
+- - - - - - - -
+- - -
+- - -
+- -
+- - -
+- - - - - -
+- -
+- -
+- - -
+- - - - - - -
+- - --- - -
+-
+- - - - - - - --
+- - - -
+-
+-
+- - - - - - - - - - -
+- - - - - - -
+- - - - - *. - - -
+- - - -
+-
+- - - - - - - - - - - -
+-
+- -
+- - - -
+- - - - -
+- - - -
+- - - - - - - -
+- -
+- - - - - - - - - -
+- - - " - - -
+- - - -
+-
+--- - -
+- - - - ", -
+- - -
+- - -
+- - - - -
+- -
+- - - - -
+* - - - - - -
+- - - - -
+- - - - - r- - - - - - -
+- - - -
+- -
+- - - - - -
+- - - - - - -
+- - - -
+-
+- - - - - - - - - - -
+-
+- - - - - - - - - -
+- - -
+- - - - -
+- - - - - -
+- -
+- - -
+- - - - -
+- - - - -
+- - -
+- -
+- - -
+- - -
+- -
+- - - -
+- -
+- - -
+- -
+-
+- - - - - -
+-
+- - -
+-
+- - - -
+. . - - -
+- - - - - -
+- - - -
+- - - -
+- - - -
+" - - -
+- -
+- - - - - - - - -
+- - - - - - - - - - R
+-
+-
+-
+- -
+- - - - - - - - -
+- -
+-
+- -
+- -
+- - - - - - -
+- -
+- - - - - - - - - - -
+- -
+-
+- - - -
+- - - - r-
+- - - - - -
+- - - - - , - - -
+- - - A
+- - - - - - -
+- -
+-
+- - - - --
 
- 
- 
-
- 
- 
-
-
-
-
-
-
- 
- 
-
-
-W 
- 
- 
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
- 
-
-
-
- 
-
- 
- 
- 
- 
- 
-
- 
-
-
-
- 
- 
- 
- 
- 
-
-
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- r 
- 
- 
- 
- 
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- R
-
-
-
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
-
- 
- r
- 
- 
- A
- 
- 
-
- 
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-sterre
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+Österre
 che Nationalbibliothek
 FFF
-Z158700100 
+-Z158700100 ·
 
 
 
@@ -2650,9 +2650,9 @@ Z158700100
 
 
 
-
- status code 404
- message The requested resource was not found Either the id or the page on this id doesnt exist
-
-sterreichische Nationalbibliothek
+{
+ "status code" : 404,
+ "message" : "The requested resource was not found. Either the id or the page on this id doesn't exist."
+}
+Österreichische Nationalbibliothek
 Tr

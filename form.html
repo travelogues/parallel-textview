@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Compare Barcodes</title>
+    <style>
+      html, body {
+        font-family:Arial, Helvetica, sans-serif;
+      }
+      
+      form div {
+        padding:5px;
+      }
+
+      form input {
+        margin-left:5px;
+      }
+    </style>
+    <script>
+      window.onload = function() {
+        var form = document.getElementById('barcode_form');
+        
+        form.addEventListener('submit', function(evt) {
+          evt.preventDefault();
+          
+          var barcodeA = document.getElementById('barcode_a').value.trim();
+          var barcodeB = document.getElementById('barcode_b').value.trim();
+
+          window.location = '/#' + barcodeA + ',' + barcodeB;
+        });
+      }
+    </script>
+  </head>
+
+  <body>
+    <form id="barcode_form">
+      <div>
+        <label for="barcode_a">Barcode A</label>
+        <input id="barcode_a" type="text">
+      </div>
+
+      <div>
+        <label for="barcode_a">Barcode B</label>
+        <input id="barcode_b" type="text">
+      </div>
+
+      <div>
+        <input type="submit" value="SUBMIT" />
+      </div>
+    </form>
+  </body>
+</html>

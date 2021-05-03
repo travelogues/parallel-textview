@@ -166,7 +166,6 @@
         numPassages = annotations.length;
 
         for (let el of document.getElementsByClassName('num-aligned')) {
-          console.log(el);
           el.textContent = annotations.length;
         }
       }
@@ -199,14 +198,33 @@
           var colRight = document.getElementById('column-right');
           colRight.textContent = texts[1].trim();
 
-          fetch('data/' + BARCODE_A + '_' + BARCODE_B + '.json')
-            .then(function(response) { return response.json(); })
-            .then(function(passages) {
-              var annotations = parseAlignedPassages(passages);
-              initRecogito(colLeft, annotations.left);
-              initRecogito(colRight, annotations.right);
+          var doFetch = function(barcodeA, barcodeB, reversed) {
+            return fetch('data/' + barcodeA + '_' + barcodeB + '.json')
+              .then(function(response) {
+                if (response.status === 404)
+                  throw 'Not Found';
+                else 
+                  return response.json(); 
+              })
+              .then(function(passages) {
+                var annotations = parseAlignedPassages(passages);
+
+                if (reversed) {
+                  initRecogito(colRight, annotations.left);
+                  initRecogito(colLeft, annotations.right);
+                } else {
+                  initRecogito(colLeft, annotations.left);
+                  initRecogito(colRight, annotations.right);
+                }
+              });
+          }    
+          
+          doFetch(BARCODE_A, BARCODE_B)
+            .catch(function(error) {
+              // Try again with barcode order reversed
+              doFetch(BARCODE_B, BARCODE_A, true);
             });
-          });        
+        });
 
         document.getElementById('next-passage').addEventListener('click', onNext);
         document.getElementById('prev-passage').addEventListener('click', onPrev);
